@@ -1,6 +1,13 @@
 const fs = require('fs')
-const Path = require('path');
-const sharp = require('sharp');
+const Path = require('path')
+const sharp = require('sharp')
+
+const path = {
+    photosDir: './photos',
+    thumbsDir: './thumbs',
+    carouselsDir: './carousels',
+    productsFile: './produits.json'
+}
 
 const resizeTo = {
     thumbs: {
@@ -13,33 +20,9 @@ const resizeTo = {
     }
 }
 
-function getExistentPaths() {
-    const checkPaths = (paths) => Object.values(paths).forEach(path => {
-        if (!fs.existsSync(path)) {
-            throw `Non-existent ${path}`
-        }
-    })
-
-    const path = {
-        photos: './photos',
-        thumbs: './thumbs',
-        carousels: './carousels',
-        productsFile: './produits.json'
-    }
-
-    checkPaths(path)
-
-    return path
-}
-
-function deleteFiles(directoryPath) {
-    if (fs.existsSync(directoryPath)) {
-        fs.readdirSync(directoryPath).forEach((file, index) => {
-            const curPath = Path.join(directoryPath, file)
-            if (fs.lstatSync(curPath).isFile()) {
-                fs.unlinkSync(curPath)
-            }
-        })
+function checkPath(path) {
+    if (!fs.existsSync(path)) {
+        throw `Non-existent ${path}`
     }
 }
 
@@ -54,27 +37,40 @@ function convert(path, resizeTo) {
         });
 }
 
-const path = getExistentPaths()
+function initDirectory(path) {
+    try {
+        fs.rmdirSync(path, {
+            recursive: true
+        });
+    } catch (err) {}
+
+    fs.mkdirSync(path, {
+        recursive: true
+    })
+}
+
+checkPath(path.productsFile)
+checkPath(path.photosDir)
 
 const productsFile = fs.readFileSync(path.productsFile)
 const products = JSON.parse(productsFile)
 const allPhotos = products.map(products => products.photos).filter(photos => photos.length)
 
-deleteFiles(path.thumbs)
-deleteFiles(path.carousels)
+initDirectory(path.thumbsDir)
+initDirectory(path.carouselsDir)
 
 allPhotos.forEach((productPhotos) => {
     productPhotos.forEach((photo, index) => {
-        const source = Path.join(path.photos, photo)
+        const source = Path.join(path.photosDir, photo)
         const carouselPath = {
                 source: source,
-                target: Path.join(path.carousels, photo)
+                target: Path.join(path.carouselsDir, photo)
             }
             // creates thumbs
         if (index === 0) {
             const thumbPaths = {
                 source: source,
-                target: Path.join(path.thumbs, photo)
+                target: Path.join(path.thumbsDir, photo)
             }
             convert(thumbPaths, resizeTo.thumbs)
         }
