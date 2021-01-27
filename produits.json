@@ -773,7 +773,7 @@
         },
         "prix": 98.00,
         "poids": 0.4,
-        "stock": 0,
+        "stock": 1,
         "photos": [
             "hohin_31-a.jpg",
             "hohin_31-b.jpg",
@@ -796,7 +796,7 @@
         },
         "prix": 104.00,
         "poids": 0.4,
-        "stock": 1,
+        "stock": 0,
         "photos": [
             "hohin_32-a.jpg",
             "hohin_32-b.jpg",
