@@ -34,14 +34,14 @@ function convert(path, resizeTo) {
                 console.log('error', `${error.message} - file: ${path.source}`)
             }
             console.log('optimize:', path.target)
-        });
+        })
 }
 
 function initDirectory(path) {
     try {
         fs.rmdirSync(path, {
             recursive: true
-        });
+        })
     } catch (err) {}
 
     fs.mkdirSync(path, {
