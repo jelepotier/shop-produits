@@ -828,6 +828,75 @@
         ]
     },
     {
+        "id": "sh35",
+        "titre": {
+            "en": "Shiboridashi 2.4oz",
+            "fr": "Shiboridashi 7cl"
+        },
+        "modification": "2021-02-06",
+        "création": "2021-02-06",
+        "catégorie": "Shiboridashi",
+        "description": {
+            "en": "Unique piece. Glazed Shiboridashi of 2.4oz. Weight 7oz",
+            "fr": "Pièce unique. Shiboridashi de 7cl émaillé. Poids 200g."
+        },
+        "prix": 76.00,
+        "poids": 0.4,
+        "stock": 1,
+        "photos": [
+            "shiboridashi-01.jpg",
+            "shiboridashi-02.jpg",
+            "shiboridashi-03.jpg",
+            "shiboridashi-04.jpg"
+        ]
+    },
+    {
+        "id": "sh36",
+        "titre": {
+            "en": "Shiboridashi 2.5oz",
+            "fr": "Shiboridashi 7,5cl"
+        },
+        "modification": "2021-02-06",
+        "création": "2021-02-06",
+        "catégorie": "Shiboridashi",
+        "description": {
+            "en": "Unique piece. Glazed Shiboridashi of 2.5oz. Weight 7oz",
+            "fr": "Pièce unique. Shiboridashi de 7,5cl émaillé. Poids 200g."
+        },
+        "prix": 76.00,
+        "poids": 0.4,
+        "stock": 1,
+        "photos": [
+            "shiboridashi-05.jpg",
+            "shiboridashi-06.jpg",
+            "shiboridashi-07.jpg",
+            "shiboridashi-08.jpg"
+        ]
+    },
+    {
+        "id": "sh37",
+        "titre": {
+            "en": "Shiboridashi 4.2oz",
+            "fr": "Shiboridashi 12,5cl"
+        },
+        "modification": "2020-11-21",
+        "création": "2020-11-14",
+        "catégorie": "Shiboridashi",
+        "description": {
+            "en": "Glazed shiboridashi of 4.2.oz. The design of this shiboridashi allows to regulate the speed of the pouring by moving the lid forward or backward. This makes it a fairly versatile piece. Weight: 10.6.oz.",
+            "fr": "Shiboridashi de 12,5cl émaillé. La conception de ce shiboridashi permet de réguler la vitesse de la verse en avançant ou reculant le couvercle. Cela en fait une pièce assez polyvalente. Poids : 300g."
+        },
+        "prix": 76.00,
+        "poids": 0.4,
+        "stock": 1,
+        "photos": [
+            "shiboridashi-09.jpg",
+            "shiboridashi-10.jpg",
+            "shiboridashi-11.jpg",
+            "shiboridashi-12.jpg"
+        ]
+    },
+    {
         "id": "h29",
         "titre": {
             "en": "Hohin 3.4oz",
