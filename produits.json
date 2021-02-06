@@ -1071,7 +1071,7 @@
         },
         "prix": 25.00,
         "poids": 0.4,
-        "stock": 20,
+        "stock": 18,
         "photos": [
             "set-gongfu_1-a.jpg",
             "set-gongfu_1-b.jpg",
@@ -1173,7 +1173,7 @@
         },
         "prix": 20.00,
         "poids": 0.25,
-        "stock": 2,
+        "stock": 0,
         "photos": [
             "bol_6-a.jpg",
             "bol_6-b.jpg",
@@ -1195,7 +1195,7 @@
         },
         "prix": 14.00,
         "poids": 0.25,
-        "stock": 2,
+        "stock": 0,
         "photos": [
             "bol_7-a.jpg",
             "bol_7-b.jpg",
