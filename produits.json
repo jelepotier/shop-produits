@@ -1079,7 +1079,7 @@
         },
         "prix": 30.00,
         "poids": 0.25,
-        "stock": 0,
+        "stock": 1,
         "photos": [
             "verseuse-09.jpg",
             "verseuse-10.jpg",
