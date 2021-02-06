@@ -621,6 +621,52 @@
         ]
     },
     {
+        "id": "k25",
+        "titre": {
+            "en": "Kyusu 4oz",
+            "fr": "Kyusu 12cl"
+        },
+        "modification": "2021-02-06",
+        "création": "2021-02-06",
+        "catégorie": "Kyusu",
+        "description": {
+            "en": "Unique piece. Kyusu for right-handed person of 4oz. This kyusu is made of Moutiers stoneware (Burgundy - France), a very hard clay. Its filter is quite large, and is composed of fine holes for brewing Japanese green teas.",
+            "fr": "Pièce unique. Kyusu pour droitier de 12cl. Ce kyusu est fabriqué en grès de Moutiers (Bourgogne - France), une terre très dure. Son filtre assez large, est composé de trous fins pour infuser des thés verts japonais."
+        },
+        "prix": 136.00,
+        "poids": 0.2,
+        "stock": 1,
+        "photos": [
+            "kyusu-40.jpg",
+            "kyusu-41.jpg",
+            "kyusu-42.jpg",
+            "kyusu-43.jpg"
+        ]
+    },
+    {
+        "id": "k26",
+        "titre": {
+            "en": "Kyusu 6.4oz",
+            "fr": "Kyusu 19cl"
+        },
+        "modification": "2020-11-21",
+        "création": "2020-11-14",
+        "catégorie": "Kyusu",
+        "description": {
+            "en": "Unique piece. Glazed Kyusu, for right-hander, 6.4oz. This kyusu is glazed inside and outside. Its filter is large enough, with fine holes for brewing Japanese green teas.",
+            "fr": "Pièce unique. Kyusu émaillé, pour droitier de 19cl. Ce kyusu est émaillé intérieur et extérieur. Son filtre assez large, est composé de trous fins pour permettre l'infusion des thés verts japonais."
+        },
+        "prix": 142.00,
+        "poids": 0.4,
+        "stock": 1,
+        "photos": [
+            "kyusu-44.jpg",
+            "kyusu-45.jpg",
+            "kyusu-46.jpg",
+            "kyusu-47.jpg"
+        ]
+    },
+    {
         "id": "sh21",
         "titre": {
             "en": "Shiboridashi 2.9oz",
