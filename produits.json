@@ -1357,10 +1357,11 @@
         "poids": 0.5,
         "stock": 1,
         "photos": [
-            "set-de-voyage_10-a.jpg",
+            "set-de-voyage_01.jpg",
             "set-de-voyage_10-b.jpg",
             "set-de-voyage_10-c.jpg",
-            "set-de-voyage_10-d.jpg"
+            "set-de-voyage_10-d.jpg",
+            "set-de-voyage_02.jpg"    
         ]
     },
     {
@@ -1380,10 +1381,11 @@
         "poids": 0.5,
         "stock": 1,
         "photos": [
-            "set-de-voyage_11-a.jpg",
+            "set-de-voyage_03.jpg",
             "set-de-voyage_11-b.jpg",
             "set-de-voyage_11-d.jpg",
-            "set-de-voyage_11-e.jpg"
+            "set-de-voyage_11-e.jpg",
+            "set-de-voyage_04.jpg"
         ]
     },
     {
@@ -1403,10 +1405,11 @@
         "poids": 0.5,
         "stock": 1,
         "photos": [
-            "set-de-voyage_12-a.jpg",
+            "set-de-voyage_05.jpg",
             "set-de-voyage_12-b.jpg",
             "set-de-voyage_12-c.jpg",
-            "set-de-voyage_12-d.jpg"
+            "set-de-voyage_12-d.jpg",
+            "set-de-voyage_06"
         ]
     },
     {
@@ -1424,7 +1427,7 @@
         },
         "prix": 160.00,
         "poids": 0.5,
-        "stock": 1,
+        "stock": 0,
         "photos": [
             "set-de-voyage_13-a.jpg",
             "set-de-voyage_13-b.jpg",
@@ -1447,7 +1450,7 @@
         },
         "prix": 130.00,
         "poids": 0.5,
-        "stock": 1,
+        "stock": 0,
         "photos": [
             "set-de-voyage_14-a.jpg",
             "set-de-voyage_14-b.jpg",
