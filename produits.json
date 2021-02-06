@@ -315,10 +315,79 @@
         "poids": 0.3,
         "stock": 1,
         "photos": [
-            "theiere_76-a.jpg",
-            "theiere_76-b.jpg",
-            "theiere_76-c.jpg",
-            "theiere_76-d.jpg"
+            "theiere-01.jpg",
+            "theiere-02.jpg",
+            "theiere-03.jpg",
+            "theiere-04.jpg"
+        ]
+    },
+    {
+        "id": "th77",
+        "titre": {
+            "en": "Small raw teapot 2.9oz",
+            "fr": "Petite théière en terre brute 8,5cl"
+        },
+        "modification": "2020-11-21",
+        "création": "2020-11-13",
+        "catégorie": "Théière",
+        "description": {
+            "en": "This is a Treigny stoneware teapot of 2.9oz. The clay used comes from Burgundy (France). The clay is quite soft. Its memory starts to be important. The absence of glaze will allow the clay to interact with the tea. It is advisable to use this teapot for only one kind of tea.",
+            "fr": "Il s'agit d'une théière en terre de Treigny de 8,5cl. L'argile utilisée provient de Bourgogne (France). Elle est assez tendre. Sa mémoire commence à être importante. L'absence d'émail permettra à l'argile d'interagir avec le thé. Il est conseillé d'utiliser cette théière pour un seul type de thé."
+        },
+        "prix": 132.00,
+        "poids": 0.3,
+        "stock": 1,
+        "photos": [
+            "theiere-05.jpg",
+            "theiere-06.jpg",
+            "theiere-07.jpg",
+            "theiere-08.jpg"
+        ]
+    },
+    {
+        "id": "th78",
+        "titre": {
+            "en": "Small raw teapot 3.6oz",
+            "fr": "Petite théière en terre brute 10,5cl"
+        },
+        "modification": "2020-11-21",
+        "création": "2020-11-13",
+        "catégorie": "Théière",
+        "description": {
+            "en": "This is a Moutiers stoneware teapot of 3.6oz. The clay used comes from Burgundy (France). It is very hard. Its memory is very weak, but the absence of glaze will allow the clay to interact with the tea. It is advisable to use this teapot for only one tea family.",
+            "fr": "Il s'agit d'une théière en terre de Moutiers de 10,5cl. L'argile utilisée provient de Bourgogne (France). Elle est dure. Sa mémoire est faible, mais l'absence d'émail permettra à l'argile d'interagir avec le thé. Il est conseillé d'utiliser cette théière pour une seule famille de thé."
+        },
+        "prix": 132.00,
+        "poids": 0.3,
+        "stock": 1,
+        "photos": [
+            "theiere-09.jpg",
+            "theiere-10.jpg",
+            "theiere-11.jpg",
+            "theiere-12.jpg"
+        ]
+    },
+    {
+        "id": "th79",
+        "titre": {
+            "en": "Small raw teapot 3.4oz",
+            "fr": "Petite théière en terre brute 10cl"
+        },
+        "modification": "2021-02-06",
+        "création": "2021-02-06",
+        "catégorie": "Théière",
+        "description": {
+            "en": "This is a St Amand stoneware teapot of 3.4oz. The clay used comes from Burgundy (France). It is rather hard. Its memory is weak, but the absence of glaze will allow the clay to interact with the tea. It is advisable to use this teapot for only one tea family.",
+            "fr": "Il s'agit d'une théière en terre de St Amand de 10cl. L'argile utilisée provient de Bourgogne (France). Elle est plutôt dure. Sa mémoire est faible, mais l'absence d'émail permettra à l'argile d'interagir avec le thé. Il est conseillé d'utiliser cette théière pour une seule famille de thé."
+        },
+        "prix": 132.00,
+        "poids": 0.3,
+        "stock": 1,
+        "photos": [
+            "theiere-13.jpg",
+            "theiere-14.jpg",
+            "theiere-15.jpg",
+            "theiere-16.jpg"
         ]
     },
     {
