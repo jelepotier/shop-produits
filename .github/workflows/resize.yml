@@ -15,3 +15,5 @@ jobs:
           git config --global user.name 'pntbr'
           git config --global user.email 'stephane@scopyleft.fr'
           git add -f thumbs carousels
+          git commit -m "Formate les photos pour les vignettes et les carrousels" > /dev/null 2>&1
+          git push
