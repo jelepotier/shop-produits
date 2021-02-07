@@ -12,3 +12,6 @@ jobs:
       - name: Commit report
         run: |
           git status
+          git config --global user.name 'pntbr'
+          git config --global user.email 'stephane@scopyleft.fr'
+          git add -f thumbs carousels
