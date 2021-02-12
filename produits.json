@@ -1201,25 +1201,27 @@
         ]
     },
     {
-        "id": "bt7",
+        "id": "bt8",
         "titre": {
-            "en": "tea bowl 3.4oz",
-            "fr": "Bol à thé 10cl"
+            "en": "tea bowl 5oz",
+            "fr": "yunomi 15cl"
         },
-        "modification": "2020-11-21",
-        "création": "2020-11-23",
+        "modification": "2021-02-12",
+        "création": "2021-02-12",
         "catégorie": "Bol à thé",
         "description": {
-            "en": "Diameter 3.23in, height 2.3in, weight 2.8oz, capacity 3.4oz.",
-            "fr": "Diamètre 8,2cm, hauteur 5,8cm, poids 80gr, contenance 10cl."
+            "en": "Unique piece. Tea bowl of 5oz handmade.",
+            "fr": "Pièce uniqe. Bol à thé de 15cl fabriqué à la main"
         },
-        "prix": 14.00,
-        "poids": 0.25,
-        "stock": 0,
+        "prix": 80.00,
+        "poids": 0.215,
+        "stock": 1,
         "photos": [
-            "bol_7-a.jpg",
-            "bol_7-b.jpg",
-            "bol_7-c.jpg"
+            "yunomi-01.jpg",
+            "yunomi-02.jpg",
+            "yunomi-03.jpg",
+            "yunomi-04.jpg",
+            "yunomi-05.jpg"
         ]
     },
     {
