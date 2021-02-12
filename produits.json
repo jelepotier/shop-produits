@@ -917,6 +917,30 @@
         ]
     },
     {
+        "id": "sh38",
+        "titre": {
+            "en": "Shiboridashi 3oz",
+            "fr": "Shiboridashi 9cl"
+        },
+        "modification": "2021-02-12",
+        "création": "2021-02-12",
+        "catégorie": "Shiboridashi",
+        "description": {
+            "en": "Shiboridashi in raw stoneware of 3oz. This piece is made with Treigny clay from burgundy - France. It's à soft clay with 2.5% porosity. It is preferable to use this shiboridashi for a single tea family.",
+            "fr": "Shiboridashi en grès brut de 9cl. Cette pièce est fabriquée avec l'argile de Treigny, qui provient de bourgogne. C'est une argile tendre à 2,5% de porosité. il est préférable d'utiliser ce shiboridashi pour une seul famille de thé."
+        },
+        "prix": 72.00,
+        "poids": 0.244,
+        "stock": 1,
+        "photos": [
+            "shiboridashi-13.jpg",
+            "shiboridashi-14.jpg",
+            "shiboridashi-15.jpg",
+            "shiboridashi-16.jpg",
+            "shiboridashi-17.jpg"    
+        ]
+    },
+    {
         "id": "h29",
         "titre": {
             "en": "Hohin 3.4oz",
