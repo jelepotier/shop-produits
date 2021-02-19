@@ -13,7 +13,7 @@
         },
         "prix": 48.00,
         "poids": 0.3,
-        "stock": 7,
+        "quantité_produite": 7,
         "photos": [
             "gaiwan-10cl_17-a.jpg",
             "gaiwan-10cl_17-b.jpg",
@@ -35,7 +35,7 @@
         },
         "prix": 1.00,
         "poids": 0.1,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "gaiwan-test.jpg"
         ]
@@ -55,7 +55,7 @@
         },
         "prix": 52.00,
         "poids": 0.3,
-        "stock": 8,
+        "quantité_produite": 8,
         "photos": [
             "gaiwan_18-a.jpg",
             "gaiwan_18-b.jpg",
@@ -78,7 +78,7 @@
         },
         "prix": 58.00,
         "poids": 0.3,
-        "stock": 7,
+        "quantité_produite": 7,
         "photos": [
             "gaiwan_21-a.jpg",
             "gaiwan_21-b.jpg",
@@ -101,7 +101,7 @@
         },
         "prix": 58.00,
         "poids": 0.3,
-        "stock": 5,
+        "quantité_produite": 5,
         "photos": [
             "gaiwan_22-a.jpg",
             "gaiwan_22-b.jpg",
@@ -124,7 +124,7 @@
         },
         "prix": 62.00,
         "poids": 0.3,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "gaiwan_23-a.jpg",
             "gaiwan_23-b.jpg",
@@ -147,7 +147,7 @@
         },
         "prix": 52.00,
         "poids": 0.3,
-        "stock": 3,
+        "quantité_produite": 3,
         "photos": [
             "gaiwan_24-a.jpg",
             "gaiwan_24-b.jpg",
@@ -170,7 +170,7 @@
         },
         "prix": 142.00,
         "poids": 0.3,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "theiere_68-a.jpg",
             "theiere_68-b.jpg",
@@ -193,7 +193,7 @@
         },
         "prix": 142.00,
         "poids": 0.3,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "theiere_70-a.jpg",
             "theiere_70-b.jpg",
@@ -216,7 +216,7 @@
         },
         "prix": 142.00,
         "poids": 0.4,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "theiere_71-b.jpg",
             "theiere_71-a.jpg",
@@ -240,7 +240,7 @@
         },
         "prix": 132.00,
         "poids": 0.3,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "theiere_72-a.jpg",
             "theiere_72-b.jpg",
@@ -263,7 +263,7 @@
         },
         "prix": 142.00,
         "poids": 0.4,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "theiere_73-a.jpg",
             "theiere_73-b.jpg",
@@ -286,7 +286,7 @@
         },
         "prix": 142.00,
         "poids": 0.4,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "theiere_74-a.jpg",
             "theiere_74-b.jpg",
@@ -310,7 +310,7 @@
         },
         "prix": 132.00,
         "poids": 0.3,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "theiere_75-a.jpg",
             "theiere_75-b.jpg",
@@ -333,7 +333,7 @@
         },
         "prix": 132.00,
         "poids": 0.3,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "theiere-01.jpg",
             "theiere-02.jpg",
@@ -356,7 +356,7 @@
         },
         "prix": 132.00,
         "poids": 0.3,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "theiere-05.jpg",
             "theiere-06.jpg",
@@ -379,7 +379,7 @@
         },
         "prix": 132.00,
         "poids": 0.3,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "theiere-09.jpg",
             "theiere-10.jpg",
@@ -402,7 +402,7 @@
         },
         "prix": 132.00,
         "poids": 0.3,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "theiere-13.jpg",
             "theiere-14.jpg",
@@ -425,7 +425,7 @@
         },
         "prix": 136.00,
         "poids": 0.3,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "kyusu_13.jpg",
             "kyusu_14.jpg",
@@ -448,7 +448,7 @@
         },
         "prix": 136.00,
         "poids": 0.2,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "kyusu-12cl_15-a.jpg",
             "kyusu_17.jpg",
@@ -471,7 +471,7 @@
         },
         "prix": 136.00,
         "poids": 0.4,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "kyusu_20.jpg",
             "kyusu_21.jpg",
@@ -494,7 +494,7 @@
         },
         "prix": 136.00,
         "poids": 0.3,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "kyusu_24.jpg",
             "kyusu_25.jpg",
@@ -517,7 +517,7 @@
         },
         "prix": 136.00,
         "poids": 0.3,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "kyusu_28.jpg",
             "kyusu_29.jpg",
@@ -540,7 +540,7 @@
         },
         "prix": 136.00,
         "poids": 0.3,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "kyusu_32.jpg",
             "kyusu_33.jpg",
@@ -563,7 +563,7 @@
         },
         "prix": 142.00,
         "poids": 0.4,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "kyusu_36.jpg",
             "kyusu_37.jpg",
@@ -586,7 +586,7 @@
         },
         "prix": 142.00,
         "poids": 0.4,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "kyusu_05.jpg",
             "kyusu_06.jpg",
@@ -609,7 +609,7 @@
         },
         "prix": 142.00,
         "poids": 0.4,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "kyusu_09.jpg",
             "kyusu_10.jpg",
@@ -632,7 +632,7 @@
         },
         "prix": 142.00,
         "poids": 0.4,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "kyusu_01.jpg",
             "kyusu_02.jpg",
@@ -655,7 +655,7 @@
         },
         "prix": 136.00,
         "poids": 0.2,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "kyusu-40.jpg",
             "kyusu-41.jpg",
@@ -678,7 +678,7 @@
         },
         "prix": 142.00,
         "poids": 0.4,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "kyusu-44.jpg",
             "kyusu-45.jpg",
@@ -701,7 +701,7 @@
         },
         "prix": 142.00,
         "poids": 0.25,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "kyusu-48.jpg",
             "kyusu-49.jpg",
@@ -724,7 +724,7 @@
         },
         "prix": 142.00,
         "poids": 0.39,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "kyusu-52.jpg",
             "kyusu-53.jpg",
@@ -746,7 +746,7 @@
         },
         "prix": 76.00,
         "poids": 0.4,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "shiboridashi_21-a.jpg",
             "shiboridashi_21-b.jpg",
@@ -769,7 +769,7 @@
         },
         "prix": 76.00,
         "poids": 0.4,
-        "stock": 0,
+        "quantité_produite": 0,
         "photos": [
             "shiboridashi_22-a.jpg",
             "shiboridashi_22-b.jpg",
@@ -792,7 +792,7 @@
         },
         "prix": 76.00,
         "poids": 0.4,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "shiboridashi_30-a.jpg",
             "shiboridashi_30-b.jpg",
@@ -815,7 +815,7 @@
         },
         "prix": 76.00,
         "poids": 0.4,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "shiboridashi_31-a.jpg",
             "shiboridashi_31-b.jpg",
@@ -838,7 +838,7 @@
         },
         "prix": 76.00,
         "poids": 0.4,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "shiboridashi_32-a.jpg",
             "shiboridashi_32-b.jpg",
@@ -861,7 +861,7 @@
         },
         "prix": 76.00,
         "poids": 0.4,
-        "stock": 0,
+        "quantité_produite": 0,
         "photos": [
             "shiboridashi_33-a.jpg",
             "shiboridashi_33-b.jpg",
@@ -884,7 +884,7 @@
         },
         "prix": 76.00,
         "poids": 0.4,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "shiboridashi_34-a.jpg",
             "shiboridashi_34-b.jpg",
@@ -907,7 +907,7 @@
         },
         "prix": 76.00,
         "poids": 0.4,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "shiboridashi-01.jpg",
             "shiboridashi-02.jpg",
@@ -930,7 +930,7 @@
         },
         "prix": 76.00,
         "poids": 0.4,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "shiboridashi-05.jpg",
             "shiboridashi-06.jpg",
@@ -953,7 +953,7 @@
         },
         "prix": 76.00,
         "poids": 0.4,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "shiboridashi-09.jpg",
             "shiboridashi-10.jpg",
@@ -976,12 +976,12 @@
         },
         "prix": 72.00,
         "poids": 0.244,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "shiboridashi-13.jpg",
             "shiboridashi-14.jpg",
             "shiboridashi-15.jpg",
-            "shiboridashi-16.jpg"    
+            "shiboridashi-16.jpg"
         ]
     },
     {
@@ -999,7 +999,7 @@
         },
         "prix": 98.00,
         "poids": 0.4,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "hohin_29-a.jpg",
             "hohin_29-b.jpg",
@@ -1022,7 +1022,7 @@
         },
         "prix": 98.00,
         "poids": 0.4,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "hohin_30-a.jpg",
             "hohin_30-b.jpg",
@@ -1045,7 +1045,7 @@
         },
         "prix": 98.00,
         "poids": 0.4,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "hohin_31-a.jpg",
             "hohin_31-b.jpg",
@@ -1068,7 +1068,7 @@
         },
         "prix": 104.00,
         "poids": 0.4,
-        "stock": 0,
+        "quantité_produite": 0,
         "photos": [
             "hohin_32-a.jpg",
             "hohin_32-b.jpg",
@@ -1091,7 +1091,7 @@
         },
         "prix": 98.00,
         "poids": 0.4,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "hohin_33-a.jpg",
             "hohin_33-b.jpg",
@@ -1114,7 +1114,7 @@
         },
         "prix": 104.00,
         "poids": 0.4,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "hohin_34-a.jpg",
             "hohin_34-b.jpg",
@@ -1137,7 +1137,7 @@
         },
         "prix": 98.00,
         "poids": 0.4,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "hohin_35-a.jpg",
             "hohin_35-b.jpg",
@@ -1159,7 +1159,7 @@
         },
         "prix": 25.00,
         "poids": 0.4,
-        "stock": 18,
+        "quantité_produite": 18,
         "photos": [
             "set-gongfu_1-a.jpg",
             "set-gongfu_1-b.jpg",
@@ -1181,7 +1181,7 @@
         },
         "prix": 14.00,
         "poids": 0.25,
-        "stock": 15,
+        "quantité_produite": 15,
         "photos": [
             "bol_2-a.jpg",
             "bol_2-b.jpg",
@@ -1203,7 +1203,7 @@
         },
         "prix": 36.00,
         "poids": 0.25,
-        "stock": 0,
+        "quantité_produite": 0,
         "photos": []
     },
     {
@@ -1221,7 +1221,7 @@
         },
         "prix": 36.00,
         "poids": 0.25,
-        "stock": 0,
+        "quantité_produite": 0,
         "photos": []
     },
     {
@@ -1239,7 +1239,7 @@
         },
         "prix": 20.00,
         "poids": 0.25,
-        "stock": 0,
+        "quantité_produite": 0,
         "photos": [
             "bol_5-a.jpg",
             "bol_5-b.jpg",
@@ -1261,7 +1261,7 @@
         },
         "prix": 20.00,
         "poids": 0.25,
-        "stock": 0,
+        "quantité_produite": 0,
         "photos": [
             "bol_6-a.jpg",
             "bol_6-b.jpg",
@@ -1283,7 +1283,7 @@
         },
         "prix": 80.00,
         "poids": 0.215,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "yunomi-01.jpg",
             "yunomi-02.jpg",
@@ -1307,7 +1307,7 @@
         },
         "prix": 25.00,
         "poids": 0.25,
-        "stock": 2,
+        "quantité_produite": 2,
         "photos": [
             "verseuse-01.jpg",
             "verseuse-02.jpg",
@@ -1329,7 +1329,7 @@
         },
         "prix": 30.00,
         "poids": 0.25,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "verseuse-04.jpg",
             "verseuse-05.jpg",
@@ -1353,7 +1353,7 @@
         },
         "prix": 30.00,
         "poids": 0.25,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "verseuse-09.jpg",
             "verseuse-10.jpg",
@@ -1377,7 +1377,7 @@
         },
         "prix": 26.00,
         "poids": 0.25,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "verseuse-14.jpg",
             "verseuse-15.jpg",
@@ -1399,7 +1399,7 @@
         },
         "prix": 40.00,
         "poids": 0.25,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "verseuse-17.jpg",
             "verseuse-18.jpg",
@@ -1421,7 +1421,7 @@
         },
         "prix": 30.00,
         "poids": 0.25,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "verseuse-20.jpg",
             "verseuse-21.jpg",
@@ -1445,13 +1445,13 @@
         },
         "prix": 160.00,
         "poids": 0.5,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "set-de-voyage_01.jpg",
             "set-de-voyage_10-b.jpg",
             "set-de-voyage_10-c.jpg",
             "set-de-voyage_10-d.jpg",
-            "set-de-voyage_02.jpg"    
+            "set-de-voyage_02.jpg"
         ]
     },
     {
@@ -1469,7 +1469,7 @@
         },
         "prix": 160.00,
         "poids": 0.5,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "set-de-voyage_03.jpg",
             "set-de-voyage_11-b.jpg",
@@ -1493,7 +1493,7 @@
         },
         "prix": 160.00,
         "poids": 0.5,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "set-de-voyage_05.jpg",
             "set-de-voyage_12-b.jpg",
@@ -1517,7 +1517,7 @@
         },
         "prix": 160.00,
         "poids": 0.5,
-        "stock": 0,
+        "quantité_produite": 0,
         "photos": [
             "set-de-voyage_13-a.jpg",
             "set-de-voyage_13-b.jpg",
@@ -1540,7 +1540,7 @@
         },
         "prix": 130.00,
         "poids": 0.5,
-        "stock": 0,
+        "quantité_produite": 0,
         "photos": [
             "set-de-voyage_14-a.jpg",
             "set-de-voyage_14-b.jpg",
@@ -1563,7 +1563,7 @@
         },
         "prix": 50.00,
         "poids": 0.3,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "housse_1-a.jpg",
             "housse_1-b.jpg"
@@ -1584,7 +1584,7 @@
         },
         "prix": 50.00,
         "poids": 0.3,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "housse_2-a.jpg",
             "housse_2-b.jpg"
@@ -1605,7 +1605,7 @@
         },
         "prix": 148.00,
         "poids": 0.8,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "bouilloire_10-a.jpg",
             "bouilloire_10-b.jpg",
@@ -1627,7 +1627,7 @@
         },
         "prix": 148.00,
         "poids": 0.8,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "bouilloire_11-a.jpg",
             "bouilloire_11-b.jpg",
@@ -1649,7 +1649,7 @@
         },
         "prix": 148.00,
         "poids": 0.8,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "bouilloire_12-a.jpg",
             "bouilloire_12-b.jpg",
@@ -1671,7 +1671,7 @@
         },
         "prix": 148.00,
         "poids": 0.8,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "bouilloire_14-a.jpg",
             "bouilloire_14-b.jpg",
@@ -1693,7 +1693,7 @@
         },
         "prix": 150.00,
         "poids": 2.5,
-        "stock": 0,
+        "quantité_produite": 0,
         "photos": []
     },
     {
@@ -1711,7 +1711,7 @@
         },
         "prix": 150.00,
         "poids": 2.5,
-        "stock": 0,
+        "quantité_produite": 0,
         "photos": []
     },
     {
@@ -1729,7 +1729,7 @@
         },
         "prix": 72.00,
         "poids": 0.4,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "bateau-a-the-04.jpg",
             "bateau-a-the-05.jpg",
@@ -1751,7 +1751,7 @@
         },
         "prix": 72.00,
         "poids": 0.4,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "bateau-a-the-01.jpg",
             "bateau-a-the-02.jpg",
@@ -1773,7 +1773,7 @@
         },
         "prix": 64.00,
         "poids": 0.4,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "bateau-a-the-07.jpg",
             "bateau-a-the-08.jpg",
@@ -1791,11 +1791,11 @@
         "catégorie": "Jarre à thé",
         "description": {
             "en": "Unique piece. Small tea pot that can contain 0.7oz of tea. Generally, this type of pot is used when you prepare tea for your guests. This avoids the presence of the tea bag or the big storage jar.",
-            "fr": "Pièce unique. Petit pot à thé pouvant contenir 20 gr de thé. En règle général, ce type de pot est utiliser lorsque vous préparer du thé pour vos hôtes. Cela évite la présence du sachet ou de la grosse jarre de stockage."
+            "fr": "Pièce unique. Petit pot à thé pouvant contenir 20 gr de thé. En règle général, ce type de pot est utiliser lorsque vous préparer du thé pour vos hôtes. Cela évite la présence du sachet ou de la grosse jarre de quantité_produiteage."
         },
         "prix": 50.00,
         "poids": 0.4,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "pot-a-t_1-a.jpg",
             "pot-a-t_1-b.jpg",
@@ -1815,11 +1815,11 @@
         "catégorie": "Jarre à thé",
         "description": {
             "en": "Unique piece. Small tea pot that can contain 0.7oz of tea. Generally, this type of pot is used when you prepare tea for your guests. This avoids the presence of the tea bag or the big storage jar.",
-            "fr": "Pièce unique. Petit pot à thé pouvant contenir 20 gr de thé. En règle général, ce type de pot est utiliser lorsque vous préparer du thé pour vos hôtes. Cela évite la présence du sachet ou de la grosse jarre de stockage."
+            "fr": "Pièce unique. Petit pot à thé pouvant contenir 20 gr de thé. En règle général, ce type de pot est utiliser lorsque vous préparer du thé pour vos hôtes. Cela évite la présence du sachet ou de la grosse jarre de quantité_produiteage."
         },
         "prix": 50.00,
         "poids": 0.4,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "pot-a-t_2-a.jpg",
             "pot-a-t_2-b.jpg",
@@ -1837,11 +1837,11 @@
         "catégorie": "Jarre à thé",
         "description": {
             "en": "Unique piece. Small tea pot that can contain 0.7oz of tea. Generally, this type of pot is used when you prepare tea for your guests. This avoids the presence of the tea bag or the big storage jar.",
-            "fr": "Pièce unique. Petit pot à thé pouvant contenir 20 gr de thé. En règle général, ce type de pot est utiliser lorsque vous préparer du thé pour vos hôtes. Cela évite la présence du sachet ou de la grosse jarre de stockage."
+            "fr": "Pièce unique. Petit pot à thé pouvant contenir 20 gr de thé. En règle général, ce type de pot est utiliser lorsque vous préparer du thé pour vos hôtes. Cela évite la présence du sachet ou de la grosse jarre de quantité_produiteage."
         },
         "prix": 50.00,
         "poids": 0.4,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "pot-a-t_3-a.jpg",
             "pot-a-t_3-b.jpg",
@@ -1860,11 +1860,11 @@
         "catégorie": "Jarre à thé",
         "description": {
             "en": "Unique piece. Small tea pot that can contain 0.7oz of tea. Generally, this type of pot is used when you prepare tea for your guests. This avoids the presence of the tea bag or the big storage jar.",
-            "fr": "Pièce unique. Petit pot à thé pouvant contenir 20 gr de thé. En règle général, ce type de pot est utiliser lorsque vous préparer du thé pour vos hôtes. Cela évite la présence du sachet ou de la grosse jarre de stockage."
+            "fr": "Pièce unique. Petit pot à thé pouvant contenir 20 gr de thé. En règle général, ce type de pot est utiliser lorsque vous préparer du thé pour vos hôtes. Cela évite la présence du sachet ou de la grosse jarre de quantité_produiteage."
         },
         "prix": 50.00,
         "poids": 0.4,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "pot-a-t_4-a.jpg",
             "pot-a-t_4-b.jpg",
@@ -1882,11 +1882,11 @@
         "catégorie": "Jarre à thé",
         "description": {
             "en": "Unique piece. Small tea pot that can contain 0.7oz of tea. Generally, this type of pot is used when you prepare tea for your guests. This avoids the presence of the tea bag or the big storage jar.",
-            "fr": "Pièce unique. Petit pot à thé pouvant contenir 20 gr de thé. En règle général, ce type de pot est utiliser lorsque vous préparer du thé pour vos hôtes. Cela évite la présence du sachet ou de la grosse jarre de stockage."
+            "fr": "Pièce unique. Petit pot à thé pouvant contenir 20 gr de thé. En règle général, ce type de pot est utiliser lorsque vous préparer du thé pour vos hôtes. Cela évite la présence du sachet ou de la grosse jarre de quantité_produiteage."
         },
         "prix": 50.00,
         "poids": 0.4,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "pot-a-t_5-a.jpg",
             "pot-a-t_5-b.jpg",
@@ -1904,11 +1904,11 @@
         "catégorie": "Jarre à thé",
         "description": {
             "en": "Unique piece. Jar to store whole puerh cakes. Jar made of GECH, a 6.5% porosity stoneware. Height: 10.2in. Diameter of the opening: 9.4in. Weight : 176.4oz",
-            "fr": "Pièce unique. Jarre pour stocker des galettes entières de puerh. Jarre fabriquée en GECH, un grès à 6,5 % de porosité. Hauteur : 26 cm. Diamètre de l'ouverture : 24 cm. Poids : 5 kg"
+            "fr": "Pièce unique. Jarre pour quantité_produiteer des galettes entières de puerh. Jarre fabriquée en GECH, un grès à 6,5 % de porosité. Hauteur : 26 cm. Diamètre de l'ouverture : 24 cm. Poids : 5 kg"
         },
         "prix": 200.00,
         "poids": 5.0,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "jarre_1-a.jpg",
             "jarre_1-b.jpg"
@@ -1925,11 +1925,11 @@
         "catégorie": "Jarre à thé",
         "description": {
             "en": "Unique piece. Jar to store whole puerh cakes. Jar made of St Amand sandstone, 0.9% porosity. Height : 4.5in. Diameter of the opening : 9in. Weight : 105.8oz",
-            "fr": "Pièce unique. Jarre pour stocker des galettes entières de puerh. Jarre fabriquée en grès de St Amand, 0,9 % de porosité. Hauteur : 11,5 cm. Diamètre de l'ouverture : 23,5 cm. Poids : 3 kg"
+            "fr": "Pièce unique. Jarre pour quantité_produiteer des galettes entières de puerh. Jarre fabriquée en grès de St Amand, 0,9 % de porosité. Hauteur : 11,5 cm. Diamètre de l'ouverture : 23,5 cm. Poids : 3 kg"
         },
         "prix": 100.00,
         "poids": 3.0,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "jarre_2-a.jpg",
             "jarre_2-b.jpg",
@@ -1947,11 +1947,11 @@
         "catégorie": "Jarre à thé",
         "description": {
             "en": "Unique piece. Jar to store whole puerh cakes. Jar made of Moutiers stoneware, 0.2% porosity. Height : 8.9in. Diameter of the opening : 8.9in. Weight : 176.4oz",
-            "fr": "Pièce unique. Jarre pour stocker des galettes entières de puerh. Jarre fabriquée en grès de Moutiers, 0,2 % de porosité. Hauteur : 22,5 cm. Diamètre de l'ouverture : 22,5 cm. Poids : 5 kg"
+            "fr": "Pièce unique. Jarre pour quantité_produiteer des galettes entières de puerh. Jarre fabriquée en grès de Moutiers, 0,2 % de porosité. Hauteur : 22,5 cm. Diamètre de l'ouverture : 22,5 cm. Poids : 5 kg"
         },
         "prix": 200.00,
         "poids": 3.0,
-        "stock": 1,
+        "quantité_produite": 1,
         "photos": [
             "jarre_3-a.jpg",
             "jarre_3-b.jpg",
