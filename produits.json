@@ -1894,28 +1894,6 @@
         ]
     },
     {
-        "id": "j2",
-        "titre": {
-            "en": "Jar for puerh cakes",
-            "fr": "Jarre pour galette de puerh"
-        },
-        "modification": "2020-11-21",
-        "création": "2020-11-23",
-        "catégorie": "Jarre à thé",
-        "description": {
-            "en": "Unique piece. Jar to store whole puerh cakes. Jar made of St Amand sandstone, 0.9% porosity. Height : 4.5in. Diameter of the opening : 9in. Weight : 105.8oz",
-            "fr": "Pièce unique. Jarre pour quantité_produiteer des galettes entières de puerh. Jarre fabriquée en grès de St Amand, 0,9 % de porosité. Hauteur : 11,5 cm. Diamètre de l'ouverture : 23,5 cm. Poids : 3 kg"
-        },
-        "prix": 100.00,
-        "poids": 3.0,
-        "quantité_produite": 1,
-        "photos": [
-            "jarre_2-a.jpg",
-            "jarre_2-b.jpg",
-            "jarre_2-c.jpg"
-        ]
-    },
-    {
         "id": "j3",
         "titre": {
             "en": "Jar for puerh cakes",
