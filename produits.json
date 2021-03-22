@@ -1407,6 +1407,75 @@
         ]
     },
     {
+        "id": "v8",
+        "titre": {
+            "en": "Pourer 4.7.oz",
+            "fr": "Verseuse 14cl"
+        },
+        "modification": "2021-03-22",
+        "création": "2021-03-22",
+        "catégorie": "Verseuse",
+        "description": {
+            "en": "Glazed pourer of 4.7.oz",
+            "fr": "Verseuse de 14cl émaillée."
+        },
+        "prix": 30.00,
+        "poids": 0.25,
+        "quantité_produite": 9,
+        "photos": [
+            "verseuse-20.jpg",
+            "verseuse-21.jpg",
+            "verseuse-22.jpg",
+            "verseuse-23.jpg"
+        ]
+    },
+    {
+        "id": "v9",
+        "titre": {
+            "en": "Pourer 4.7.oz",
+            "fr": "Verseuse 14cl"
+        },
+        "modification": "2021-03-22",
+        "création": "2021-03-22",
+        "catégorie": "Verseuse",
+        "description": {
+            "en": "Glazed pourer of 4.7.oz",
+            "fr": "Verseuse de 14cl émaillée."
+        },
+        "prix": 30.00,
+        "poids": 0.25,
+        "quantité_produite": 9,
+        "photos": [
+            "verseuse-24.jpg",
+            "verseuse-25.jpg",
+            "verseuse-26.jpg",
+            "verseuse-27.jpg"
+        ]
+    },
+    {
+        "id": "v10",
+        "titre": {
+            "en": "Pourer 4.7.oz",
+            "fr": "Verseuse 14cl"
+        },
+        "modification": "2021-03-22",
+        "création": "2021-03-22",
+        "catégorie": "Verseuse",
+        "description": {
+            "en": "Glazed pourer of 4.7.oz",
+            "fr": "Verseuse de 14cl émaillée."
+        },
+        "prix": 30.00,
+        "poids": 0.25,
+        "quantité_produite": 9,
+        "photos": [
+            "verseuse-28.jpg",
+            "verseuse-29.jpg",
+            "verseuse-30.jpg",
+            "verseuse-31.jpg"
+        ]
+    },
+    {
         "id": "sdv10",
         "titre": {
             "en": "Travel set for 2",
