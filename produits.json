@@ -274,7 +274,7 @@
     {
         "id": "th74",
         "titre": {
-            "en": "Small enamelled teapot 4.7oz",
+            "en": "Small glazed teapot 4.7oz",
             "fr": "Petite théière émaillée 14cl"
         },
         "modification": "2020-11-21",
@@ -408,6 +408,101 @@
             "theiere-14.jpg",
             "theiere-15.jpg",
             "theiere-16.jpg"
+        ]
+    },
+    {
+        "id": "th80",
+        "titre": {
+            "en": "Small glazed teapot 4.7oz",
+            "fr": "Petite théière émaillée 14cl"
+        },
+        "modification": "2021-03-22",
+        "création": "2021-03-22",
+        "catégorie": "Théière",
+        "description": {
+            "en": "Unique piece. It is a small teapot of 4.7oz glazed inside and outside. It is perfectly versatile.",
+            "fr": "Pièce unique. Il s'agit d'une petite théière de 14cl émaillée à l'intérieur comme à l'extérieur. Elle est parfaitement polyvalente."
+        },
+        "prix": 142.00,
+        "poids": 0.25,
+        "quantité_produite": 1,
+        "photos": [
+            "theiere-17.jpg",
+            "theiere-18.jpg",
+            "theiere-19.jpg",
+            "theiere-20.jpg",
+            "theiere-21.jpg"
+        ]
+    },
+    {
+        "id": "th81",
+        "titre": {
+            "en": "Small glazed teapot 3.7oz",
+            "fr": "Petite théière émaillée 11cl"
+        },
+        "modification": "2021-03-22",
+        "création": "2021-03-22",
+        "catégorie": "Théière",
+        "description": {
+            "en": "Unique piece. It is a small teapot of 3.7oz glazed inside and outside. It is perfectly versatile.",
+            "fr": "Pièce unique. Il s'agit d'une petite théière de 11cl émaillée à l'intérieur comme à l'extérieur. Elle est parfaitement polyvalente."
+        },
+        "prix": 142.00,
+        "poids": 0.25,
+        "quantité_produite": 1,
+        "photos": [
+            "theiere-22.jpg",
+            "theiere-23.jpg",
+            "theiere-24.jpg",
+            "theiere-25.jpg"
+        ]
+    },
+    {
+        "id": "th82",
+        "titre": {
+            "en": "Small glazed teapot 2.7oz",
+            "fr": "Petite théière émaillée 8cl"
+        },
+        "modification": "2021-03-22",
+        "création": "2021-03-22",
+        "catégorie": "Théière",
+        "description": {
+            "en": "Unique piece. It is a small teapot of 2.7oz glazed inside and outside. It is perfectly versatile.",
+            "fr": "Pièce unique. Il s'agit d'une petite théière de 8cl émaillée à l'intérieur comme à l'extérieur. Elle est parfaitement polyvalente."
+        },
+        "prix": 142.00,
+        "poids": 0.25,
+        "quantité_produite": 1,
+        "photos": [
+            "theiere-26.jpg",
+            "theiere-27.jpg",
+            "theiere-28.jpg",
+            "theiere-29.jpg",
+            "theiere-30.jpg"
+        ]
+    },
+    {
+        "id": "th83",
+        "titre": {
+            "en": "Small glazed teapot 4.4oz",
+            "fr": "Petite théière émaillée 13cl"
+        },
+        "modification": "2021-03-22",
+        "création": "2021-03-22",
+        "catégorie": "Théière",
+        "description": {
+            "en": "Unique piece. It is a small teapot of 4.4oz glazed inside and outside. It is perfectly versatile.",
+            "fr": "Pièce unique. Il s'agit d'une petite théière de 13cl émaillée à l'intérieur comme à l'extérieur. Elle est parfaitement polyvalente."
+        },
+        "prix": 142.00,
+        "poids": 0.25,
+        "quantité_produite": 1,
+        "photos": [
+            "theiere-31.jpg",
+            "theiere-32.jpg",
+            "theiere-33.jpg",
+            "theiere-34.jpg",
+            "theiere-35.jpg"
         ]
     },
     {
