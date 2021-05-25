@@ -1240,6 +1240,54 @@
         ]
     },
     {
+        "id": "h36",
+        "titre": {
+            "en": "Hohin 3.7oz",
+            "fr": "Hohin 11cl"
+        },
+        "modification": "2020-05-25",
+        "création": "2020-05-25",
+        "catégorie": "Hohin",
+        "description": {
+            "en": "Unique piece. Glazed Hohin of 3.7oz.",
+            "fr": "Pièce unique. Hohin émaillé de 11 cl."
+        },
+        "prix": 104.00,
+        "poids": 0.25,
+        "quantité_produite": 1,
+        "photos": [
+            "hohin-36.jpg",
+            "hohin-37.jpg",
+            "hohin-38.jpg",
+            "hohin-39.jpg",
+            "hohin-40.jpg"
+        ]
+    },
+    {
+        "id": "h37",
+        "titre": {
+            "en": "Hohin 3.7oz",
+            "fr": "Hohin 11cl"
+        },
+        "modification": "2020-05-25",
+        "création": "2020-05-25",
+        "catégorie": "Hohin",
+        "description": {
+            "en": "Unique piece. Glazed Hohin of 3.7oz.",
+            "fr": "Pièce unique. Hohin émaillé de 11 cl."
+        },
+        "prix": 104.00,
+        "poids": 0.25,
+        "quantité_produite": 1,
+        "photos": [
+            "hohin-41.jpg",
+            "hohin-42.jpg",
+            "hohin-43.jpg",
+            "hohin-44.jpg",
+            "hohin-45.jpg"
+        ]
+    },
+    {
         "id": "bt1",
         "titre": {
             "en": "Set gongfu bowls 1.3oz.",
