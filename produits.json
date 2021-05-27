@@ -1522,8 +1522,8 @@
         "création": "2021-05-27",
         "catégorie": "Shiboridashi",
         "description": {
-            "en": "Unique piece. Glazed Shiboridashi of 3.4oz. Weight 6oz",
-            "fr": "Pièce unique. Shiboridashi de 10cl émaillé. Poids 170g."
+            "en": "Unique piece. Glazed Shiboridashi of 3.4oz. Weight 4.8oz",
+            "fr": "Pièce unique. Shiboridashi de 10cl émaillé. Poids 137g."
         },
         "prix": 76.00,
         "poids": 0.3,
@@ -1538,15 +1538,15 @@
     {
         "id": "sh43",
         "titre": {
-            "en": "Shiboridashi 3.4oz",
-            "fr": "Shiboridashi 10cl"
+            "en": "Shiboridashi 3.7oz",
+            "fr": "Shiboridashi 11cl"
         },
         "modification": "2021-05-27",
         "création": "2021-05-27",
         "catégorie": "Shiboridashi",
         "description": {
             "en": "Unique piece. Glazed Shiboridashi of 3.4oz. Weight 6oz",
-            "fr": "Pièce unique. Shiboridashi de 10cl émaillé. Poids 170g."
+            "fr": "Pièce unique. Shiboridashi de 10cl émaillé. Poids 150g."
         },
         "prix": 76.00,
         "poids": 0.3,
@@ -1561,15 +1561,15 @@
     {
         "id": "sh44",
         "titre": {
-            "en": "Shiboridashi 3.4oz",
-            "fr": "Shiboridashi 10cl"
+            "en": "Shiboridashi 3oz",
+            "fr": "Shiboridashi 9cl"
         },
         "modification": "2021-05-27",
         "création": "2021-05-27",
         "catégorie": "Shiboridashi",
         "description": {
-            "en": "Unique piece. Glazed Shiboridashi of 3.4oz. Weight 6oz",
-            "fr": "Pièce unique. Shiboridashi de 10cl émaillé. Poids 170g."
+            "en": "Unique piece. Glazed Shiboridashi of 3oz. Weight 5oz",
+            "fr": "Pièce unique. Shiboridashi de 9cl émaillé. Poids 143g."
         },
         "prix": 76.00,
         "poids": 0.3,
