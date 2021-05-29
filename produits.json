@@ -2603,6 +2603,34 @@
         ]
     },
     {
+        "id": "bat1",
+        "titre": {
+            "en": "waste water pot 水盂shui yu",
+            "fr": "Pot à eau usée 水盂shui yu"
+        },
+        "modification": "2021-05-29",
+        "création": "2021-05-29",
+        "catégorie": "Bateau à thé",
+        "description": {
+            "en": "Unique piece. Waste water pot, intended to receive the rinsing water of tea. It is placed on your tea table and contributes to the elegance of your practice. As you use it, it will take on the colors of the different teas you drink.",
+            "fr": "Pièce unique. Pot à eau usée, destiné à recevoir les eaux de rinçage du thé. Il se place sur votre table à thé et participe à l'élégance de votre pratique. Au fur et à mesure de son utilisation, il se patinera des couleurs des différents thés que vous boirez."
+        },
+        "prix": 64.00,
+        "poids": 0.4,
+        "dimension": {
+                "largeur": 11,
+                "hauteur": 8.5
+                },
+        "capacité":    
+        "quantité_produite": 1,
+        "photos": [
+            "bateau-a-the-10.jpg",
+            "bateau-a-the-11.jpg",
+            "bateau-a-the-12.jpg",
+            "bateau-a-the-13.jpg"
+        ]
+    },
+    {
         "id": "pp1",
         "titre": {
             "en": "small tea pot",
