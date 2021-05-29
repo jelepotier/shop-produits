@@ -5,9 +5,10 @@
     "proprietaire": "Jérôme Roussel",
     "email": "jelepotier@laposte.net",
     "couleur": "#73d56b",
-    "site": "theiere-tasse.com",
+    "site": "https://www.theiere-tasse.com",
     "siege": "sis au 15, rue de la perception, 03300 Cusset",
     "enregistrement": "du RM de Moulin",
     "RCS": "451 185 953",
-    "APE": "2341Z"
+    "APE": "2341Z",
+    "stat": "<script async defer data-domain=\"thiere-tasse.com\" src=\"https://plausible.io/js/plausible.js\"></script>"
 }
