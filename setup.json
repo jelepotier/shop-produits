@@ -1,6 +1,7 @@
 {
     "forme_social": "auto-entrepreneur",
     "nom": "Jé le potier",
+    "logo": "https://raw.githubusercontent.com/brutdethe/boutique-data/main/logo.png",
     "a_propos": "https://info.theiere-tasse.com",
     "proprietaire": "Jérôme Roussel",
     "email": "jelepotier@laposte.net",
