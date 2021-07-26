@@ -2115,6 +2115,30 @@
     {
         "id": "bt17",
         "titre": {
+            "en": "Yunomi",
+            "fr": "Yunomi"
+        },
+        "modification": "2021-07-26",
+        "création": "2021-07-26",
+        "catégorie": "Bol à thé",
+        "description": {
+            "en": "Singular tea bowl, white glazed on the inside. There may be differences between each piece, although the spirit remains the same.",
+            "fr": "Bol à thé singulier, émaillé blanc à l'intérieur. Des différences peuvent être présentes entre chaque pièce, même si l'esprit reste le même."
+        },
+        "prix": 30.00,
+        "poids": 0.25
+        "capacité": 110
+        "quantité_produite": 4,
+        "photos": [
+            "yunomi-06.jpg",
+            "yunomi-07.jpg",
+            "yunomi-08.jpg",
+            "yunomi-09.jpg"
+        ]
+    },
+    {
+        "id": "bt18",
+        "titre": {
             "en": "gongfucha set",
             "fr": "Set pour gongfucha"
         },
