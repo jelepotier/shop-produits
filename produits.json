@@ -1694,6 +1694,78 @@
         ]
     },
     {
+        "id": "h38",
+        "titre": {
+            "en": "Hohin in raw stoneware",
+            "fr": "Hohin en grès brut"
+        },
+        "modification": "2021-07-26",
+        "création": "2021-07-26",
+        "catégorie": "Hohin",
+        "description": {
+            "en": "Unique piece. A traditional Japanese piece for brewing Gyokuro. However, it is possible to brew other types of tea. The hohin is very easy to use. It pours abundantly and very quickly. The stoneware used for this piece is a high quality German stoneware. It is a very dense clay with low porosity: 0.8%.",
+            "fr": "Pièce unique. Une pièce issue de la tradition japonaise et destinée à l'infusion des Gyokuro. Il est toute fois possible d'infuser d'autres types de thé. Le hohin est une pièce très facile d'utilisation. Sa verse est abondante et très rapide. Le grès utilisé pour cette pièce est un grès allemand d'une grande qualité. Il s'agit d'une argile très dense et peu poreuse : 0,8%."
+        },
+        "prix": 98.00,
+        "poids": 0.25,
+        "capacité": 120,
+        "quantité_produite": 1,
+        "photos": [
+            "hohin-46.jpg",
+            "hohin-47.jpg",
+            "hohin-48.jpg",
+            "hohin-49.jpg"
+        ]
+    },
+    {
+        "id": "h39",
+        "titre": {
+            "en": "Hohin in raw stoneware",
+            "fr": "Hohin en grès brut"
+        },
+        "modification": "2021-07-26",
+        "création": "2021-07-26",
+        "catégorie": "Hohin",
+        "description": {
+            "en": "Unique piece. A traditional Japanese piece for brewing Gyokuro. However, it is possible to brew other types of tea. The hohin is very easy to use. It pours abundantly and very quickly. The stoneware used for this piece is a high quality German stoneware. It is a very dense clay with low porosity: 0.8%.",
+            "fr": "Pièce unique. Une pièce issue de la tradition japonaise et destinée à l'infusion des Gyokuro. Il est toute fois possible d'infuser d'autres types de thé. Le hohin est une pièce très facile d'utilisation. Sa verse est abondante et très rapide. Le grès utilisé pour cette pièce est un grès allemand d'une grande qualité. Il s'agit d'une argile très dense et peu poreuse : 0,8%."
+        },
+        "prix": 98.00,
+        "poids": 0.25,
+        "capacité": 100,
+        "quantité_produite": 1,
+        "photos": [
+            "hohin-50.jpg",
+            "hohin-51.jpg",
+            "hohin-52.jpg",
+            "hohin-53.jpg"
+        ]
+    },
+    {
+        "id": "h40",
+        "titre": {
+            "en": "Hohin in raw stoneware",
+            "fr": "Hohin en grès brut"
+        },
+        "modification": "2021-07-26",
+        "création": "2021-07-26",
+        "catégorie": "Hohin",
+        "description": {
+            "en": "Unique piece. A traditional Japanese piece for brewing Gyokuro. However, it is possible to brew other types of tea. The hohin is very easy to use. It pours abundantly and very quickly. The stoneware used for this piece is a high quality German stoneware. It is a very dense clay with low porosity: 0.8%.",
+            "fr": "Pièce unique. Une pièce issue de la tradition japonaise et destinée à l'infusion des Gyokuro. Il est toute fois possible d'infuser d'autres types de thé. Le hohin est une pièce très facile d'utilisation. Sa verse est abondante et très rapide. Le grès utilisé pour cette pièce est un grès allemand d'une grande qualité. Il s'agit d'une argile très dense et peu poreuse : 0,8%."
+        },
+        "prix": 98.00,
+        "poids": 0.25,
+        "capacité": 130,
+        "quantité_produite": 1,
+        "photos": [
+            "hohin-54.jpg",
+            "hohin-55.jpg",
+            "hohin-56.jpg",
+            "hohin-57.jpg"
+        ]
+    },
+    {
         "id": "bt1",
         "titre": {
             "en": "Set gongfu bowls 1.3oz.",
