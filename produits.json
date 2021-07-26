@@ -2126,8 +2126,8 @@
             "fr": "Bol à thé singulier, émaillé blanc à l'intérieur. Des différences peuvent être présentes entre chaque pièce, même si l'esprit reste le même."
         },
         "prix": 30.00,
-        "poids": 0.25
-        "capacité": 110
+        "poids": 0.25,
+        "capacité": 110,
         "quantité_produite": 4,
         "photos": [
             "yunomi-06.jpg",
