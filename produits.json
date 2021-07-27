@@ -1486,6 +1486,34 @@
         ]
     },
     {
+        "id": "sh45",
+        "titre": {
+            "en": "Shiboridashi",
+            "fr": "Shiboridashi"
+        },
+        "modification": "2021-07-27",
+        "création": "2021-07-27",
+        "catégorie": "Shiboridashi",
+        "description": {
+            "en": "Unique piece. The shiboridashi is a utensil normally used for brewing Japanese green teas, especially Gyokuro. Some tea lovers use the shiboridashi with other types of tea, as they like the width of the opening and the space for the tea leaves to unfurl. In order to best promote the possibility of brewing different types of tea, I make the lid slightly smaller than the place where it sits. In this way it is possible to move the lid forward or backward to adapt the pouring to the tea being brewed. This shiboridashi is made with a high quality and very dense German clay. Its porosity is 0,8%.",
+            "fr": "Pièce unique. Le shiboridashi est un ustensile qui se dédie normalement à l'infusion des thés verts japonais, et plus particulièrement des Gyokuro. Certains amateurs de thé utilise le shiboridashi avec d'autres type de thé, car il apprécie la largeur de l'ouverture et l'espace pour que les feuilles de thé se déploient. Afin de favoriser au mieux la possibilité d'infuser différents types de thé, je fabrique le couvercle légèrement plus petit que l'endroit où il se pose. De cette façon, il est possible d'avancer ou de reculer le couvercle pour adapter la verse au thé qui infuse. Ce shiboridashi est réaliser avec une argile allemande de grande qualité et très dense. Sa porosité est de 0,8%."
+        },
+        "prix": 76.00,
+        "poids": 0.14,
+        "dimension": {
+                "largeur": 10.5,
+                "hauteur": 3.5
+        },
+        "capacité": 75,
+        "quantité_produite": 1,
+        "photos": [
+            "shiboridashi-47.jpg",
+            "shiboridashi-48.jpg",
+            "shiboridashi-49.jpg",
+            "shiboridashi-50.jpg"
+        ]
+    },
+    {
         "id": "h29",
         "titre": {
             "en": "Hohin 3.4oz",
