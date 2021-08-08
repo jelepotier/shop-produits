@@ -820,29 +820,6 @@
         ]
     },
     {
-        "id": "k24",
-        "titre": {
-            "en": "Kyusu 7.8oz",
-            "fr": "Kyusu 23cl"
-        },
-        "modification": "2020-11-21",
-        "création": "2020-11-14",
-        "catégorie": "Kyusu",
-        "description": {
-            "en": "Unique piece. Glazed Kyusu, for left-handed people, 7.8oz. This kyusu is glazed inside and outside. Its filter is large enough, with fine holes for brewing Japanese green teas.",
-            "fr": "Pièce unique. Kyusu émaillé, pour gauchers de 23cl. Ce kyusu est émaillé intérieur et extérieur. Son filtre assez large, est composé de trous fins pour permettre l'infusion des thés verts japonais."
-        },
-        "prix": 142.00,
-        "poids": 0.4,
-        "quantité_produite": 1,
-        "photos": [
-            "kyusu_01.jpg",
-            "kyusu_02.jpg",
-            "kyusu_03.jpg",
-            "kyusu_04.jpg"
-        ]
-    },
-    {
         "id": "k25",
         "titre": {
             "en": "Kyusu 4oz",
