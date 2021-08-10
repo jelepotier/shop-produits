@@ -2500,27 +2500,6 @@
         ]
     },
     {
-        "id": "hp2",
-        "titre": {
-            "en": "Protective cover only.",
-            "fr": "Housse de protection seule."
-        },
-        "modification": "2020-11-21",
-        "création": "2020-11-23",
-        "catégorie": "Set de Voyage",
-        "description": {
-            "en": "Protective cover with separation. Unique piece. Size: square of 8.7in side. This cover is shipped with two pieces of assorted fabric to hold the pieces once unpacked.",
-            "fr": "Housse de protection munie d'une séparation. Pièce unique. Taille : carré de 22cm de côté. Cette housse est expédiée avec deux morceaux de tissus assortis, permettant d'accueillir les pièces une fois déballées."
-        },
-        "prix": 50.00,
-        "poids": 0.3,
-        "quantité_produite": 1,
-        "photos": [
-            "housse_2-a.jpg",
-            "housse_2-b.jpg"
-        ]
-    },
-    {
         "id": "bo10",
         "titre": {
             "en": "Kettle in stoneware 11.8oz.",
