@@ -728,29 +728,6 @@
         ]
     },
     {
-        "id": "k19",
-        "titre": {
-            "en": "Kyusu 4.4oz",
-            "fr": "Kyusu 13cl"
-        },
-        "modification": "2020-11-21",
-        "création": "2020-11-14",
-        "catégorie": "Kyusu",
-        "description": {
-            "en": "Unique piece. Kyusu for right-hander of 4.4oz. This kyusu is made of stoneware from St Amand (Burgundy - France), a hard clay.  Its filter is quite large, and is composed of fine holes for brewing Japanese green teas.",
-            "fr": "Pièce unique. Kyusu pour droitier de 13cl. Ce kyusu est fabriqué en grès de St Amand (Bourgogne - France), une terre dure. Son filtre assez large, est composé de trous fins pour infuser des thés verts japonais."
-        },
-        "prix": 136.00,
-        "poids": 0.3,
-        "quantité_produite": 1,
-        "photos": [
-            "kyusu_28.jpg",
-            "kyusu_29.jpg",
-            "kyusu_30.jpg",
-            "kyusu_31.jpg"
-        ]
-    },
-    {
         "id": "k20",
         "titre": {
             "en": "Kyusu 4.4oz",
@@ -1394,29 +1371,6 @@
         ]
     },
     {
-        "id": "sh42",
-        "titre": {
-            "en": "Shiboridashi 3.4oz",
-            "fr": "Shiboridashi 10cl"
-        },
-        "modification": "2021-05-27",
-        "création": "2021-05-27",
-        "catégorie": "Shiboridashi",
-        "description": {
-            "en": "Unique piece. Glazed Shiboridashi of 3.4oz. Weight 4.8oz",
-            "fr": "Pièce unique. Shiboridashi de 10cl émaillé. Poids 137g."
-        },
-        "prix": 76.00,
-        "poids": 0.3,
-        "quantité_produite": 1,
-        "photos": [
-            "shiboridashi-35.jpg",
-            "shiboridashi-36.jpg",
-            "shiboridashi-37.jpg",
-            "shiboridashi-38.jpg"
-        ]
-    },
-    {
         "id": "sh43",
         "titre": {
             "en": "Shiboridashi 3.7oz",
@@ -1639,29 +1593,6 @@
         ]
     },
     {
-        "id": "h33",
-        "titre": {
-            "en": "Hohin 3.4oz",
-            "fr": "Hohin 10cl"
-        },
-        "modification": "2020-11-21",
-        "création": "2020-11-23",
-        "catégorie": "Hohin",
-        "description": {
-            "en": "This is a Treigny stoneware hohin of 3.4oz. The clay used comes from Burgundy (France). It is quiet soft. Its memory starts to be important. The absence of glaze will allow the clay to interact with the tea. It is advisable to use this teapot for only one tea family.",
-            "fr": "Il s'agit d'un hohin en terre de Treigny de 10cl. L'argile utilisée provient de Bourgogne (France). Elle est assez tendre. Sa mémoire commence à être importante. L'absence d'émail permettra à l'argile d'interagir avec le thé. Il est conseillé d'utiliser cette théière pour une seule famille de thé."
-        },
-        "prix": 98.00,
-        "poids": 0.4,
-        "quantité_produite": 1,
-        "photos": [
-            "hohin_33-a.jpg",
-            "hohin_33-b.jpg",
-            "hohin_33-c.jpg",
-            "hohin_33-d.jpg"
-        ]
-    },
-    {
         "id": "h34",
         "titre": {
             "en": "Hohin 3.4oz",
@@ -1794,7 +1725,7 @@
         "prix": 98.00,
         "poids": 0.25,
         "capacité": 100,
-        "quantité_produite": 1,
+        "quantité_produite": 0,
         "photos": [
             "hohin-50.jpg",
             "hohin-51.jpg",
