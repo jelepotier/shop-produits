@@ -682,6 +682,102 @@
         ]
     },
     {
+        "id": "th96",
+        "titre": {
+            "en": "Small teapot in raw clay",
+            "fr": "Petite théière en terre brute"
+        },
+        "modification": "2021-09-25",
+        "création": "2021-09-25",
+        "catégorie": "Théière",
+        "description": {
+            "en": "Unique piece. Small teapot made with natural clay from the village of Moutiers in Burgundy. This clay is very hard with a porosity of 0,2%. The memory of this clay is therefore quite relative. The pouring is precise and fluid.",
+            "fr": "Pièce unique. Petite théière fabriquée avec une argile naturelle qui provient de village de Moutiers en Bourgogne. Cette argile est très dure avec une porosité de 0,2%. La mémoire de cette argile est donc toute relative. La verse est précise et fluide."
+        },
+        "prix": 132.00,
+        "poids": 0.10,
+        "capacité": 95,
+        "quantité_produite": 1,
+        "photos": [
+            "theiere-117.jpg",
+            "theiere-118.jpg",
+            "theiere-119.jpg",
+            "theiere-120.jpg"
+        ]
+    },
+    {
+        "id": "th97",
+        "titre": {
+            "en": "Small teapot in raw clay",
+            "fr": "Petite théière en terre brute"
+        },
+        "modification": "2021-09-25",
+        "création": "2021-09-25",
+        "catégorie": "Théière",
+        "description": {
+            "en": "Unique piece. Small teapot made with natural clay from the village of Treigny in Burgundy. This clay is quiet soft with a porosity of 2,5%. The interaction between clay and tea should be taken into account. This clay will give a rounder taste to your infusions. The pouring is precise and fluid.",
+            "fr": "Pièce unique. Petite théière fabriquée avec une argile naturelle qui provient de village de Treigny en Bourgogne. Cette argile est assez tendre avec une porosité de 2,5%. L'interaction entre l'argile et le thé est à prendre en compte. Cette argile apportera un côté plus rond à vos infusions. La verse est précise et fluide."
+        },
+        "prix": 132.00,
+        "poids": 0.11,
+        "capacité": 105,
+        "quantité_produite": 1,
+        "photos": [
+            "theiere-121.jpg",
+            "theiere-122.jpg",
+            "theiere-123.jpg",
+            "theiere-124.jpg"
+        ]
+    },
+    {
+        "id": "th98",
+        "titre": {
+            "en": "Small teapot in raw clay",
+            "fr": "Petite théière en terre brute"
+        },
+        "modification": "2021-09-25",
+        "création": "2021-09-25",
+        "catégorie": "Théière",
+        "description": {
+            "en": "Unique piece. Small teapot made with natural clay from the village of St Amand in Burgundy. This clay is hard with a porosity of 0,8%. The memory of this clay is therefore quite relative. The pouring is precise and fluid.",
+            "fr": "Pièce unique. Petite théière fabriquée avec une argile naturelle qui provient de village de St Amand en Bourgogne. Cette argile est dure avec une porosité de 0,8%. La mémoire de cette argile est donc toute relative. La verse est précise et fluide."
+        },
+        "prix": 132.00,
+        "poids": 0.10,
+        "capacité": 105,
+        "quantité_produite": 1,
+        "photos": [
+            "theiere-125.jpg",
+            "theiere-126.jpg",
+            "theiere-127.jpg",
+            "theiere-128.jpg"
+        ]
+    },
+    {
+        "id": "th99",
+        "titre": {
+            "en": "Small teapot in raw clay",
+            "fr": "Petite théière en terre brute"
+        },
+        "modification": "2021-09-25",
+        "création": "2021-09-25",
+        "catégorie": "Théière",
+        "description": {
+            "en": "Unique piece. Small teapot made with natural clay from the village of Treigny in Burgundy. This clay is quiet soft with a porosity of 2,5%. The interaction between clay and tea should be taken into account. This clay will give a rounder taste to your infusions. The pouring is precise and fluid.",
+            "fr": "Pièce unique. Petite théière fabriquée avec une argile naturelle qui provient de village de Treigny en Bourgogne. Cette argile est assez tendre avec une porosité de 2,5%. L'interaction entre l'argile et le thé est à prendre en compte. Cette argile apportera un côté plus rond à vos infusions. La verse est précise et fluide."
+        },
+        "prix": 132.00,
+        "poids": 0.10,
+        "capacité": 100,
+        "quantité_produite": 1,
+        "photos": [
+            "theiere-129.jpg",
+            "theiere-130.jpg",
+            "theiere-131.jpg",
+            "theiere-132.jpg"
+        ]
+    },
+    {
         "id": "k11",
         "titre": {
             "en": "Kyusu 4oz",
