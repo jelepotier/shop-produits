@@ -1597,6 +1597,93 @@
         ]
     },
     {
+        "id": "sh48",
+        "titre": {
+            "en": "Shiboridashi",
+            "fr": "Shiboridashi"
+        },
+        "modification": "2021-09-25",
+        "création": "2021-09-25",
+        "catégorie": "Shiboridashi",
+        "description": {
+            "en": "Unique piece. The shiboridashi is a utensil normally used for brewing Japanese green teas, especially Gyokuro. Some tea lovers use the shiboridashi with other types of tea, as they like the width of the opening and the space for the tea leaves to unfurl. On this shiboridashi, the lid is adjusted. This shiboridashi is made with a high quality and very dense German clay. Its porosity is 0,8%.",
+            "fr": "Pièce unique. Le shiboridashi est un ustensile qui se dédie normalement à l'infusion des thés verts japonais, et plus particulièrement des Gyokuro. Certains amateurs de thé utilisent le shiboridashi avec d'autres type de thé, car ils apprécient la largeur de l'ouverture et l'espace pour que les feuilles de thé se déploient. Sur ce shiboridashi, les couvercle est ajusté. Ce shiboridashi est réalisé avec une argile allemande de grande qualité et très dense. Sa porosité est de 0,8%."
+        },
+        "prix": 76.00,
+        "poids": 0.13,
+        "dimension": {
+                "largeur": 10,
+                "hauteur": 3
+        },
+        "capacité": 60,
+        "quantité_produite": 1,
+        "photos": [
+            "shiboridashi-59.jpg",
+            "shiboridashi-60.jpg",
+            "shiboridashi-61.jpg",
+            "shiboridashi-62.jpg",
+            "shiboridashi-63.jpg"
+        ]
+    },
+    {
+        "id": "sh49",
+        "titre": {
+            "en": "Shiboridashi",
+            "fr": "Shiboridashi"
+        },
+        "modification": "2021-09-25",
+        "création": "2021-09-25",
+        "catégorie": "Shiboridashi",
+        "description": {
+            "en": "Unique piece. The shiboridashi is a utensil normally used for brewing Japanese green teas, especially Gyokuro. Some tea lovers use the shiboridashi with other types of tea, as they like the width of the opening and the space for the tea leaves to unfurl. In order to best promote the possibility of brewing different types of tea, I make the lid slightly smaller than the place where it sits. In this way it is possible to move the lid forward or backward to adapt the pouring to the tea being brewed. This shiboridashi is made with a clay of St Amand in Burgundy. Its porosity is 0,8%.",
+            "fr": "Pièce unique. Le shiboridashi est un ustensile qui se dédie normalement à l'infusion des thés verts japonais, et plus particulièrement des Gyokuro. Certains amateurs de thé utilisent le shiboridashi avec d'autres type de thé, car ils apprécient la largeur de l'ouverture et l'espace pour que les feuilles de thé se déploient. Afin de favoriser au mieux la possibilité d'infuser différents types de thé, je fabrique le couvercle légèrement plus petit que l'endroit où il se pose. De cette façon, il est possible d'avancer ou de reculer le couvercle pour adapter la verse au thé qui infuse. Ce shiboridashi est réalisé avec une argile de St Amand en Bourgogne. Sa porosité est de 0,8%."
+        },
+        "prix": 76.00,
+        "poids": 0.13,
+        "dimension": {
+                "largeur": 11.5,
+                "hauteur": 3.5
+        },
+        "capacité": 100,
+        "quantité_produite": 1,
+        "photos": [
+            "shiboridashi-64.jpg",
+            "shiboridashi-65.jpg",
+            "shiboridashi-66.jpg",
+            "shiboridashi-67.jpg",
+            "shiboridashi-68.jpg"
+        ]
+    },
+    {
+        "id": "sh50",
+        "titre": {
+            "en": "Shiboridashi",
+            "fr": "Shiboridashi"
+        },
+        "modification": "2021-09-21",
+        "création": "2021-09-21",
+        "catégorie": "Shiboridashi",
+        "description": {
+            "en": "Unique piece. The shiboridashi is a utensil normally used for brewing Japanese green teas, especially Gyokuro. Some tea lovers use the shiboridashi with other types of tea, as they like the width of the opening and the space for the tea leaves to unfurl. In order to best promote the possibility of brewing different types of tea, I make the lid slightly smaller than the place where it sits. In this way it is possible to move the lid forward or backward to adapt the pouring to the tea being brewed. This shiboridashi is made with a high quality and very dense German clay. Its porosity is 0,8%.",
+            "fr": "Pièce unique. Le shiboridashi est un ustensile qui se dédie normalement à l'infusion des thés verts japonais, et plus particulièrement des Gyokuro. Certains amateurs de thé utilisent le shiboridashi avec d'autres type de thé, car ils apprécient la largeur de l'ouverture et l'espace pour que les feuilles de thé se déploient. Afin de favoriser au mieux la possibilité d'infuser différents types de thé, je fabrique le couvercle légèrement plus petit que l'endroit où il se pose. De cette façon, il est possible d'avancer ou de reculer le couvercle pour adapter la verse au thé qui infuse. Ce shiboridashi est réalisé avec une argile allemande de grande qualité et très dense. Sa porosité est de 0,8%."
+        },
+        "prix": 76.00,
+        "poids": 0.136,
+        "dimension": {
+                "largeur": 9.7,
+                "hauteur": 3.5
+        },
+        "capacité": 60,
+        "quantité_produite": 1,
+        "photos": [
+            "shiboridashi-69.jpg",
+            "shiboridashi-70.jpg",
+            "shiboridashi-71.jpg",
+            "shiboridashi-72.jpg",
+            "shiboridashi-73.jpg"
+        ]
+    },
+    {
         "id": "h29",
         "titre": {
             "en": "Hohin 3.4oz",
