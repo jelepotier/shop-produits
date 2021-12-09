@@ -3663,6 +3663,173 @@
         ]
     },
     {
+        "id": "j4",
+        "titre": {
+            "en": "small tea jar",
+            "fr": "Petite jarre à thé"
+        },
+        "modification": "2021-12-09",
+        "création": "2021-12-09",
+        "catégorie": "Jarre à thé",
+        "description": {
+            "en": "Unique piece. A small stoneware tea jar that can hold between 50 and 100 grams of loose tea (depending on the size of the leaves of course). This type of small jar is designed to store red teas, puerh or oxidised wulong. It is not suitable for green tea.",
+            "fr": "Pièce unique. Petite jarre à thé en grès brut, pouvant contenir entre 50 et 100 gr de thé en vrac (en fonction de la taille des feuilles bien entendu). Ce type de petite jarre est destiné à stocker des thés rouges, du puerh ou des wulong oxydés. Ce n'est pas fait pour le thé vert."
+        },
+        "prix": 50.00,
+        "poids": 0.382,
+        "dimension": {
+                "largeur": 11.4,
+                "hauteur": 8.8
+                },
+        "quantité_produite": 1,
+        "photos": [
+            "jarre-01.jpg",
+            "jarre-02.jpg",
+            "jarre-03.jpg",
+            "jarre-04.jpg",
+            "jarre-05.jpg"    
+        ]
+    },
+    {
+        "id": "j5",
+        "titre": {
+            "en": "small tea jar",
+            "fr": "Petite jarre à thé"
+        },
+        "modification": "2021-12-09",
+        "création": "2021-12-09",
+        "catégorie": "Jarre à thé",
+        "description": {
+            "en": "Unique piece. A small stoneware tea jar that can hold between 50 and 100 grams of loose tea (depending on the size of the leaves of course). This type of small jar is designed to store red teas, puerh or oxidised wulong. It is not suitable for green tea.",
+            "fr": "Pièce unique. Petite jarre à thé en grès brut, pouvant contenir entre 50 et 100 gr de thé en vrac (en fonction de la taille des feuilles bien entendu). Ce type de petite jarre est destiné à stocker des thés rouges, du puerh ou des wulong oxydés. Ce n'est pas fait pour le thé vert."
+        },
+        "prix": 50.00,
+        "poids": 0.410,
+        "dimension": {
+                "largeur": 11.7,
+                "hauteur": 9.1
+                },
+        "quantité_produite": 1,
+        "photos": [
+            "jarre-06.jpg",
+            "jarre-07.jpg",
+            "jarre-08.jpg",
+            "jarre-09.jpg",
+            "jarre-10.jpg"    
+        ]
+    },
+    {
+        "id": "j6",
+        "titre": {
+            "en": "small tea jar",
+            "fr": "Petite jarre à thé"
+        },
+        "modification": "2021-12-09",
+        "création": "2021-12-09",
+        "catégorie": "Jarre à thé",
+        "description": {
+            "en": "Unique piece. A small stoneware tea jar that can hold between 50 and 100 grams of loose tea (depending on the size of the leaves of course). This type of small jar is designed to store red teas, puerh or oxidised wulong. It is not suitable for green tea.",
+            "fr": "Pièce unique. Petite jarre à thé en grès brut, pouvant contenir entre 50 et 100 gr de thé en vrac (en fonction de la taille des feuilles bien entendu). Ce type de petite jarre est destiné à stocker des thés rouges, du puerh ou des wulong oxydés. Ce n'est pas fait pour le thé vert."
+        },
+        "prix": 50.00,
+        "poids": 0.390,
+        "dimension": {
+                "largeur": 11.9,
+                "hauteur": 9.9
+                },
+        "quantité_produite": 1,
+        "photos": [
+            "jarre-11.jpg",
+            "jarre-12.jpg",
+            "jarre-13.jpg",
+            "jarre-14.jpg",
+            "jarre-15.jpg"    
+        ]
+    },
+    {
+        "id": "j7",
+        "titre": {
+            "en": "small tea jar",
+            "fr": "Petite jarre à thé"
+        },
+        "modification": "2021-12-09",
+        "création": "2021-12-09",
+        "catégorie": "Jarre à thé",
+        "description": {
+            "en": "Unique piece. A small stoneware tea jar that can hold between 50 and 100 grams of loose tea (depending on the size of the leaves of course). This type of small jar is designed to store red teas, puerh or oxidised wulong. It is not suitable for green tea.",
+            "fr": "Pièce unique. Petite jarre à thé en grès brut, pouvant contenir entre 50 et 100 gr de thé en vrac (en fonction de la taille des feuilles bien entendu). Ce type de petite jarre est destiné à stocker des thés rouges, du puerh ou des wulong oxydés. Ce n'est pas fait pour le thé vert."
+        },
+        "prix": 50.00,
+        "poids": 0.391,
+        "dimension": {
+                "largeur": 11.5,
+                "hauteur": 9.5
+                },
+        "quantité_produite": 1,
+        "photos": [
+            "jarre-16.jpg",
+            "jarre-17.jpg",
+            "jarre-18.jpg",
+            "jarre-19.jpg",
+            "jarre-20.jpg"    
+        ]
+    },
+    {
+        "id": "j8",
+        "titre": {
+            "en": "small tea jar",
+            "fr": "Petite jarre à thé"
+        },
+        "modification": "2021-12-09",
+        "création": "2021-12-09",
+        "catégorie": "Jarre à thé",
+        "description": {
+            "en": "Unique piece. A small stoneware tea jar that can hold between 50 and 100 grams of loose tea (depending on the size of the leaves of course). This type of small jar is designed to store red teas, puerh or oxidised wulong. It is not suitable for green tea.",
+            "fr": "Pièce unique. Petite jarre à thé en grès brut, pouvant contenir entre 50 et 100 gr de thé en vrac (en fonction de la taille des feuilles bien entendu). Ce type de petite jarre est destiné à stocker des thés rouges, du puerh ou des wulong oxydés. Ce n'est pas fait pour le thé vert."
+        },
+        "prix": 50.00,
+        "poids": 0.389,
+        "dimension": {
+                "largeur": 11,
+                "hauteur": 8.9
+                },
+        "quantité_produite": 1,
+        "photos": [
+            "jarre-21.jpg",
+            "jarre-22.jpg",
+            "jarre-23.jpg",
+            "jarre-24.jpg",
+            "jarre-25.jpg"    
+        ]
+    },
+    {
+        "id": "pp6",
+        "titre": {
+            "en": "small tea pot",
+            "fr": "Petit pot à thé"
+        },
+        "modification": "2021-12-09",
+        "création": "2021-12-09",
+        "catégorie": "Jarre à thé",
+        "description": {
+            "en": "Unique piece. Small tea pot that can hold 20 gr of tea. This type of pot is usually used when preparing tea for your guests. It avoids the presence of the tea bag which is less aesthetic. In preparation for your tea session, you pour the amount of tea you want to brew into this pot.",
+            "fr": "Pièce unique. Petit pot à thé pouvant contenir 20 gr de thé. En règle général, ce type de pot est utiliser lorsque vous préparer du thé pour vos hôtes. Cela évite la présence du sachet de thé qui est moins esthétique. En prévision de votre session de thé, vous transvaser dans ce pot la quantité du thé que vous souhaitez infuser."
+        },
+        "prix": 50.00,
+        "poids": 0.164,
+        "dimension": {
+                "largeur": 7.8,
+                "hauteur": 6.4
+                },
+        "quantité_produite": 1,
+        "photos": [
+            "jarre-26.jpg",
+            "jarre-27.jpg",
+            "jarre-28.jpg",
+            "jarre-29.jpg"   
+        ]
+    },
+    {
         "id": "br1",
         "titre": {
             "en": "Brazier",
