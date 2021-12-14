@@ -1,11 +1,9 @@
 {
-    "forme_social": "auto-entrepreneur",
     "nom": "Jé le potier",
     "logo": "https://raw.githubusercontent.com/jelepotier/shop-produits/main/logo.jpg",
     "a_propos": "https://infos.theiere-tasse.com",
     "proprietaire": "Jérôme Roussel",
     "email": "jelepotier@laposte.net",
-    "couleur": "#73d56b",
     "site": "https://www.theiere-tasse.com",
     "siege": "sis au 15, rue de la perception, 03300 Cusset",
     "enregistrement": "du RM de Moulin",
