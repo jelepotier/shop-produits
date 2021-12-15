@@ -2482,28 +2482,6 @@
         ]
     },
     {
-        "id": "bt1",
-        "titre": {
-            "en": "Set gongfu bowls 1.3oz.",
-            "fr": "Set bols à gongfu 4cl."
-        },
-        "modification": "2020-11-21",
-        "création": "2020-11-23",
-        "catégorie": "Bol à thé",
-        "description": {
-            "en": "Set consisting of a smelling bowl and a drinking bowl of 1.3oz",
-            "fr": "Set composé d'un bol à sentir et d'un bol à boire de 4 cl"
-        },
-        "prix": 25.00,
-        "poids": 0.4,
-        "quantité_produite": 10,
-        "photos": [
-            "set-gongfu_1-a.jpg",
-            "set-gongfu_1-b.jpg",
-            "set-gongfu_1-c.jpg"
-        ]
-    },
-    {
         "id": "bt2",
         "titre": {
             "en": "tea bowl 3.4oz",
