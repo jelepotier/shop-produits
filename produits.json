@@ -2487,76 +2487,6 @@
         ]
     },
     {
-        "id": "v3",
-        "titre": {
-            "en": "Pourer 5.4oz",
-            "fr": "Verseuse 16cl"
-        },
-        "modification": "2020-11-21",
-        "création": "2020-11-23",
-        "catégorie": "Verseuse",
-        "description": {
-            "en": "Glazed pourer of 5.4oz",
-            "fr": "Verseuse de 16cl émaillée."
-        },
-        "prix": 25.00,
-        "poids": 0.25,
-        "quantité_produite": 2,
-        "photos": [
-            "verseuse-01.jpg",
-            "verseuse-02.jpg",
-            "verseuse-03.jpg"
-        ]
-    },
-    {
-        "id": "v4",
-        "titre": {
-            "en": "Pourer 4.7oz",
-            "fr": "Verseuse 14cl"
-        },
-        "modification": "2020-11-21",
-        "création": "2020-11-23",
-        "catégorie": "Verseuse",
-        "description": {
-            "en": "Glazed pourer of 4.7oz",
-            "fr": "Verseuse de 14cl émaillée."
-        },
-        "prix": 30.00,
-        "poids": 0.25,
-        "quantité_produite": 1,
-        "photos": [
-            "verseuse-04.jpg",
-            "verseuse-05.jpg",
-            "verseuse-06.jpg",
-            "verseuse-07.jpg",
-            "verseuse-08.jpg"
-        ]
-    },
-    {
-        "id": "v5",
-        "titre": {
-            "en": "Pourer 4.7oz",
-            "fr": "Verseuse 14cl"
-        },
-        "modification": "2020-11-21",
-        "création": "2020-11-23",
-        "catégorie": "Verseuse",
-        "description": {
-            "en": "Glazed pourer of 4.7oz",
-            "fr": "Verseuse de 14cl émaillée."
-        },
-        "prix": 30.00,
-        "poids": 0.25,
-        "quantité_produite": 1,
-        "photos": [
-            "verseuse-09.jpg",
-            "verseuse-10.jpg",
-            "verseuse-11.jpg",
-            "verseuse-12.jpg",
-            "verseuse-13.jpg"
-        ]
-    },
-    {
         "id": "v6",
         "titre": {
             "en": "Pourer 4.4oz",
@@ -2576,28 +2506,6 @@
             "verseuse-14.jpg",
             "verseuse-15.jpg",
             "verseuse-16.jpg"
-        ]
-    },
-    {
-        "id": "v7",
-        "titre": {
-            "en": "Pourer 4.oz",
-            "fr": "Verseuse 12cl"
-        },
-        "modification": "2020-11-21",
-        "création": "2020-11-23",
-        "catégorie": "Verseuse",
-        "description": {
-            "en": "Glazed pourer of 4.oz",
-            "fr": "Verseuse de 12cl émaillée."
-        },
-        "prix": 40.00,
-        "poids": 0.25,
-        "quantité_produite": 1,
-        "photos": [
-            "verseuse-17.jpg",
-            "verseuse-18.jpg",
-            "verseuse-19.jpg"
         ]
     },
     {
