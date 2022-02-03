@@ -1280,52 +1280,6 @@
         ]
     },
     {
-        "id": "sh22",
-        "titre": {
-            "en": "Shiboridashi 2.3oz",
-            "fr": "Shiboridashi 7cl"
-        },
-        "modification": "2020-11-21",
-        "création": "2020-11-14",
-        "catégorie": "Shiboridashi",
-        "description": {
-            "en": "Unique piece. Glazed shiboridashi of 2.3oz. Weight: 5.6oz.",
-            "fr": "Pièce unique. Shiboridashi de 7cl émaillé. Poids : 160 gr."
-        },
-        "prix": 76.00,
-        "poids": 0.4,
-        "quantité_produite": 0,
-        "photos": [
-            "shiboridashi_22-a.jpg",
-            "shiboridashi_22-b.jpg",
-            "shiboridashi_22-c.jpg",
-            "shiboridashi_22-d.jpg"
-        ]
-    },
-    {
-        "id": "sh33",
-        "titre": {
-            "en": "Shiboridashi 3oz",
-            "fr": "Shiboridashi 9cl"
-        },
-        "modification": "2020-11-21",
-        "création": "2020-11-14",
-        "catégorie": "Shiboridashi",
-        "description": {
-            "en": "Unique piece. Glazed Shiboridashi of 3oz. Weight 4.6oz",
-            "fr": "Pièce unique. Shiboridashi de 9cl émaillé. Poids 130g."
-        },
-        "prix": 76.00,
-        "poids": 0.4,
-        "quantité_produite": 0,
-        "photos": [
-            "shiboridashi_33-a.jpg",
-            "shiboridashi_33-b.jpg",
-            "shiboridashi_33-c.jpg",
-            "shiboridashi_33-d.jpg"
-        ]
-    },
-    {
         "id": "sh34",
         "titre": {
             "en": "Shiboridashi 3.4oz",
