@@ -1409,24 +1409,6 @@
         ]
     },
     {
-        "id": "br6",
-        "titre": {
-            "en": "Brazier",
-            "fr": "Brasero"
-        },
-        "modification": "2020-11-21",
-        "création": "2020-11-23",
-        "catégorie": "Brasero",
-        "description": {
-            "en": "Brazier made of Baillet clay (crucible clay) particularly resistant to temperature variations . Manufactured in two parts. Outside diameter of the kettle support: 13.5 cm. Can accommodate kettles with a bottom between 8 cm and 11 cm. Height: 16.5 cm",
-            "fr": "Brasero en terre de Baillet (terre à creuset) particulièrement résistante aux écarts de température.. Fabriqué en deux parties. Diamètre extérieur de support de la bouilloire : 13,5 cm. Peut accueillir des bouilloires ayant un fond entre 8 cm et 11 cm. Hauteur : 16,5 cm"
-        },
-        "prix": 150.00,
-        "poids": 2.5,
-        "quantité_produite": 0,
-        "photos": []
-    },
-    {
         "id": "bat17",
         "titre": {
             "en": "tea boat",
@@ -1527,28 +1509,6 @@
             "bateau-a-the-31.jpg",
             "bateau-a-the-32.jpg",
             "bateau-a-the-33.jpg"
-        ]
-    },
-    {
-        "id": "pp2",
-        "titre": {
-            "en": "small tea pot",
-            "fr": "Petit pot à thé"
-        },
-        "modification": "2020-11-21",
-        "création": "2020-11-23",
-        "catégorie": "Jarre à thé",
-        "description": {
-            "en": "Unique piece. Small tea pot that can hold 0.7oz of tea. This type of pot is usually used when preparing tea for your guests. It avoids the presence of the tea bag which is less aesthetic. In preparation for your tea session, you pour the amount of tea you want to brew into this pot.",
-            "fr": "Pièce unique. Petit pot à thé pouvant contenir 20 gr de thé. En règle général, ce type de pot est utilisé lorsque vous préparez du thé pour vos hôtes. Cela évite la présence du sachet de thé qui est moins esthétique. En prévision de votre session de thé, vous transvasez dans ce pot la quantité du thé que vous souhaitez infuser."
-        },
-        "prix": 50.00,
-        "poids": 0.4,
-        "quantité_produite": 1,
-        "photos": [
-            "pot-a-t_2-a.jpg",
-            "pot-a-t_2-b.jpg",
-            "pot-a-t_2-c.jpg"
         ]
     },
     {
@@ -1690,34 +1650,6 @@
         ]
     },
     {
-        "id": "j5",
-        "titre": {
-            "en": "small tea jar",
-            "fr": "Petite jarre à thé"
-        },
-        "modification": "2021-12-09",
-        "création": "2021-12-09",
-        "catégorie": "Jarre à thé",
-        "description": {
-            "en": "Unique piece. A small stoneware tea jar that can hold between 50 and 100 grams of loose tea (depending on the size of the leaves of course). This type of small jar is designed to store red teas, puerh or oxidised wulong. It is not suitable for green tea.",
-            "fr": "Pièce unique. Petite jarre à thé en grès brut, pouvant contenir entre 50 et 100 gr de thé en vrac (en fonction de la taille des feuilles bien entendu). Ce type de petite jarre est destiné à stocker des thés rouges, du puerh ou des wulong oxydés. Ce n'est pas fait pour le thé vert."
-        },
-        "prix": 50.00,
-        "poids": 0.410,
-        "dimension": {
-                "largeur": 11.7,
-                "hauteur": 9.1
-                },
-        "quantité_produite": 1,
-        "photos": [
-            "jarre-06.jpg",
-            "jarre-07.jpg",
-            "jarre-08.jpg",
-            "jarre-09.jpg",
-            "jarre-10.jpg"    
-        ]
-    },
-    {
         "id": "j7",
         "titre": {
             "en": "small tea jar",
@@ -1770,28 +1702,6 @@
             "jarre-27.jpg",
             "jarre-28.jpg",
             "jarre-29.jpg"   
-        ]
-    },
-    {
-        "id": "br1",
-        "titre": {
-            "en": "Brazier",
-            "fr": "Brasero"
-        },
-        "modification": "2021-03-22",
-        "création": "2021-03-22",
-        "catégorie": "Brasero",
-        "description": {
-            "en": "Brazier designed to hold a clay or cast iron kettle. It is made of two parts; one part to put the coals and another to receive the ashes. This brazier is made with a very resistant clay. The raised foot allows the brazier to be placed directly on the tea table. Diameter to accommodate the kettle: 5.1 Inches.",
-            "fr": "Brasero destiné à accueillir une bouilloire en argile ou en fonte. Il est constitué de deux pièces ; une partie pour disposer les charbons  et une autre pour recevoir les cendres. Ce brasero est fabriqué avec une argile très résistante. Le pied surélevé permet de poser le braséro directement sur la table à thé. Diamètre pour accueillir la bouilloire : 13cm."
-        },
-        "prix": 140.00,
-        "poids": 2.0,
-        "quantité_produite": 1,
-        "photos": [
-            "brasero-01.jpg",
-            "brasero-02.jpg",
-            "brasero-03.jpg"
         ]
     },
     {
