@@ -1212,31 +1212,6 @@
         ]
     },
     {
-        "id": "sdv15",
-        "titre": {
-            "en": "Travel set",
-            "fr": "Set de voyage"
-        },
-        "modification": "2021-12-09",
-        "création": "2021-12-09",
-        "catégorie": "Set de Voyage",
-        "description": {
-            "en": "Unique piece. Travel set for two people. It includes: 1 hohin (simple and functional) and 2 cups. The whole set is connected by an elastic band, making it compact and easy to carry. This set is made of porcelain stoneware, a very hard clay as it has 0% porosity. This set is not glazed and will develop a patina over time. The protective cover can be purchased separately.",
-            "fr": "Pièce unique. Set de voyage pour deux personnes. Il comprend : 1 hohin (simple et fonctionel) et 2 tasses. Le tout est relié par un élastique permettant d'avoir un produit compact et facile à transporter. Ce set est fabriqué en grès porcelainique, une argile très dure puisqu'elle est à 0% de porosité. Ce set n'est pas émaillé et se patinera avec le temps. La housse de protection peut être achetée à part."
-        },
-        "prix": 110.00,
-        "poids": 0.256,
-        "capacité": 120,
-        "quantité_produite": 1,
-        "photos": [
-            "set-de-voyage-01.jpg",
-            "set-de-voyage-02.jpg",
-            "set-de-voyage-03.jpg",
-            "set-de-voyage-04.jpg",
-            "set-de-voyage-05.jpg"
-        ]
-    },
-    {
         "id": "sdv16",
         "titre": {
             "en": "Travel set",
@@ -1259,31 +1234,6 @@
             "set-de-voyage-08.jpg",
             "set-de-voyage-09.jpg",
             "set-de-voyage-10.jpg"
-        ]
-    },
-    {
-        "id": "sdv17",
-        "titre": {
-            "en": "Travel set",
-            "fr": "Set de voyage"
-        },
-        "modification": "2021-12-09",
-        "création": "2021-12-09",
-        "catégorie": "Set de Voyage",
-        "description": {
-            "en": "Unique piece. Travel set for two people. It includes: 1 hohin (simple and functional) and 2 cups. The whole set is connected by an elastic band, making it compact and easy to carry. This set is made of porcelain stoneware, a very hard clay as it has 0% porosity. This set is not glazed and will develop a patina over time. The protective cover can be purchased separately.",
-            "fr": "Pièce unique. Set de voyage pour deux personnes. Il comprend : 1 hohin (simple et fonctionel) et 2 tasses. Le tout est relié par un élastique permettant d'avoir un produit compact et facile à transporter. Ce set est fabriqué en grès porcelainique, une argile très dure puisqu'elle est à 0% de porosité. Ce set n'est pas émaillé et se patinera avec le temps. La housse de protection peut être achetée à part."
-        },
-        "prix": 110.00,
-        "poids": 0.243,
-        "capacité": 120,
-        "quantité_produite": 1,
-        "photos": [
-            "set-de-voyage-11.jpg",
-            "set-de-voyage-12.jpg",
-            "set-de-voyage-13.jpg",
-            "set-de-voyage-14.jpg",
-            "set-de-voyage-15.jpg"
         ]
     },
     {
