@@ -1427,50 +1427,6 @@
         "photos": []
     },
     {
-        "id": "bat16",
-        "titre": {
-            "en": "tea boat",
-            "fr": "Bateau à thé"
-        },
-        "modification": "2020-11-21",
-        "création": "2020-11-23",
-        "catégorie": "Bateau à thé",
-        "description": {
-            "en": "Handcrafted tea boat in raw clay, manufactured and decorated by hand. Outside diameter: 5.9in. Diameter of the teapot rest: 2.4in. Height: 1.2in. Weight: 10.6oz",
-            "fr": "Bateau à thé artisanale en terre brute, fabriqué et décoré à la main. Diamètre extérieur : 15cm. Diamètre du repose théière : 6cm. Hauteur : 3cm. Poids : 300g"
-        },
-        "prix": 72.00,
-        "poids": 0.4,
-        "quantité_produite": 1,
-        "photos": [
-            "bateau-a-the-04.jpg",
-            "bateau-a-the-05.jpg",
-            "bateau-a-the-06.jpg"
-        ]
-    },
-    {
-        "id": "bat15",
-        "titre": {
-            "en": "tea boat",
-            "fr": "Bateau à thé"
-        },
-        "modification": "2020-11-21",
-        "création": "2020-11-23",
-        "catégorie": "Bateau à thé",
-        "description": {
-            "en": "Handcrafted glazed, handcrafted and decorated tea boat. Outside diameter: 6.1in. Diameter of the teapot rest: 2.4in. Height: 1.2in. Weight: 11.3oz.",
-            "fr": "Bateau à thé artisanale émaillé, fabriqué et décoré à la main. Diamètre extérieur : 15,5cm. Diamètre du repose théière : 6cm. Hauteur : 3cm. Poids : 320g."
-        },
-        "prix": 72.00,
-        "poids": 0.4,
-        "quantité_produite": 1,
-        "photos": [
-            "bateau-a-the-01.jpg",
-            "bateau-a-the-02.jpg",
-            "bateau-a-the-03.jpg"
-        ]
-    },
-    {
         "id": "bat17",
         "titre": {
             "en": "tea boat",
@@ -1490,60 +1446,6 @@
             "bateau-a-the-07.jpg",
             "bateau-a-the-08.jpg",
             "bateau-a-the-09.jpg"
-        ]
-    },
-    {
-        "id": "bat18",
-        "titre": {
-            "en": "waste water pot 水盂shui yu",
-            "fr": "Pot à eau usée 水盂shui yu"
-        },
-        "modification": "2021-05-29",
-        "création": "2021-05-29",
-        "catégorie": "Bateau à thé",
-        "description": {
-            "en": "Unique piece. Waste water pot, intended to receive the rinsing water of tea. It is placed on your tea table and contributes to the elegance of your practice. As you use it, it will take on the colors of the different teas you drink.",
-            "fr": "Pièce unique. Pot à eau usée, destiné à recevoir les eaux de rinçage du thé. Il se place sur votre table à thé et participe à l'élégance de votre pratique. Au fur et à mesure de son utilisation, il se patinera des couleurs des différents thés que vous boirez."
-        },
-        "prix": 50.00,
-        "poids": 0.4,
-        "dimension": {
-                "largeur": 11,
-                "hauteur": 8.5
-                },
-        "quantité_produite": 1,
-        "photos": [
-            "bateau-a-the-10.jpg",
-            "bateau-a-the-11.jpg",
-            "bateau-a-the-12.jpg",
-            "bateau-a-the-13.jpg"
-        ]
-    },
-    {
-        "id": "bat19",
-        "titre": {
-            "en": "waste water pot 水盂shui yu",
-            "fr": "Pot à eau usée 水盂shui yu"
-        },
-        "modification": "2021-05-29",
-        "création": "2021-05-29",
-        "catégorie": "Bateau à thé",
-        "description": {
-            "en": "Unique piece. Waste water pot, intended to receive the rinsing water of tea. It is placed on your tea table and contributes to the elegance of your practice. As you use it, it will take on the colors of the different teas you drink.",
-            "fr": "Pièce unique. Pot à eau usée, destiné à recevoir les eaux de rinçage du thé. Il se place sur votre table à thé et participe à l'élégance de votre pratique. Au fur et à mesure de son utilisation, il se patinera des couleurs des différents thés que vous boirez."
-        },
-        "prix": 50.00,
-        "poids": 0.4,
-        "dimension": {
-                "largeur": 11.5,
-                "hauteur": 8.5
-                },
-        "quantité_produite": 1,
-        "photos": [
-            "bateau-a-the-14.jpg",
-            "bateau-a-the-15.jpg",
-            "bateau-a-the-16.jpg",
-            "bateau-a-the-17.jpg"
         ]
     },
     {
@@ -1598,33 +1500,6 @@
             "bateau-a-the-23.jpg",
             "bateau-a-the-24.jpg",
             "bateau-a-the-25.jpg"
-        ]
-    },
-    {
-        "id": "bat22",
-        "titre": {
-            "en": "waste water pot 水盂shui yu",
-            "fr": "Pot à eau usée 水盂shui yu"
-        },
-        "modification": "2021-05-29",
-        "création": "2021-05-29",
-        "catégorie": "Bateau à thé",
-        "description": {
-            "en": "Unique piece. Waste water pot, intended to receive the rinsing water of tea. It is placed on your tea table and contributes to the elegance of your practice. As you use it, it will take on the colors of the different teas you drink.",
-            "fr": "Pièce unique. Pot à eau usée, destiné à recevoir les eaux de rinçage du thé. Il se place sur votre table à thé et participe à l'élégance de votre pratique. Au fur et à mesure de son utilisation, il se patinera des couleurs des différents thés que vous boirez."
-        },
-        "prix": 50.00,
-        "poids": 0.4,
-        "dimension": {
-                "largeur": 11.5,
-                "hauteur": 8.5
-                },
-        "quantité_produite": 1,
-        "photos": [
-            "bateau-a-the-26.jpg",
-            "bateau-a-the-27.jpg",
-            "bateau-a-the-28.jpg",
-            "bateau-a-the-29.jpg"
         ]
     },
     {
