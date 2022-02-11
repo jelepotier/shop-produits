@@ -546,29 +546,6 @@
         ]
     },
     {
-        "id": "k23",
-        "titre": {
-            "en": "Kyusu 5.7oz",
-            "fr": "Kyusu 17cl"
-        },
-        "modification": "2020-11-21",
-        "création": "2020-11-14",
-        "catégorie": "Kyusu",
-        "description": {
-            "en": "Unique piece. Glazed Kyusu, for right-handed people, 5.7oz. This kyusu is glazed inside and outside. Its filter is large enough, with fine holes for brewing Japanese green teas.",
-            "fr": "Pièce unique. Kyusu émaillé, pour droiters de 17cl. Ce kyusu est émaillé intérieur et extérieur. Son filtre assez large, est composé de trous fins pour permettre l'infusion des thés verts japonais."
-        },
-        "prix": 142.00,
-        "poids": 0.4,
-        "quantité_produite": 1,
-        "photos": [
-            "kyusu_09.jpg",
-            "kyusu_10.jpg",
-            "kyusu_11.jpg",
-            "kyusu_12.jpg"
-        ]
-    },
-    {
         "id": "k25",
         "titre": {
             "en": "Kyusu 4oz",
@@ -589,52 +566,6 @@
             "kyusu-41.jpg",
             "kyusu-42.jpg",
             "kyusu-43.jpg"
-        ]
-    },
-    {
-        "id": "k26",
-        "titre": {
-            "en": "Kyusu 6.4oz",
-            "fr": "Kyusu 19cl"
-        },
-        "modification": "2020-11-21",
-        "création": "2020-11-14",
-        "catégorie": "Kyusu",
-        "description": {
-            "en": "Unique piece. Glazed Kyusu, for right-hander, 6.4oz. This kyusu is glazed inside and outside. Its filter is large enough, with fine holes for brewing Japanese green teas.",
-            "fr": "Pièce unique. Kyusu émaillé, pour droitier de 19cl. Ce kyusu est émaillé intérieur et extérieur. Son filtre assez large, est composé de trous fins pour permettre l'infusion des thés verts japonais."
-        },
-        "prix": 142.00,
-        "poids": 0.4,
-        "quantité_produite": 1,
-        "photos": [
-            "kyusu-44.jpg",
-            "kyusu-45.jpg",
-            "kyusu-46.jpg",
-            "kyusu-47.jpg"
-        ]
-    },
-    {
-        "id": "k27",
-        "titre": {
-            "en": "Kyusu 5.6oz",
-            "fr": "Kyusu 16,5cl"
-        },
-        "modification": "2021-02-12",
-        "création": "2021-02-12",
-        "catégorie": "Kyusu",
-        "description": {
-            "en": "Unique piece. Glazed Kyusu, for right-hander, 5.6oz. This kyusu is glazed inside and outside. Its filter is large enough, with fine holes for brewing Japanese green teas.",
-            "fr": "Pièce unique. Kyusu émaillé, pour droitier de 16,5cl. Ce kyusu est émaillé intérieur et extérieur. Son filtre assez large, est composé de trous fins pour permettre l'infusion des thés verts japonais."
-        },
-        "prix": 142.00,
-        "poids": 0.25,
-        "quantité_produite": 1,
-        "photos": [
-            "kyusu-48.jpg",
-            "kyusu-49.jpg",
-            "kyusu-50.jpg",
-            "kyusu-51.jpg"
         ]
     },
     {
@@ -799,131 +730,6 @@
         ]
     },
     {
-        "id": "k37",
-        "titre": {
-            "en": "Glazed kyusu",
-            "fr": "Kyusu émaillé"
-        },
-        "modification": "2021-12-09",
-        "création": "2021-12-09",
-        "catégorie": "Kyusu",
-        "description": {
-            "en": "Unique piece. Glazed Kyusu, for right-hander. This kyusu is glazed inside and outside. Its filter is large enough, with fine holes for brewing Japanese green teas.",
-            "fr": "Pièce unique. Kyusu émaillé, pour droitier. Ce kyusu est émaillé intérieur et extérieur. Son filtre assez large, est composé de trous fins pour permettre l'infusion des thés verts japonais."
-        },
-        "prix": 146.00,
-        "poids": 0.170,
-        "capacité": 190,
-        "quantité_produite": 1,
-        "photos": [
-            "kyusu-86.jpg",
-            "kyusu-87.jpg",
-            "kyusu-88.jpg",
-            "kyusu-89.jpg",
-            "kyusu-90.jpg"    
-        ]
-    },
-    {
-        "id": "k38",
-        "titre": {
-            "en": "Glazed kyusu",
-            "fr": "Kyusu émaillé"
-        },
-        "modification": "2021-12-09",
-        "création": "2021-12-09",
-        "catégorie": "Kyusu",
-        "description": {
-            "en": "Unique piece. Glazed Kyusu, for right-hander. This kyusu is glazed inside and outside. Its filter is large enough, with fine holes for brewing Japanese green teas.",
-            "fr": "Pièce unique. Kyusu émaillé, pour droitier. Ce kyusu est émaillé intérieur et extérieur. Son filtre assez large, est composé de trous fins pour permettre l'infusion des thés verts japonais."
-        },
-        "prix": 146.00,
-        "poids": 0.177,
-        "capacité": 200,
-        "quantité_produite": 1,
-        "photos": [
-            "kyusu-91.jpg",
-            "kyusu-92.jpg",
-            "kyusu-93.jpg",
-            "kyusu-94.jpg",
-            "kyusu-95.jpg"    
-        ]
-    },
-    {
-        "id": "k39",
-        "titre": {
-            "en": "Glazed kyusu",
-            "fr": "Kyusu émaillé"
-        },
-        "modification": "2021-12-09",
-        "création": "2021-12-09",
-        "catégorie": "Kyusu",
-        "description": {
-            "en": "Unique piece. Glazed Kyusu, for right-hander. This kyusu is glazed inside and outside. Its filter is large enough, with fine holes for brewing Japanese green teas.",
-            "fr": "Pièce unique. Kyusu émaillé, pour droitier. Ce kyusu est émaillé intérieur et extérieur. Son filtre assez large, est composé de trous fins pour permettre l'infusion des thés verts japonais."
-        },
-        "prix": 146.00,
-        "poids": 0.123,
-        "capacité": 135,
-        "quantité_produite": 1,
-        "photos": [
-            "kyusu-96.jpg",
-            "kyusu-97.jpg",
-            "kyusu-98.jpg",
-            "kyusu-99.jpg",
-            "kyusu-100.jpg"    
-        ]
-    },
-    {
-        "id": "k41",
-        "titre": {
-            "en": "Glazed kyusu",
-            "fr": "Kyusu émaillé"
-        },
-        "modification": "2021-12-09",
-        "création": "2021-12-09",
-        "catégorie": "Kyusu",
-        "description": {
-            "en": "Unique piece. Glazed Kyusu, for left-hander. This kyusu is glazed inside and outside. Its filter is large enough, with fine holes for brewing Japanese green teas.",
-            "fr": "Pièce unique. Kyusu émaillé, pour gaucher. Ce kyusu est émaillé intérieur et extérieur. Son filtre assez large, est composé de trous fins pour permettre l'infusion des thés verts japonais."
-        },
-        "prix": 146.00,
-        "poids": 0.150,
-        "capacité": 170,
-        "quantité_produite": 1,
-        "photos": [
-            "kyusu-106.jpg",
-            "kyusu-107.jpg",
-            "kyusu-108.jpg",
-            "kyusu-109.jpg",
-            "kyusu-110.jpg"    
-        ]
-    },
-    {
-        "id": "k42",
-        "titre": {
-            "en": "Glazed kyusu",
-            "fr": "Kyusu émaillé"
-        },
-        "modification": "2021-12-09",
-        "création": "2021-12-09",
-        "catégorie": "Kyusu",
-        "description": {
-            "en": "Unique piece. Glazed Kyusu, for right-hander. This kyusu is glazed inside and outside. Its filter is large enough, with fine holes for brewing Japanese green teas.",
-            "fr": "Pièce unique. Kyusu émaillé, pour droitier. Ce kyusu est émaillé intérieur et extérieur. Son filtre assez large, est composé de trous fins pour permettre l'infusion des thés verts japonais."
-        },
-        "prix": 146.00,
-        "poids": 0.145,
-        "capacité": 162,
-        "quantité_produite": 1,
-        "photos": [
-            "kyusu-111.jpg",
-            "kyusu-112.jpg",
-            "kyusu-113.jpg",
-            "kyusu-114.jpg",
-            "kyusu-115.jpg"    
-        ]
-    },
-    {
         "id": "k43",
         "titre": {
             "en": "Glazed kyusu",
@@ -946,31 +752,6 @@
             "kyusu-118.jpg",
             "kyusu-119.jpg",
             "kyusu-120.jpg"    
-        ]
-    },
-    {
-        "id": "k44",
-        "titre": {
-            "en": "Glazed kyusu",
-            "fr": "Kyusu émaillé"
-        },
-        "modification": "2021-12-09",
-        "création": "2021-12-09",
-        "catégorie": "Kyusu",
-        "description": {
-            "en": "Unique piece. Glazed Kyusu, for right-hander. This kyusu is glazed inside and outside. Its filter is large enough, with fine holes for brewing Japanese green teas.",
-            "fr": "Pièce unique. Kyusu émaillé, pour droitier. Ce kyusu est émaillé intérieur et extérieur. Son filtre assez large, est composé de trous fins pour permettre l'infusion des thés verts japonais."
-        },
-        "prix": 146.00,
-        "poids": 0.186,
-        "capacité": 205,
-        "quantité_produite": 0,
-        "photos": [
-            "kyusu-121.jpg",
-            "kyusu-122.jpg",
-            "kyusu-123.jpg",
-            "kyusu-124.jpg",
-            "kyusu-125.jpg"    
         ]
     },
     {
