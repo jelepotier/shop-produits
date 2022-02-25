@@ -82,7 +82,7 @@
         },
         "prix": 58.00,
         "poids": 0.3,
-        "quantité_produite": 10,
+        "quantité_produite": 6,
         "photos": [
             "gaiwan-01.jpg",
             "gaiwan-02.jpg",
@@ -1071,30 +1071,6 @@
             "teabowl-22.jpg",
             "teabowl-23.jpg",
             "teabowl-24.jpg"
-        ]
-    },
-    {
-        "id": "bt18",
-        "titre": {
-            "en": "gongfucha set",
-            "fr": "Set pour gongfucha"
-        },
-        "modification": "2021-07-26",
-        "création": "2021-07-26",
-        "catégorie": "Bol à thé",
-        "description": {
-            "en": "Gongfucha bowl set consisting of a drinking bowl and a smelling bowl.",
-            "fr": "Set de bols pour le gongfucha composé d'un bol à boire et d'un bol à sentir."
-        },
-        "prix": 25.00,
-        "poids": 0.1,
-        "capacité": 20,
-        "quantité_produite": 40,
-        "photos": [
-            "teabowl-25.jpg",
-            "teabowl-26.jpg",
-            "teabowl-27.jpg",
-            "teabowl-28.jpg"
         ]
     },
     {
