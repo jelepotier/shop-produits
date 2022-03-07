@@ -1,14 +1,4 @@
 {
-    "Découverte du Gongfucha": {
-        "titre": {
-            "fr": "Offre spéciale",
-            "en": "Special offer"
-        },
-        "description": {
-            "fr": "Une offre spécifique pour découvrir ou approfondir le service du thé (gongfucha). Cette offre comprend : 1 gaïwan de 10 cl - 2 bols à thé de 4 cl chacun - 1 pichet de 15 cl. Tous ces ustensiles sont émaillés. Pour les fabriquer, j'ai utiliser un grès porcelainique très dur (0,1% de porosité)",
-            "en": "A specific offer to discover or deepen the way of tea (gongfucha). This offer includes: One 3.5 oz gaiwan - Two 1.4 oz tea bowls - One 5.3 oz pitcher. All these utensils are glazed. To make them, I used a very hard porcelain stoneware (0.1% porosity)"
-        }
-    },
     "Théière": {
         "titre": {
             "fr": "Théière",
@@ -127,6 +117,16 @@
         "description": {
             "fr": "Les jarres représentent un univers qui m'intéresse au plus au point. J'utilise ce support pour exprimer ma créativité. Sur cette page, vous verrez des jarres destinées à la conservation des puerh en vrac ou en galettes, des thés rouges, ou des wulong oxydés, mais aussi des petits pots à thé destiné à présenter votre thé lors de sa préparation devant vos convives.",
             "en": "The tea jars represent a universe that interests me.  I use this medium to express my creativity. On this page, you will see jars for storing loose puerh or puerh cakes, red teas, or oxidized wulong, but also small tea pots to present your tea during its preparation in front of your guests."
+        }
+    },
+    "Découverte du Gongfucha": {
+        "titre": {
+            "fr": "Offre spéciale",
+            "en": "Special offer"
+        },
+        "description": {
+            "fr": "Une offre spécifique pour découvrir ou approfondir le service du thé (gongfucha). Cette offre comprend : 1 gaïwan de 10 cl - 2 bols à thé de 4 cl chacun - 1 pichet de 15 cl. Tous ces ustensiles sont émaillés. Pour les fabriquer, j'ai utiliser un grès porcelainique très dur (0,1% de porosité)",
+            "en": "A specific offer to discover or deepen the way of tea (gongfucha). This offer includes: One 3.5 oz gaiwan - Two 1.4 oz tea bowls - One 5.3 oz pitcher. All these utensils are glazed. To make them, I used a very hard porcelain stoneware (0.1% porosity)"
         }
     }
 }
