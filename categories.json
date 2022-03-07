@@ -1,4 +1,14 @@
 {
+    "Découverte du Gongfucha": {
+        "titre": {
+            "fr": "Découverte du gongfucha",
+            "en": "Discovery of gongfucha"
+        },
+        "description": {
+            "fr": "Une offre spécifique pour découvrir ou approfondir le service du thé (gongfucha). Cette offre comprend : 1 gaïwan de 10 cl - 2 bols à thé de 4 cl chacun - 1 pichet de 15 cl. Tous ces ustensiles sont émaillés. Pour les fabriquer, j'ai utiliser un grès porcelainique très dur (0,1% de porosité)",
+            "en": "A specific offer to discover or deepen the way of tea (gongfucha). This offer includes: One 3.5 oz gaiwan - Two 1.4 oz tea bowls - One 5.3 oz pitcher. All these utensils are glazed. To make them, I used a very hard porcelain stoneware (0.1% porosity)"
+        }
+    },
     "Théière": {
         "titre": {
             "fr": "Théière",
