@@ -1841,9 +1841,9 @@
             },
         "quantité_produite": 1,
         "photos": [
-            "brasero1.jpg",
-            "brasero2.jpg",
-            "brasero3.jpg"
+            "brasero-01.jpg",
+            "brasero-02.jpg",
+            "brasero-03.jpg"
         ]
     },
     {
@@ -1867,9 +1867,9 @@
             },
         "quantité_produite": 1,
         "photos": [
-            "brasero4.jpg",
-            "brasero5.jpg",
-            "brasero6.jpg"
+            "brasero-04.jpg",
+            "brasero-05.jpg",
+            "brasero-06.jpg"
         ]
     },
     {
@@ -1893,9 +1893,9 @@
             },
         "quantité_produite": 1,
         "photos": [
-            "brasero7.jpg",
-            "brasero8.jpg",
-            "brasero9.jpg"
+            "brasero-07.jpg",
+            "brasero-08.jpg",
+            "brasero-09.jpg"
         ]
     },
     {
@@ -1919,9 +1919,9 @@
             },
         "quantité_produite": 1,
         "photos": [
-            "brasero10.jpg",
-            "brasero11.jpg",
-            "brasero12.jpg"
+            "brasero-10.jpg",
+            "brasero-11.jpg",
+            "brasero-12.jpg"
         ]
     }
 ]
