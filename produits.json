@@ -1712,6 +1712,60 @@
         ]
     },
     {
+        "id": "bat26",
+        "titre": {
+            "en": "tea boat",
+            "fr": "Bateau à thé"
+        },
+        "modification": "2022-03-14",
+        "création": "2022-03-14",
+        "catégorie": "Bateau à thé",
+        "description": {
+            "en": "Handcrafted tea boat in raw clay, manufactured and decorated by hand. Diameter of the teapot rest: 2.56 inches.",
+            "fr": "Bateau à thé artisanale en terre brute, fabriqué et décoré à la main. Diamètre du repose théière : 6,5 cm."
+        },
+        "prix": 60.00,
+        "poids": 0.284,
+        "dimension": {
+            "largeur": 14.9,
+            "hauteur": 3
+            },
+        "quantité_produite": 1,
+        "photos": [
+            "bateau-a-the-46.jpg",
+            "bateau-a-the-47.jpg",
+            "bateau-a-the-48.jpg",
+            "bateau-a-the-49.jpg"
+        ]
+    },
+    {
+        "id": "bat27",
+        "titre": {
+            "en": "tea boat",
+            "fr": "Bateau à thé"
+        },
+        "modification": "2022-03-14",
+        "création": "2022-03-14",
+        "catégorie": "Bateau à thé",
+        "description": {
+            "en": "Handcrafted tea boat in raw clay, manufactured and decorated by hand. Diameter of the teapot rest: 2.41 inches.",
+            "fr": "Bateau à thé artisanale en terre brute, fabriqué et décoré à la main. Diamètre du repose théière : 6,1 cm."
+        },
+        "prix": 54.00,
+        "poids": 0.282,
+        "dimension": {
+            "largeur": 15.2,
+            "hauteur": 3
+            },
+        "quantité_produite": 1,
+        "photos": [
+            "bateau-a-the-50.jpg",
+            "bateau-a-the-51.jpg",
+            "bateau-a-the-52.jpg",
+            "bateau-a-the-53.jpg"
+        ]
+    },
+    {
         "id": "pp3",
         "titre": {
             "en": "small tea pot",
