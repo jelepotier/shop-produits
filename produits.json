@@ -1586,11 +1586,15 @@
         "création": "2020-11-23",
         "catégorie": "Bateau à thé",
         "description": {
-            "en": "Handcrafted tea boat in raw clay, manufactured and decorated by hand. Outside diameter: 5.7in. Diameter of the teapot rest: 2.6in. Height: 1.2in. Weight: 9.9oz",
-            "fr": "Bateau à thé artisanale en terre brute, fabriqué et décoré à la main. Diamètre extérieur : 14,5cm. Diamètre du repose théière : 6,5cm. Hauteur : 3cm. Poids : 280g"
+            "en": "Handcrafted tea boat in raw clay, manufactured and decorated by hand. Diameter of the teapot rest: 2.6in.",
+            "fr": "Bateau à thé artisanale en terre brute, fabriqué et décoré à la main. Diamètre du repose théière : 6,5cm."
         },
-        "prix": 64.00,
-        "poids": 0.4,
+        "prix": 54.00,
+        "poids": 0.282,
+        "dimension": {
+            "largeur": 14.5,
+            "hauteur": 3
+            },
         "quantité_produite": 1,
         "photos": [
             "bateau-a-the-38.jpg",
@@ -1651,6 +1655,33 @@
             "bateau-a-the-31.jpg",
             "bateau-a-the-32.jpg",
             "bateau-a-the-33.jpg"
+        ]
+    },
+    {
+        "id": "bat24",
+        "titre": {
+            "en": "tea boat",
+            "fr": "Bateau à thé"
+        },
+        "modification": "2022-03-13",
+        "création": "2020-11-23",
+        "catégorie": "Bateau à thé",
+        "description": {
+            "en": "Handcrafted tea boat in raw clay, manufactured and decorated by hand. Diameter of the teapot rest: 2.41 inches.",
+            "fr": "Bateau à thé artisanale en terre brute, fabriqué et décoré à la main. Diamètre du repose théière : 6,1 cm."
+        },
+        "prix": 60.00,
+        "poids": 0.297,
+        "dimension": {
+            "largeur": 14.6,
+            "hauteur": 3
+            },
+        "quantité_produite": 1,
+        "photos": [
+            "bateau-a-the-34.jpg",
+            "bateau-a-the-35.jpg",
+            "bateau-a-the-36.jpg",
+            "bateau-a-the-37.jpg"
         ]
     },
     {
