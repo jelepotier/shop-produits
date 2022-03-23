@@ -1614,7 +1614,7 @@
         "création": "2020-11-23",
         "catégorie": "Bouilloire",
         "description": {
-            "en": "Stoneware kettle '120.7' called 'à feu', with a cold-formed iron handle. This handle can be removed and put back on again very easily. Kettle of small capacity, with a bottom of 9.7in (part that rests on the brazier). The pouring is precise and frank. Unique piece. Capacity: about 11.8oz, Weight: 15.2oz.",
+            "en": "Stoneware kettle '120.7' called 'à feu', with a cold-formed iron handle. This handle can be removed and put back on again very easily. Kettle of small capacity, with a bottom of 3.75 inches (part that rests on the brazier). The pouring is precise and frank. Unique piece. Capacity: about 11.8oz, Weight: 15.2oz.",
             "fr": "Bouilloire en grès '120.7' dit 'à feu', avec une anse en fer façonnée à froid. Cette anse peut se retirer et se remettre très facilement. Bouilloire de petite contenance, avec un fond de 9,5 cm (partie qui repose sur le brasero). La verse est précise et franche. Pièce unique. Contenance : environ 350 ml, Poids : 430 gr."
         },
         "prix": 148.00,
@@ -1647,6 +1647,90 @@
             "bouilloire_11-a.jpg",
             "bouilloire_11-b.jpg",
             "bouilloire_11-c.jpg"
+        ]
+    },
+    {
+        "id": "bo12",
+        "titre": {
+            "en": "Kettle in stoneware 30.8oz.",
+            "fr": "Bouilloire en grès 87,5cl."
+        },
+        "modification": "2022-03-23",
+        "création": "2022-03-23",
+        "catégorie": "Bouilloire",
+        "description": {
+            "en": "Stoneware kettle '120.7' called 'à feu', with a cold-formed iron handle. This handle can be removed and put back on again very easily. Kettle with a bottom of 4.34 inches (part that rests on the brazier). The pouring is precise and frank. Unique piece.",
+            "fr": "Bouilloire en grès '120.7' dit 'à feu', avec une anse en fer façonnée à froid. Cette anse peut se retirer et se remettre très facilement. Bouilloire  avec un fond de 11cm (partie qui repose sur le brasero). La verse est précise et régulière. Pièce unique."
+        },
+        "prix": 148.00,
+        "poids": 0.653,
+        "capacité": 875,
+        "dimension": {
+            "largeur": 13,
+            "hauteur": 21
+            },
+        "quantité_produite": 1,
+        "photos": [
+            "bouilloire-12.jpg",
+            "bouilloire-13.jpg",
+            "bouilloire-14.jpg",
+            "bouilloire-15.jpg"
+        ]
+    },
+    {
+        "id": "bo13",
+        "titre": {
+            "en": "Kettle in stoneware 28.15 oz.",
+            "fr": "Bouilloire en grès 80 cl."
+        },
+        "modification": "2022-03-23",
+        "création": "2022-03-23",
+        "catégorie": "Bouilloire",
+        "description": {
+            "en": "Stoneware kettle '120.7' called 'à feu', with a cold-formed iron handle. This handle can be removed and put back on again very easily. Kettle with a bottom of 5.12 inches (part that rests on the brazier). The pouring is precise and frank. Unique piece.",
+            "fr": "Bouilloire en grès '120.7' dit 'à feu', avec une anse en fer façonnée à froid. Cette anse peut se retirer et se remettre très facilement. Bouilloire  avec un fond de 13 cm (partie qui repose sur le brasero). La verse est précise et régulière. Pièce unique."
+        },
+        "prix": 148.00,
+        "poids": 0.615,
+        "capacité": 800,
+        "dimension": {
+            "largeur": 15.5,
+            "hauteur": 20.5
+            },
+        "quantité_produite": 1,
+        "photos": [
+            "bouilloire-16.jpg",
+            "bouilloire-17.jpg",
+            "bouilloire-18.jpg",
+            "bouilloire-19.jpg"
+        ]
+    },
+    {
+        "id": "bo14",
+        "titre": {
+            "en": "Kettle in stoneware 34.3 oz.",
+            "fr": "Bouilloire en grès 97,5 cl."
+        },
+        "modification": "2022-03-23",
+        "création": "2022-03-23",
+        "catégorie": "Bouilloire",
+        "description": {
+            "en": "Stoneware kettle '120.7' called 'à feu', with a cold-formed iron handle. This handle can be removed and put back on again very easily. Kettle with a bottom of 4.34 inches (part that rests on the brazier). The pouring is precise and frank. Unique piece.",
+            "fr": "Bouilloire en grès '120.7' dit 'à feu', avec une anse en fer façonnée à froid. Cette anse peut se retirer et se remettre très facilement. Bouilloire  avec un fond de 11cm (partie qui repose sur le brasero). La verse est précise et régulière. Pièce unique."
+        },
+        "prix": 148.00,
+        "poids": 0.764,
+        "capacité": 975,
+        "dimension": {
+            "largeur": 15,
+            "hauteur": 24
+            },
+        "quantité_produite": 1,
+        "photos": [
+            "bouilloire-20.jpg",
+            "bouilloire-21.jpg",
+            "bouilloire-22.jpg",
+            "bouilloire-23.jpg"
         ]
     },
     {
