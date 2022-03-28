@@ -22,29 +22,6 @@
         ]
     },
     {
-        "id": "ga22",
-        "titre": {
-            "en": "Gaiwan 3.4oz",
-            "fr": "Gaiwan 10cl"
-        },
-        "modification": "2020-11-21",
-        "création": "2020-11-13",
-        "catégorie": "Gaiwan",
-        "description": {
-            "en": "This 3.4oz gaiwan is glazed with an ash-based enamel, which gives it this rather lively aspect.",
-            "fr": "Ce gaïwan de 10cl est recouvert d'un émail à base de cendre, ce qui lui donne cette aspect assez vivant."
-        },
-        "prix": 58.00,
-        "poids": 0.3,
-        "quantité_produite": 5,
-        "photos": [
-            "gaiwan_22-a.jpg",
-            "gaiwan_22-b.jpg",
-            "gaiwan_22-c.jpg",
-            "gaiwan_22-d.jpg"
-        ]
-    },
-    {
         "id": "ga24",
         "titre": {
             "en": "Gaiwan 3.4oz",
@@ -307,54 +284,6 @@
             "theiere-62.jpg",
             "theiere-63.jpg",
             "theiere-64.jpg"    
-        ]
-    },
-    {
-        "id": "th91",
-        "titre": {
-            "en": "Small glazed teapot",
-            "fr": "Petite théière émaillée"
-        },
-        "modification": "2021-07-26",
-        "création": "2021-07-26",
-        "catégorie": "Théière",
-        "description": {
-            "en": "Unique piece. Small glazed teapot. The glaze inside gives this teapot a certain versatility. The pouring is fast and fluid.",
-            "fr": "Pièce unique. Petite théière émaillée. L'émail présent à l'intérieur, confère à cette théière une certaine polyvalence. La verse et rapide et fluide."
-        },
-        "prix": 142.00,
-        "poids": 0.25,
-        "capacité": 80,
-        "quantité_produite": 1,
-        "photos": [
-            "theiere-97.jpg",
-            "theiere-98.jpg",
-            "theiere-99.jpg",
-            "theiere-100.jpg"
-        ]
-    },
-    {
-        "id": "th92",
-        "titre": {
-            "en": "Small teapot in raw clay",
-            "fr": "Petite théière en terre brute"
-        },
-        "modification": "2021-07-26",
-        "création": "2021-07-26",
-        "catégorie": "Théière",
-        "description": {
-            "en": "Unique piece. Small teapot made from a very dense clay. This high quality stoneware is made in Germany. The porosity of this clay is 0,8%. The density of the clay limits the temperature drop of the water during the infusion. The pouring is fluid and fast.",
-            "fr": "Pièce unique. Petite théière fabriquée dans une argile très dense. Ce grès de grande qualité est réalisée en Allemagne. La porosité de cette argile est de 0,8%. La densité de l'argile permet de limiter la descente en température de l'eau pendant l'infusion. La verse est fluide et rapide."
-        },
-        "prix": 132.00,
-        "poids": 0.25,
-        "capacité": 100,
-        "quantité_produite": 1,
-        "photos": [
-            "theiere-101.jpg",
-            "theiere-102.jpg",
-            "theiere-103.jpg",
-            "theiere-104.jpg"
         ]
     },
     {
@@ -1221,7 +1150,7 @@
         },
         "prix": 24.00,
         "poids": 0.1,
-        "quantité_produite": 9,
+        "quantité_produite": 4,
         "photos": [
             "teabowl-04.jpg",
             "teabowl-05.jpg",
@@ -1309,7 +1238,7 @@
         },
         "prix": 24.00,
         "poids": 0.1,
-        "quantité_produite": 9,
+        "quantité_produite": 4,
         "photos": [
             "teabowl-16.jpg",
             "teabowl-17.jpg",
@@ -1353,7 +1282,7 @@
         },
         "prix": 16.00,
         "poids": 0.1,
-        "quantité_produite": 12,
+        "quantité_produite": 8,
         "photos": [
             "teabowl-22.jpg",
             "teabowl-23.jpg",
@@ -1650,34 +1579,6 @@
         ]
     },
     {
-        "id": "bo12",
-        "titre": {
-            "en": "Kettle in stoneware 30.8oz.",
-            "fr": "Bouilloire en grès 87,5cl."
-        },
-        "modification": "2022-03-23",
-        "création": "2022-03-23",
-        "catégorie": "Bouilloire",
-        "description": {
-            "en": "Stoneware kettle '120.7' called 'à feu', with a cold-formed iron handle. This handle can be removed and put back on again very easily. Kettle with a bottom of 4.34 inches (part that rests on the brazier). The pouring is precise and frank. Unique piece.",
-            "fr": "Bouilloire en grès '120.7' dit 'à feu', avec une anse en fer façonnée à froid. Cette anse peut se retirer et se remettre très facilement. Bouilloire  avec un fond de 11cm (partie qui repose sur le brasero). La verse est précise et régulière. Pièce unique."
-        },
-        "prix": 148.00,
-        "poids": 0.653,
-        "capacité": 875,
-        "dimension": {
-            "largeur": 13,
-            "hauteur": 21
-            },
-        "quantité_produite": 2,
-        "photos": [
-            "bouilloire-12.jpg",
-            "bouilloire-13.jpg",
-            "bouilloire-14.jpg",
-            "bouilloire-15.jpg"
-        ]
-    },
-    {
         "id": "bo13",
         "titre": {
             "en": "Kettle in stoneware 28.15 oz.",
@@ -1839,33 +1740,6 @@
             "bateau-a-the-35.jpg",
             "bateau-a-the-36.jpg",
             "bateau-a-the-37.jpg"
-        ]
-    },
-    {
-        "id": "bat25",
-        "titre": {
-            "en": "tea boat",
-            "fr": "Bateau à thé"
-        },
-        "modification": "2022-03-14",
-        "création": "2022-03-14",
-        "catégorie": "Bateau à thé",
-        "description": {
-            "en": "Handcrafted and glazed tea boat, manufactured and decorated by hand. Diameter of the teapot rest: 2.41 inches.",
-            "fr": "Bateau à thé artisanale émaillé, fabriqué et décoré à la main. Diamètre du repose théière : 6,1 cm."
-        },
-        "prix": 64.00,
-        "poids": 0.325,
-        "dimension": {
-            "largeur": 16.5,
-            "hauteur": 3
-            },
-        "quantité_produite": 1,
-        "photos": [
-            "bateau-a-the-42.jpg",
-            "bateau-a-the-43.jpg",
-            "bateau-a-the-44.jpg",
-            "bateau-a-the-45.jpg"
         ]
     },
     {
@@ -2188,32 +2062,6 @@
             "brasero-04.jpg",
             "brasero-05.jpg",
             "brasero-06.jpg"
-        ]
-    },
-    {
-        "id": "br3",
-        "titre": {
-            "en": "Brazier",
-            "fr": "Brasero"
-        },
-        "modification": "2022-03-11",
-        "création": "2022-03-11",
-        "catégorie": "Brasero",
-        "description": {
-            "en": "Unique piece. Brazier designed to hold a clay or cast iron kettle. It is made of two parts; one part to put the coals and another to receive the ashes. This brazier is made with a very resistant clay. The raised foot allows the brazier to be placed directly on the tea table. Diameter to accommodate the kettle: 4.73 Inches.",
-            "fr": "Pièce unique. Brasero destiné à accueillir une bouilloire en argile ou en fonte. Il est constitué de deux pièces ; une partie pour disposer les charbons  et une autre pour recevoir les cendres. Ce brasero est fabriqué avec une argile très résistante. Le pied surélevé permet de poser le braséro directement sur la table à thé. Diamètre pour accueillir la bouilloire : 12 cm."
-        },
-        "prix": 140.00,
-        "poids": 2.122,
-        "dimension": {
-            "largeur": 17,
-            "hauteur": 14.5
-            },
-        "quantité_produite": 1,
-        "photos": [
-            "brasero-07.jpg",
-            "brasero-08.jpg",
-            "brasero-09.jpg"
         ]
     },
     {
