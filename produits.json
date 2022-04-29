@@ -1996,6 +1996,102 @@
         ]
     },
     {
+        "id": "sdv20",
+        "titre": {
+            "en": "Travel set",
+            "fr": "Set de voyage"
+        },
+        "modification": "2022-04-29",
+        "création": "2022-04-29",
+        "catégorie": "Set de Voyage",
+        "description": {
+            "en": "Unique piece. Travel set for two people, made of porcelain stoneware, which will allow a faithful rendering of the taste of tea. It is a very hard clay (0.2% porosity). This travel set includes: a very functional 'hohin' type infuser, two bowls, a pitcher, a series of cloths that can be used as a saucer and a protective cover.",
+            "fr": "Pièce unique. Set de voyage pour deux personnes, fabriqué en grès porcelainique, qui permettra un rendu fidèle  du goût du thé. Il s'agit d'une argile très dure (0,2 % de porosité). Ce set de voyage comprend : un infuseur très fonctionnel de type 'hohin', deux bols, un pichet, une série de tissus qui peuvent servir de sous tasse et d'une housse de protection."
+        },
+        "prix": 160.00,
+        "poids": 0.564,
+        "capacité": 110,
+        "quantité_produite": 1,
+        "photos": [
+            "set-de-voyage-27.jpg",
+            "set-de-voyage-28.jpg",
+            "set-de-voyage-29.jpg",
+            "set-de-voyage-30.jpg",
+            "set-de-voyage-31.jpg"
+        ]
+    },
+    {
+        "id": "sdv21",
+        "titre": {
+            "en": "Travel set",
+            "fr": "Set de voyage"
+        },
+        "modification": "2022-04-29",
+        "création": "2022-04-29",
+        "catégorie": "Set de Voyage",
+        "description": {
+            "en": "Unique piece. Travel set for two people, made of porcelain stoneware, which will allow a faithful rendering of the taste of tea. It is a very hard clay (0.2% porosity). This travel set includes: a very functional 'hohin' type infuser, two bowls, a pitcher, a series of cloths that can be used as a saucer and a protective cover.",
+            "fr": "Pièce unique. Set de voyage pour deux personnes, fabriqué en grès porcelainique, qui permettra un rendu fidèle  du goût du thé. Il s'agit d'une argile très dure (0,2 % de porosité). Ce set de voyage comprend : un infuseur très fonctionnel de type 'hohin', deux bols, un pichet, une série de tissus qui peuvent servir de sous tasse et d'une housse de protection."
+        },
+        "prix": 160.00,
+        "poids": 0.580,
+        "capacité": 110,
+        "quantité_produite": 1,
+        "photos": [
+            "set-de-voyage-32.jpg",
+            "set-de-voyage-33.jpg",
+            "set-de-voyage-34.jpg",
+            "set-de-voyage-35.jpg",
+            "set-de-voyage-36.jpg"
+        ]
+    },
+    {
+        "id": "sdv22",
+        "titre": {
+            "en": "Travel set",
+            "fr": "Set de voyage"
+        },
+        "modification": "2022-04-29",
+        "création": "2022-04-29",
+        "catégorie": "Set de Voyage",
+        "description": {
+            "en": "Unique piece. Travel set for two people. Travel set made of porcelain stoneware, which will allow a faithful rendering of the taste of tea. It is a very hard clay (0.2% porosity). It includes: 1 hohin (simple and functional) and 2 cups. The whole set is connected by an elastic band, making it compact and easy to carry. This set is not glazed. The protective cover can be purchased separately.",
+            "fr": "Pièce unique. Set de voyage pour deux personnes, fabriqué en grès porcelainique, qui permettra un rendu fidèle  du goût du thé. Il s'agit d'une argile très dure (0,2 % de porosité). Il comprend : 1 hohin (simple et fonctionel) et 2 tasses. Le tout est relié par un élastique permettant d'avoir un produit compact et facile à transporter. Ce set n'est pas émaillé. La housse de protection peut être achetée à part."
+        },
+        "prix": 110.00,
+        "poids": 0.238,
+        "capacité": 100,
+        "quantité_produite": 1,
+        "photos": [
+            "set-de-voyage-37.jpg",
+            "set-de-voyage-38.jpg",
+            "set-de-voyage-39.jpg"
+        ]
+    },
+    {
+        "id": "sdv23",
+        "titre": {
+            "en": "Travel set",
+            "fr": "Set de voyage"
+        },
+        "modification": "2022-04-29",
+        "création": "2022-04-29",
+        "catégorie": "Set de Voyage",
+        "description": {
+            "en": "Unique piece. Travel set for two people. Travel set made of porcelain stoneware, which will allow a faithful rendering of the taste of tea. It is a very hard clay (0.2% porosity). It includes: 1 hohin (simple and functional) and 2 cups. The whole set is connected by an elastic band, making it compact and easy to carry. This set is not glazed. The protective cover can be purchased separately.",
+            "fr": "Pièce unique. Set de voyage pour deux personnes, fabriqué en grès porcelainique, qui permettra un rendu fidèle  du goût du thé. Il s'agit d'une argile très dure (0,2 % de porosité). Il comprend : 1 hohin (simple et fonctionel) et 2 tasses. Le tout est relié par un élastique permettant d'avoir un produit compact et facile à transporter. Ce set n'est pas émaillé. La housse de protection peut être achetée à part."
+        },
+        "prix": 110.00,
+        "poids": 0.230,
+        "capacité": 100,
+        "quantité_produite": 1,
+        "photos": [
+            "set-de-voyage-40.jpg",
+            "set-de-voyage-41.jpg",
+            "set-de-voyage-42.jpg"
+        ]
+    },
+    {
         "id": "housse1",
         "titre": {
             "en": "Protective cover",
