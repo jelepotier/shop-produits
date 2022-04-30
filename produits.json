@@ -383,6 +383,194 @@
         ]
     },
     {
+        "id": "th100",
+        "titre": {
+            "en": "Small glazed teapot",
+            "fr": "Petite théière émaillée"
+        },
+        "modification": "2022-04-30",
+        "création": "2022-04-30",
+        "catégorie": "Théière",
+        "description": {
+            "en": "Unique piece. It is a small teapot, glazed inside and outside. It is perfectly versatile.",
+            "fr": "Pièce unique. Il s'agit d'une petite théière émaillée à l'intérieur comme à l'extérieur. Elle est parfaitement polyvalente."
+        },
+        "prix": 142.00,
+        "poids": 0.115,
+        "capacité": 100,
+        "quantité_produite": 1,
+        "photos": [
+            "theiere-133.jpg",
+            "theiere-134.jpg",
+            "theiere-135.jpg",
+            "theiere-136.jpg"   
+        ]
+    },
+    {
+        "id": "th101",
+        "titre": {
+            "en": "Small teapot in raw clay",
+            "fr": "Petite théière en terre brute"
+        },
+        "modification": "2022-04-30",
+        "création": "2022-04-30",
+        "catégorie": "Théière",
+        "description": {
+            "en": "Unique piece. Small teapot made of porcelain stoneware, which will allow a faithful rendering of the taste of tea. It is a very hard clay (0.2% porosity). The pouring is precise and fluid.",
+            "fr": "Pièce unique. Petite théière fabriquée en grès porcelainique, qui permettra un rendu fidèle du goût du thé. Il s'agit d'une argile très dure (0,2 % de porosité). La verse est précise et fluide."
+        },
+        "prix": 132.00,
+        "poids": 0.107,
+        "capacité": 100,
+        "quantité_produite": 1,
+        "photos": [
+            "theiere-137.jpg",
+            "theiere-138.jpg",
+            "theiere-139.jpg"
+        ]
+    },
+    {
+        "id": "th102",
+        "titre": {
+            "en": "Small glazed teapot",
+            "fr": "Petite théière émaillée"
+        },
+        "modification": "2022-04-30",
+        "création": "2022-04-30",
+        "catégorie": "Théière",
+        "description": {
+            "en": "Unique piece. It is a small teapot, glazed inside and outside. It is perfectly versatile.",
+            "fr": "Pièce unique. Il s'agit d'une petite théière émaillée à l'intérieur comme à l'extérieur. Elle est parfaitement polyvalente."
+        },
+        "prix": 142.00,
+        "poids": 0.119,
+        "capacité": 90,
+        "quantité_produite": 1,
+        "photos": [
+            "theiere-140.jpg",
+            "theiere-141.jpg",
+            "theiere-142.jpg",
+            "theiere-143.jpg"   
+        ]
+    },
+    {
+        "id": "th103",
+        "titre": {
+            "en": "Small teapot in raw clay",
+            "fr": "Petite théière en terre brute"
+        },
+        "modification": "2022-04-30",
+        "création": "2022-04-30",
+        "catégorie": "Théière",
+        "description": {
+            "en": "Unique piece. Small teapot made of porcelain stoneware, which will allow a faithful rendering of the taste of tea. It is a very hard clay (0.2% porosity). The pouring is precise and fluid.",
+            "fr": "Pièce unique. Petite théière fabriquée en grès porcelainique, qui permettra un rendu fidèle du goût du thé. Il s'agit d'une argile très dure (0,2 % de porosité). La verse est précise et fluide."
+        },
+        "prix": 132.00,
+        "poids": 0.84,
+        "capacité": 90,
+        "quantité_produite": 1,
+        "photos": [
+            "theiere-144.jpg",
+            "theiere-145.jpg",
+            "theiere-146.jpg"
+        ]
+    },
+    {
+        "id": "th104",
+        "titre": {
+            "en": "Small glazed teapot",
+            "fr": "Petite théière émaillée"
+        },
+        "modification": "2022-04-30",
+        "création": "2022-04-30",
+        "catégorie": "Théière",
+        "description": {
+            "en": "Unique piece. It is a small teapot, glazed inside and outside. It is perfectly versatile.",
+            "fr": "Pièce unique. Il s'agit d'une petite théière émaillée à l'intérieur comme à l'extérieur. Elle est parfaitement polyvalente."
+        },
+        "prix": 142.00,
+        "poids": 0.106,
+        "capacité": 100,
+        "quantité_produite": 1,
+        "photos": [
+            "theiere-147.jpg",
+            "theiere-148.jpg",
+            "theiere-149.jpg",
+            "theiere-150.jpg"   
+        ]
+    },
+    {
+        "id": "th105",
+        "titre": {
+            "en": "Small teapot in raw clay",
+            "fr": "Petite théière en terre brute"
+        },
+        "modification": "2022-04-30",
+        "création": "2022-04-30",
+        "catégorie": "Théière",
+        "description": {
+            "en": "Unique piece. Small teapot made of porcelain stoneware, which will allow a faithful rendering of the taste of tea. It is a very hard clay (0.2% porosity). The pouring is precise and fluid.",
+            "fr": "Pièce unique. Petite théière fabriquée en grès porcelainique, qui permettra un rendu fidèle du goût du thé. Il s'agit d'une argile très dure (0,2 % de porosité). La verse est précise et fluide."
+        },
+        "prix": 132.00,
+        "poids": 0.110,
+        "capacité": 95,
+        "quantité_produite": 1,
+        "photos": [
+            "theiere-151.jpg",
+            "theiere-152.jpg",
+            "theiere-153.jpg"
+        ]
+    },
+    {
+        "id": "th106",
+        "titre": {
+            "en": "Small glazed teapot",
+            "fr": "Petite théière émaillée"
+        },
+        "modification": "2022-04-30",
+        "création": "2022-04-30",
+        "catégorie": "Théière",
+        "description": {
+            "en": "Unique piece. It is a small teapot, glazed inside and outside. It is perfectly versatile.",
+            "fr": "Pièce unique. Il s'agit d'une petite théière émaillée à l'intérieur comme à l'extérieur. Elle est parfaitement polyvalente."
+        },
+        "prix": 142.00,
+        "poids": 0.108,
+        "capacité": 90,
+        "quantité_produite": 1,
+        "photos": [
+            "theiere-154.jpg",
+            "theiere-155.jpg",
+            "theiere-156.jpg",
+            "theiere-157.jpg"   
+        ]
+    },
+    {
+        "id": "th107",
+        "titre": {
+            "en": "Small glazed teapot",
+            "fr": "Petite théière émaillée"
+        },
+        "modification": "2022-04-30",
+        "création": "2022-04-30",
+        "catégorie": "Théière",
+        "description": {
+            "en": "Unique piece. It is a small teapot, glazed inside and outside. It is perfectly versatile.",
+            "fr": "Pièce unique. Il s'agit d'une petite théière émaillée à l'intérieur comme à l'extérieur. Elle est parfaitement polyvalente."
+        },
+        "prix": 142.00,
+        "poids": 0.133,
+        "capacité": 145,
+        "quantité_produite": 1,
+        "photos": [
+            "theiere-158.jpg",
+            "theiere-159.jpg",
+            "theiere-160.jpg"
+        ]
+    },
+    {
         "id": "k11",
         "titre": {
             "en": "Kyusu 4oz",
