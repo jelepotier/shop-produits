@@ -2688,27 +2688,6 @@
         ]
     },
     {
-        "id": "j1",
-        "titre": {
-            "en": "Jar for puerh cakes",
-            "fr": "Jarre pour galette de puerh"
-        },
-        "modification": "2020-11-21",
-        "création": "2020-11-23",
-        "catégorie": "Jarre à thé",
-        "description": {
-            "en": "Unique piece. Jar to store whole puerh cakes. Jar made of GECH, a 6.5% porosity stoneware. Height: 10.2in. Diameter of the opening: 9.4in. Weight : 176.4oz",
-            "fr": "Pièce unique. Jarre pour quantité_produiteer des galettes entières de puerh. Jarre fabriquée en GECH, un grès à 6,5 % de porosité. Hauteur : 26 cm. Diamètre de l'ouverture : 24 cm. Poids : 5 kg"
-        },
-        "prix": 200.00,
-        "poids": 5.0,
-        "quantité_produite": 1,
-        "photos": [
-            "jarre_1-a.jpg",
-            "jarre_1-b.jpg"
-        ]
-    },
-    {
         "id": "j3",
         "titre": {
             "en": "Jar for puerh cakes",
@@ -2728,34 +2707,6 @@
             "jarre_3-a.jpg",
             "jarre_3-b.jpg",
             "jarre_3-c.jpg"
-        ]
-    },
-    {
-        "id": "j4",
-        "titre": {
-            "en": "small tea jar",
-            "fr": "Petite jarre à thé"
-        },
-        "modification": "2021-12-09",
-        "création": "2021-12-09",
-        "catégorie": "Jarre à thé",
-        "description": {
-            "en": "Unique piece. A small stoneware tea jar that can hold between 50 and 100 grams of loose tea (depending on the size of the leaves of course). This type of small jar is designed to store red teas, puerh or oxidised wulong. It is not suitable for green tea.",
-            "fr": "Pièce unique. Petite jarre à thé en grès brut, pouvant contenir entre 50 et 100 gr de thé en vrac (en fonction de la taille des feuilles bien entendu). Ce type de petite jarre est destiné à stocker des thés rouges, du puerh ou des wulong oxydés. Ce n'est pas fait pour le thé vert."
-        },
-        "prix": 50.00,
-        "poids": 0.382,
-        "dimension": {
-                "largeur": 11.4,
-                "hauteur": 8.8
-                },
-        "quantité_produite": 1,
-        "photos": [
-            "jarre-01.jpg",
-            "jarre-02.jpg",
-            "jarre-03.jpg",
-            "jarre-04.jpg",
-            "jarre-05.jpg"    
         ]
     },
     {
@@ -2784,6 +2735,82 @@
             "jarre-18.jpg",
             "jarre-19.jpg",
             "jarre-20.jpg"    
+        ]
+    },
+    {
+        "id": "j8",
+        "titre": {
+            "en": "Jar for puerh cakes",
+            "fr": "Jarre pour galette de puerh"
+        },
+        "modification": "2022-05-02",
+        "création": "2022-05-02",
+        "catégorie": "Jarre à thé",
+        "description": {
+            "en": "Unique piece. Jar for storing whole Pu-erh cakes. Jar made with 6.5% porosity stoneware.",
+            "fr": "Pièce unique. Jarre pour stocker des galettes entières de Pu-erh. Jarre fabriquée avec un grès à 6,5% de porosité."
+        },
+        "prix": 300.00,
+        "poids": 6.407,
+        "dimension": {
+            "largeur": 32,
+            "hauteur": 40
+            },
+        "quantité_produite": 1,
+        "photos": [
+            "jarre-30.jpg",
+            "jarre-31.jpg"
+        ]
+    },
+    {
+        "id": "j9",
+        "titre": {
+            "en": "jar for loose pu-erh leaf",
+            "fr": "jarre pour feuille de pu-erh en vrac"
+        },
+        "modification": "2022-05-02",
+        "création": "2022-05-02",
+        "catégorie": "Jarre à thé",
+        "description": {
+            "en": "Unique piece. Jar for storing loose pu-erh leaf. Jar made with 6.5% porosity stoneware.",
+            "fr": "Pièce unique. Jarre pour stocker des feuilles de Pu-erh en vrac. Jarre fabriquée avec un grès à 6,5% de porosité."
+        },
+        "prix": 120.00,
+        "poids": 1.638,
+        "dimension": {
+            "largeur": 20,
+            "hauteur": 19.5
+            },
+        "quantité_produite": 1,
+        "photos": [
+            "jarre-32.jpg",
+            "jarre-33.jpg"
+        ]
+    },
+    {
+        "id": "j10",
+        "titre": {
+            "en": "box for loose tea",
+            "fr": "boite pour le thé en vrac"
+        },
+        "modification": "2022-05-02",
+        "création": "2022-05-02",
+        "catégorie": "Jarre à thé",
+        "description": {
+            "en": "Box for loose tea enamelled inside. This box is closed by a banbou lid with a plastic seal that keeps the contents protected from the air.",
+            "fr": "Boite pour le thé en vrac émaillée à l'intérieur. Cette boite est fermée par un couvercle en banbou munis d'un joint en plastique qui permet de maintenir le contenu à l'abris de l'air."
+        },
+        "prix": 96.00,
+        "poids": 1.082,
+        "dimension": {
+            "largeur": 11.5,
+            "hauteur": 22
+            },
+        "quantité_produite": 1,
+        "photos": [
+            "jarre-34.jpg",
+            "jarre-35.jpg",
+            "jarre-36.jpg"
         ]
     },
     {
