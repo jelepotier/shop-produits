@@ -2018,6 +2018,29 @@
         ]
     },
     {
+        "id": "bt17",
+        "titre": {
+            "en": "tea bowl",
+            "fr": "Bol à thé"
+        },
+        "modification": "2022-06-12",
+        "création": "2022-06-12",
+        "catégorie": "Bol à thé",
+        "description": {
+            "en": "This bowl has a singular appearance. Indeed, the outside is rough, very mineral and the inside smooth and white. Each bowl is unique, so there may be some differences between the one you receive and the one in the photo. I have tried to keep the same spirit on the whole series of these 20 pieces.",
+            "fr": "Ce bol possède un aspect singulier. En effet, l'extérieur est rugueux, très minéral et l'intérieur lisse et blanc. Chaque bol est unique, il peut donc y avoir quelques différences entre l'exemplaire que vous recevrez et celui de la photo. J'ai quand même cherché à garder le même esprit sur toute la série de ces 20 pièces."
+        },
+        "prix": 30.00,
+        "poids": 0.118,
+        "capacité": 100,
+        "quantité_produite": 15,
+        "photos": [
+            "teabowl-25.jpg",
+            "teabowl-26.jpg",
+            "teabowl-27.jpg"
+        ]
+    },
+    {
         "id": "v6",
         "titre": {
             "en": "Pourer 4.4oz",
