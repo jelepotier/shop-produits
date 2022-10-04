@@ -383,30 +383,6 @@
         ]
     },
     {
-        "id": "th100",
-        "titre": {
-            "en": "Small glazed teapot",
-            "fr": "Petite théière émaillée"
-        },
-        "modification": "2022-04-30",
-        "création": "2022-04-30",
-        "catégorie": "Théière",
-        "description": {
-            "en": "Unique piece. It is a small teapot, glazed inside and outside. It is perfectly versatile.",
-            "fr": "Pièce unique. Il s'agit d'une petite théière émaillée à l'intérieur comme à l'extérieur. Elle est parfaitement polyvalente."
-        },
-        "prix": 142.00,
-        "poids": 0.115,
-        "capacité": 100,
-        "quantité_produite": 1,
-        "photos": [
-            "theiere-133.jpg",
-            "theiere-134.jpg",
-            "theiere-135.jpg",
-            "theiere-136.jpg"   
-        ]
-    },
-    {
         "id": "th101",
         "titre": {
             "en": "Small teapot in raw clay",
@@ -637,29 +613,6 @@
             "kyusu_33.jpg",
             "kyusu_34.jpg",
             "kyusu_35.jpg"
-        ]
-    },
-    {
-        "id": "k25",
-        "titre": {
-            "en": "Kyusu 4oz",
-            "fr": "Kyusu 12cl"
-        },
-        "modification": "2021-02-06",
-        "création": "2021-02-06",
-        "catégorie": "Kyusu",
-        "description": {
-            "en": "Unique piece. Kyusu for right-handed person of 4oz. This kyusu is made of Moutiers stoneware (Burgundy - France), a very hard clay. Its filter is quite large, and is composed of fine holes for brewing Japanese green teas.",
-            "fr": "Pièce unique. Kyusu pour droitier de 12cl. Ce kyusu est fabriqué en grès de Moutiers (Bourgogne - France), une terre très dure. Son filtre assez large, est composé de trous fins pour infuser des thés verts japonais."
-        },
-        "prix": 136.00,
-        "poids": 0.2,
-        "quantité_produite": 1,
-        "photos": [
-            "kyusu-40.jpg",
-            "kyusu-41.jpg",
-            "kyusu-42.jpg",
-            "kyusu-43.jpg"
         ]
     },
     {
