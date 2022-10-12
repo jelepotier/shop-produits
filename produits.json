@@ -1258,7 +1258,7 @@
         },
         "prix": 24.00,
         "poids": 0.1,
-        "quantité_produite": 4,
+        "quantité_produite": 1,
         "photos": [
             "teabowl-04.jpg",
             "teabowl-05.jpg",
@@ -1373,28 +1373,6 @@
             "teabowl-19.jpg",
             "teabowl-20.jpg",
             "teabowl-21.jpg"
-        ]
-    },
-    {
-        "id": "bt16",
-        "titre": {
-            "en": "tea bowl 2.7oz",
-            "fr": "Bol à thé 8cl"
-        },
-        "modification": "2021-03-22",
-        "création": "2021-03-22",
-        "catégorie": "Bol à thé",
-        "description": {
-            "en": "Glazed tea bowl. Weight 3.2oz, capacity 2.7.oz.",
-            "fr": "Bol à thé émaillé. Poids 90gr, contenance 8cl."
-        },
-        "prix": 16.00,
-        "poids": 0.1,
-        "quantité_produite": 8,
-        "photos": [
-            "teabowl-22.jpg",
-            "teabowl-23.jpg",
-            "teabowl-24.jpg"
         ]
     },
     {
