@@ -13,7 +13,7 @@
         },
         "prix": 58.00,
         "poids": 0.3,
-        "quantité_produite": 4,
+        "quantité_produite": 1,
         "photos": [
             "gaiwan_21-a.jpg",
             "gaiwan_21-b.jpg",
@@ -59,7 +59,7 @@
         },
         "prix": 58.00,
         "poids": 0.3,
-        "quantité_produite": 6,
+        "quantité_produite": 1,
         "photos": [
             "gaiwan-01.jpg",
             "gaiwan-02.jpg",
@@ -83,37 +83,13 @@
         },
         "prix": 58.00,
         "poids": 0.3,
-        "quantité_produite": 6,
+        "quantité_produite": 1,
         "photos": [
             "gaiwan-06.jpg",
             "gaiwan-07.jpg",
             "gaiwan-08.jpg",
             "gaiwan-09.jpg",
             "gaiwan-10.jpg"    
-        ]
-    },
-    {
-        "id": "th71",
-        "titre": {
-            "en": "Small glazed teapot 4.7oz",
-            "fr": "Petite théière émaillée 14cl"
-        },
-        "modification": "2020-11-21",
-        "création": "2020-11-13",
-        "catégorie": "Théière",
-        "description": {
-            "en": "Unique piece. It is a small teapot of 4.7oz glazed inside and outside. It is perfectly versatile.",
-            "fr": "Pièce unique. Il s'agit d'une petite théière de 14cl émaillée à l'intérieur comme à l'extérieur. Elle est parfaitement polyvalente."
-        },
-        "prix": 142.00,
-        "poids": 0.4,
-        "quantité_produite": 1,
-        "photos": [
-            "theiere_71-b.jpg",
-            "theiere_71-a.jpg",
-            "theiere_71-c.jpg",
-            "theiere_71-d.jpg",
-            "theiere_71-e.jpg"
         ]
     },
     {
@@ -263,30 +239,6 @@
         ]
     },
     {
-        "id": "th96",
-        "titre": {
-            "en": "Small teapot in raw clay",
-            "fr": "Petite théière en terre brute"
-        },
-        "modification": "2021-09-25",
-        "création": "2021-09-25",
-        "catégorie": "Théière",
-        "description": {
-            "en": "Unique piece. Small teapot made with natural clay from the village of Moutiers in Burgundy. This clay is very hard with a porosity of 0,2%. The memory of this clay is therefore quite relative. The pouring is precise and fluid.",
-            "fr": "Pièce unique. Petite théière fabriquée avec une argile naturelle qui provient de village de Moutiers en Bourgogne. Cette argile est très dure avec une porosité de 0,2%. La mémoire de cette argile est donc toute relative. La verse est précise et fluide."
-        },
-        "prix": 132.00,
-        "poids": 0.10,
-        "capacité": 95,
-        "quantité_produite": 1,
-        "photos": [
-            "theiere-117.jpg",
-            "theiere-118.jpg",
-            "theiere-119.jpg",
-            "theiere-120.jpg"
-        ]
-    },
-    {
         "id": "th98",
         "titre": {
             "en": "Small teapot in raw clay",
@@ -308,77 +260,6 @@
             "theiere-126.jpg",
             "theiere-127.jpg",
             "theiere-128.jpg"
-        ]
-    },
-    {
-        "id": "th99",
-        "titre": {
-            "en": "Small teapot in raw clay",
-            "fr": "Petite théière en terre brute"
-        },
-        "modification": "2021-09-25",
-        "création": "2021-09-25",
-        "catégorie": "Théière",
-        "description": {
-            "en": "Unique piece. Small teapot made with natural clay from the village of Treigny in Burgundy. This clay is quiet soft with a porosity of 2,5%. The interaction between clay and tea should be taken into account. This clay will give a rounder taste to your infusions. The pouring is precise and fluid.",
-            "fr": "Pièce unique. Petite théière fabriquée avec une argile naturelle qui provient de village de Treigny en Bourgogne. Cette argile est assez tendre avec une porosité de 2,5%. L'interaction entre l'argile et le thé est à prendre en compte. Cette argile apportera un côté plus rond à vos infusions. La verse est précise et fluide."
-        },
-        "prix": 132.00,
-        "poids": 0.10,
-        "capacité": 100,
-        "quantité_produite": 1,
-        "photos": [
-            "theiere-129.jpg",
-            "theiere-130.jpg",
-            "theiere-131.jpg",
-            "theiere-132.jpg"
-        ]
-    },
-    {
-        "id": "th102",
-        "titre": {
-            "en": "Small glazed teapot",
-            "fr": "Petite théière émaillée"
-        },
-        "modification": "2022-04-30",
-        "création": "2022-04-30",
-        "catégorie": "Théière",
-        "description": {
-            "en": "Unique piece. It is a small teapot, glazed inside and outside. It is perfectly versatile.",
-            "fr": "Pièce unique. Il s'agit d'une petite théière émaillée à l'intérieur comme à l'extérieur. Elle est parfaitement polyvalente."
-        },
-        "prix": 142.00,
-        "poids": 0.119,
-        "capacité": 90,
-        "quantité_produite": 1,
-        "photos": [
-            "theiere-140.jpg",
-            "theiere-141.jpg",
-            "theiere-142.jpg",
-            "theiere-143.jpg"   
-        ]
-    },
-    {
-        "id": "th103",
-        "titre": {
-            "en": "Small teapot in raw clay",
-            "fr": "Petite théière en terre brute"
-        },
-        "modification": "2022-04-30",
-        "création": "2022-04-30",
-        "catégorie": "Théière",
-        "description": {
-            "en": "Unique piece. Small teapot made of porcelain stoneware, which will allow a faithful rendering of the taste of tea. It is a very hard clay (0.2% porosity). The pouring is precise and fluid.",
-            "fr": "Pièce unique. Petite théière fabriquée en grès porcelainique, qui permettra un rendu fidèle du goût du thé. Il s'agit d'une argile très dure (0,2 % de porosité). La verse est précise et fluide."
-        },
-        "prix": 132.00,
-        "poids": 0.84,
-        "capacité": 90,
-        "quantité_produite": 1,
-        "photos": [
-            "theiere-144.jpg",
-            "theiere-145.jpg",
-            "theiere-146.jpg"
         ]
     },
     {
@@ -614,29 +495,6 @@
         ]
     },
     {
-        "id": "k34",
-        "titre": {
-            "en": "Kyusu 5.4.oz",
-            "fr": "Kyusu 16,5cl"
-        },
-        "modification": "2021-05-26",
-        "création": "2021-05-26",
-        "catégorie": "Kyusu",
-        "description": {
-            "en": "Unique piece. Glazed Kyusu, for left-hander, 5.4oz. This kyusu is glazed inside and outside. Its filter is large enough, with fine holes for brewing Japanese green teas.",
-            "fr": "Pièce unique. Kyusu émaillé, pour gaucher de 16,5cl. Ce kyusu est émaillé intérieur et extérieur. Son filtre assez large, est composé de trous fins pour permettre l'infusion des thés verts japonais."
-        },
-        "prix": 142.00,
-        "poids": 0.3,
-        "quantité_produite": 1,
-        "photos": [
-            "kyusu-75.jpg",
-            "kyusu-76.jpg",
-            "kyusu-77.jpg",
-            "kyusu-78-jpg"    
-        ]
-    },
-    {
         "id": "k35",
         "titre": {
             "en": "Kyusu 6oz",
@@ -805,57 +663,6 @@
         ]
     },
     {
-        "id": "sh21",
-        "titre": {
-            "en": "Shiboridashi 2.9oz",
-            "fr": "Shiboridashi 8,5cl"
-        },
-        "modification": "2020-11-21",
-        "création": "2020-11-14",
-        "catégorie": "Shiboridashi",
-        "description": {
-            "en": "Unique piece. Glazed shiboridashi of 2.9oz. Weight: 5oz.",
-            "fr": "Pièce unique. Shiboridashi de 8,5cl émaillé. Poids : 139 gr."
-        },
-        "prix": 76.00,
-        "poids": 0.4,
-        "quantité_produite": 1,
-        "photos": [
-            "shiboridashi_21-a.jpg",
-            "shiboridashi_21-b.jpg",
-            "shiboridashi_21-c.jpg",
-            "shiboridashi_21-d.jpg"
-        ]
-    },
-    {
-        "id": "sh22",
-        "titre": {
-            "en": "Shiboridashi 2.8oz",
-            "fr": "Shiboridashi 8cl"
-        },
-        "modification": "2022-03-09",
-        "création": "2022-03-09",
-        "catégorie": "Shiboridashi",
-        "description": {
-            "en": "Unique piece. Glazed shiboridashi. The size of the lid allows you to move it to adapt the pouring according to the size of the tea leaves.",
-            "fr": "Pièce unique. Shiboridashi émaillé. La taille du couvercle permet de le faire bouger afin d'adapter la verse en fonction de la taille des feuilles de thé."
-        },
-        "prix": 86.00,
-        "poids": 0.146,
-        "dimension": {
-            "largeur": 10.1,
-            "hauteur": 3.9
-            },
-        "capacité": 80,
-        "quantité_produite": 1,
-        "photos": [
-            "shibo_1.jpg",
-            "shibo_2.jpg",
-            "shibo_3.jpg",
-            "shibo_4.jpg"
-        ]
-    },
-    {
         "id": "sh23",
         "titre": {
             "en": "Shiboridashi 2.2oz",
@@ -909,89 +716,6 @@
             "shibo_10.jpg",
             "shibo_11.jpg",
             "shibo_12.jpg"
-        ]
-    },
-    {
-        "id": "sh25",
-        "titre": {
-            "en": "Shiboridashi 2.36oz",
-            "fr": "Shiboridashi 6,7cl"
-        },
-        "modification": "2022-03-09",
-        "création": "2022-03-09",
-        "catégorie": "Shiboridashi",
-        "description": {
-            "en": "Unique piece. Glazed shiboridashi. On this shiboridashi, the lid is adjusted.",
-            "fr": "Pièce unique. Shiboridashi émaillé. Sur ce shiboridashi, le couvercle est ajusté."
-        },
-        "prix": 86.00,
-        "poids": 0.152,
-        "dimension": {
-            "largeur": 9.9,
-            "hauteur": 3.9
-            },
-        "capacité": 67,
-        "quantité_produite": 1,
-        "photos": [
-            "shibo_13.jpg",
-            "shibo_14.jpg",
-            "shibo_15.jpg",
-            "shibo_16.jpg"
-        ]
-    },
-    {
-        "id": "sh26",
-        "titre": {
-            "en": "Shiboridashi 3.16oz",
-            "fr": "Shiboridashi 9cl"
-        },
-        "modification": "2022-03-09",
-        "création": "2022-03-09",
-        "catégorie": "Shiboridashi",
-        "description": {
-            "en": "Unique piece. Unglazed shiboridashi, made with Treigny clay (2.5% porosity). On this shiboridashi, the lid is adjusted.",
-            "fr": "Pièce unique. Shiboridashi non émaillé, fabriqué avec l'argile de Treigny (2,5% de porosité). Sur ce shiboridashi, le couvercle est ajusté."
-        },
-        "prix": 86.00,
-        "poids": 0.148,
-        "dimension": {
-            "largeur": 10.6,
-            "hauteur": 3.7
-            },
-        "capacité": 90,
-        "quantité_produite": 1,
-        "photos": [
-            "shibo_17.jpg",
-            "shibo_18.jpg",
-            "shibo_19.jpg",
-            "shibo_20.jpg"
-        ]
-    },
-    {
-        "id": "sh27",
-        "titre": {
-            "en": "Shiboridashi",
-            "fr": "Shiboridashi"
-        },
-        "modification": "2022-04-28",
-        "création": "2022-04-28",
-        "catégorie": "Shiboridashi",
-        "description": {
-            "en": "Unique piece. Glazed shiboridashi. On this shiboridashi, the lid is adjusted.",
-            "fr": "Pièce unique. Shiboridashi émaillé. Sur ce shiboridashi, le couvercle est ajusté."
-        },
-        "prix": 86.00,
-        "poids": 0.118,
-        "dimension": {
-            "largeur": 9,
-            "hauteur": 3
-            },
-        "capacité": 37,
-        "quantité_produite": 1,
-        "photos": [
-            "shibo-22.jpg",
-            "shibo-23.jpg",
-            "shibo-24.jpg"
         ]
     },
     {
@@ -1076,33 +800,6 @@
         ]
     },
     {
-        "id": "sh31",
-        "titre": {
-            "en": "Shiboridashi",
-            "fr": "Shiboridashi"
-        },
-        "modification": "2022-04-28",
-        "création": "2022-04-28",
-        "catégorie": "Shiboridashi",
-        "description": {
-            "en": "Unique piece. Unglazed shiboridashi, made with porcelain stoneware (0.2 % porosity). The size of the lid allows you to move it to adapt the pouring according to the size of the tea leaves.",
-            "fr": "Pièce unique. Shiboridashi non émaillé, fabriqué avec un grès porcelainique (0,2 % de porosité). La taille du couvercle permet de le faire bouger afin d'adapter la verse en fonction de la taille des feuilles de thé."
-        },
-        "prix": 78.00,
-        "poids": 0.100,
-        "dimension": {
-            "largeur": 9,
-            "hauteur": 3.2
-            },
-        "capacité": 40,
-        "quantité_produite": 2,
-        "photos": [
-            "shibo-34.jpg",
-            "shibo-35.jpg",
-            "shibo-36.jpg"
-        ]
-    },
-    {
         "id": "sh32",
         "titre": {
             "en": "Shiboridashi",
@@ -1130,33 +827,6 @@
         ]
     },
     {
-        "id": "sh33",
-        "titre": {
-            "en": "Shiboridashi",
-            "fr": "Shiboridashi"
-        },
-        "modification": "2022-04-28",
-        "création": "2022-04-28",
-        "catégorie": "Shiboridashi",
-        "description": {
-            "en": "Unique piece. Unglazed shiboridashi, made with porcelain stoneware (0.2 % porosity). The size of the lid allows you to move it to adapt the pouring according to the size of the tea leaves.",
-            "fr": "Pièce unique. Shiboridashi non émaillé, fabriqué avec un grès porcelainique (0,2 % de porosité). La taille du couvercle permet de le faire bouger afin d'adapter la verse en fonction de la taille des feuilles de thé."
-        },
-        "prix": 78.00,
-        "poids": 0.122,
-        "dimension": {
-            "largeur": 9.5,
-            "hauteur": 3.2
-            },
-        "capacité": 45,
-        "quantité_produite": 1,
-        "photos": [
-            "shibo-40.jpg",
-            "shibo-41.jpg",
-            "shibo-42.jpg"
-        ]
-    },
-    {
         "id": "sh34",
         "titre": {
             "en": "Shiboridashi",
@@ -1176,7 +846,7 @@
             "hauteur": 2.9
             },
         "capacité": 30,
-        "quantité_produite": 2,
+        "quantité_produite": 0,
         "photos": [
             "shibo-43.jpg",
             "shibo-44.jpg",
@@ -1229,55 +899,6 @@
         ]
     },
     {
-        "id": "h43",
-        "titre": {
-            "en": "Hohin in raw stoneware",
-            "fr": "Hohin en grès brut"
-        },
-        "modification": "2021-09-21",
-        "création": "2021-09-21",
-        "catégorie": "Hohin",
-        "description": {
-            "en": "Unique piece. A traditional Japanese piece for brewing Gyokuro. It is however possible to brew other types of tea. The hohin is very easy to use. It pours abundantly and very quickly. The stoneware used for this piece comes from Moutiers, in Burgundy. It is a low porosity clay: 0.2%.",
-            "fr": "Pièce unique. Une pièce issue de la tradition japonaise et destinée à l'infusion des Gyokuro. Il est toute fois possible d'infuser d'autres types de thé. Le hohin est une pièce très facile d'utilisation. Sa verse est abondante et très rapide. Le grès utilisé pour cette pièce est un grès qui provient de Moutiers, en Bourgogne. Il s'agit d'une argile peu poreuse : 0,2%."
-        },
-        "prix": 98.00,
-        "poids": 0.115,
-        "capacité": 115,
-        "quantité_produite": 1,
-        "photos": [
-            "hohin-68.jpg",
-            "hohin-69.jpg",
-            "hohin-70.jpg",
-            "hohin-71.jpg",
-            "hohin-72.jpg"    
-        ]
-    },
-    {
-        "id": "h53",
-        "titre": {
-            "en": "Glazed hohin",
-            "fr": "Hohin émaillé"
-        },
-        "modification": "2021-12-09",
-        "création": "2021-12-09",
-        "catégorie": "Hohin",
-        "description": {
-            "en": "Unique piece. A traditional Japanese piece for brewing Gyokuro. It is however possible to brew other types of tea. The hohin is very easy to use. It pours abundantly and very quickly. This hohin is glazed on the outside and inside, so it is very versatile.",
-            "fr": "Pièce unique. Une pièce issue de la tradition japonaise et destinée à l'infusion des Gyokuro. Il est toute fois possible d'infuser d'autres types de thé. Le hohin est une pièce très facile d'utilisation. Sa verse est abondante et très rapide. Ce hohin est émaillé à l'extérieur comme à l'intérieur, il est donc tout à fait polyvalent."
-        },
-        "prix": 104.00,
-        "poids": 0.132,
-        "capacité": 130,
-        "quantité_produite": 1,
-        "photos": [
-            "hohin-110.jpg",
-            "hohin-111.jpg",
-            "hohin-112.jpg",
-            "hohin-113.jpg"
-        ]
-    },
-    {
         "id": "h54",
         "titre": {
             "en": "Hohin in raw stoneware",
@@ -1325,31 +946,6 @@
             "hohin-121.jpg",
             "hohin-122.jpg",
             "hohin-123.jpg"    
-        ]
-    },
-    {
-        "id": "h56",
-        "titre": {
-            "en": "Hohin in raw stoneware",
-            "fr": "Hohin en grès brut"
-        },
-        "modification": "2022-03-13",
-        "création": "2022-03-13",
-        "catégorie": "Hohin",
-        "description": {
-            "en": "Unique piece. A traditional Japanese piece for brewing Gyokuro. It is however possible to brew other types of tea. The hohin is very easy to use. It pours abundantly and very quickly. The natural stoneware used for this piece comes from Moutiers, in Burgundy. It is a low porosity clay: 0.2%.",
-            "fr": "Pièce unique. Une pièce issue de la tradition japonaise et destinée à l'infusion des Gyokuro. Il est toute fois possible d'infuser d'autres types de thé. Le hohin est une pièce très facile d'utilisation. Sa verse est abondante et très rapide. Le grès utilisé pour cette pièce est un grès naturel qui provient de Moutiers, en Bourgogne. Il s'agit d'une argile peu poreuse : 0,2%."
-        },
-        "prix": 98.00,
-        "poids": 0.115,
-        "capacité": 110,
-        "quantité_produite": 1,
-        "photos": [
-            "hohin-114.jpg",
-            "hohin-115.jpg",
-            "hohin-116.jpg",
-            "hohin-117.jpg",
-            "hohin-118.jpg"    
         ]
     },
     {
@@ -1449,31 +1045,6 @@
             "hohin-145.jpg",
             "hohin-146.jpg",
             "hohin-147.jpg"    
-        ]
-    },
-    {
-        "id": "h61",
-        "titre": {
-            "en": "Glazed hohin",
-            "fr": "Hohin émaillé"
-        },
-        "modification": "2022-04-26",
-        "création": "2022-04-26",
-        "catégorie": "Hohin",
-        "description": {
-            "en": "Unique piece. A traditional Japanese piece for brewing Gyokuro. It is however possible to brew other types of tea. The hohin is very easy to use. It pours abundantly and very quickly. This hohin is glazed on the outside and inside, so it is very versatile.",
-            "fr": "Pièce unique. Une pièce issue de la tradition japonaise et destinée à l'infusion des Gyokuro. Il est toute fois possible d'infuser d'autres types de thé. Le hohin est une pièce très facile d'utilisation. Sa verse est abondante et très rapide. Ce hohin est émaillé à l'extérieur comme à l'intérieur, il est donc tout à fait polyvalent."
-        },
-        "prix": 104.00,
-        "poids": 0.120,
-        "capacité": 110,
-        "quantité_produite": 1,
-        "photos": [
-            "hohin-148.jpg",
-            "hohin-149.jpg",
-            "hohin-150.jpg",
-            "hohin-151.jpg",
-            "hohin-152.jpg"
         ]
     },
     {
@@ -1599,56 +1170,6 @@
             "hohin-175.jpg",
             "hohin-176.jpg",
             "hohin-177.jpg"
-        ]
-    },
-    {
-        "id": "h67",
-        "titre": {
-            "en": "Hohin in raw stoneware",
-            "fr": "Hohin en grès brut"
-        },
-        "modification": "2022-04-26",
-        "création": "2022-04-26",
-        "catégorie": "Hohin",
-        "description": {
-            "en": "Unique piece. A piece from the Japanese tradition and intended for the infusion of Gyokuro. It is however possible to brew other types of tea. The hohin is a very easy to use piece. Its pouring is abundant and very fast. The stoneware used for this piece is a porcelain stoneware. It is a very hard clay: 0,2%. It is very suitable for Japanese green teas.",
-            "fr": "Pièce unique. Une pièce issue de la tradition japonaise et destinée à l'infusion des Gyokuro. Il est toute fois possible d'infuser d'autres types de thé. Le hohin est une pièce très facile d'utilisation. Sa verse est abondante et très rapide. Le grès utilisé pour cette pièce est un grès porcelainique. Il s'agit d'une argile très dure : 0,2%. Elle convient très bien aux thés verts japonais."
-        },
-        "prix": 98.00,
-        "poids": 0.125,
-        "capacité": 110,
-        "quantité_produite": 1,
-        "photos": [
-            "hohin-178.jpg",
-            "hohin-179.jpg",
-            "hohin-180.jpg",
-            "hohin-181.jpg",
-            "hohin-182.jpg"    
-        ]
-    },
-    {
-        "id": "h68",
-        "titre": {
-            "en": "Glazed hohin",
-            "fr": "Hohin émaillé"
-        },
-        "modification": "2022-04-26",
-        "création": "2022-04-26",
-        "catégorie": "Hohin",
-        "description": {
-            "en": "Unique piece. A traditional Japanese piece for brewing Gyokuro. It is however possible to brew other types of tea. The hohin is very easy to use. It pours abundantly and very quickly. This hohin is glazed on the outside and inside, so it is very versatile.",
-            "fr": "Pièce unique. Une pièce issue de la tradition japonaise et destinée à l'infusion des Gyokuro. Il est toute fois possible d'infuser d'autres types de thé. Le hohin est une pièce très facile d'utilisation. Sa verse est abondante et très rapide. Ce hohin est émaillé à l'extérieur comme à l'intérieur, il est donc tout à fait polyvalent."
-        },
-        "prix": 104.00,
-        "poids": 0.131,
-        "capacité": 120,
-        "quantité_produite": 1,
-        "photos": [
-            "hohin-183.jpg",
-            "hohin-184.jpg",
-            "hohin-185.jpg",
-            "hohin-186.jpg",
-            "hohin-187.jpg"
         ]
     },
     {
@@ -1825,7 +1346,7 @@
         },
         "prix": 24.00,
         "poids": 0.1,
-        "quantité_produite": 4,
+        "quantité_produite": 0,
         "photos": [
             "teabowl-16.jpg",
             "teabowl-17.jpg",
@@ -2016,31 +1537,6 @@
         ]
     },
     {
-        "id": "sdv18",
-        "titre": {
-            "en": "Travel set",
-            "fr": "Set de voyage"
-        },
-        "modification": "2021-12-09",
-        "création": "2021-12-09",
-        "catégorie": "Set de Voyage",
-        "description": {
-            "en": "Unique piece. Travel set for two people. It includes: 1 hohin (simple and functional) and 2 cups. The whole set is connected by an elastic band, making it compact and easy to carry. This set is made of Treigny stoneware, a soft natural clay. This set is not glazed and will weather over time. The protective cover can be purchased separately.",
-            "fr": "Pièce unique. Set de voyage pour deux personnes. Il comprend : 1 hohin (simple et fonctionel) et 2 tasses. Le tout est relié par un élastique permettant d'avoir un produit compact et facile à transporter. Ce set est fabriqué en grès de Treigny, une argile naturelle assez tendre. Ce set n'est pas émaillé et se patinera avec le temps. La housse de protection peut être achetée à part."
-        },
-        "prix": 110.00,
-        "poids": 0.200,
-        "capacité": 115,
-        "quantité_produite": 1,
-        "photos": [
-            "set-de-voyage-16.jpg",
-            "set-de-voyage-17.jpg",
-            "set-de-voyage-18.jpg",
-            "set-de-voyage-19.jpg",
-            "set-de-voyage-20.jpg"
-        ]
-    },
-    {
         "id": "sdv19",
         "titre": {
             "en": "Travel set",
@@ -2063,56 +1559,6 @@
             "set-de-voyage-23.jpg",
             "set-de-voyage-24.jpg",
             "set-de-voyage-25.jpg"
-        ]
-    },
-    {
-        "id": "sdv20",
-        "titre": {
-            "en": "Travel set",
-            "fr": "Set de voyage"
-        },
-        "modification": "2022-04-29",
-        "création": "2022-04-29",
-        "catégorie": "Set de Voyage",
-        "description": {
-            "en": "Unique piece. Travel set for two people, made of porcelain stoneware, which will allow a faithful rendering of the taste of tea. It is a very hard clay (0.2% porosity). This travel set includes: a very functional 'hohin' type infuser, two bowls, a pitcher, a series of cloths that can be used as a saucer and a protective cover.",
-            "fr": "Pièce unique. Set de voyage pour deux personnes, fabriqué en grès porcelainique, qui permettra un rendu fidèle  du goût du thé. Il s'agit d'une argile très dure (0,2 % de porosité). Ce set de voyage comprend : un infuseur très fonctionnel de type 'hohin', deux bols, un pichet, une série de tissus qui peuvent servir de sous tasse et d'une housse de protection."
-        },
-        "prix": 160.00,
-        "poids": 0.564,
-        "capacité": 110,
-        "quantité_produite": 1,
-        "photos": [
-            "set-de-voyage-27.jpg",
-            "set-de-voyage-28.jpg",
-            "set-de-voyage-29.jpg",
-            "set-de-voyage-30.jpg",
-            "set-de-voyage-31.jpg"
-        ]
-    },
-    {
-        "id": "sdv21",
-        "titre": {
-            "en": "Travel set",
-            "fr": "Set de voyage"
-        },
-        "modification": "2022-04-29",
-        "création": "2022-04-29",
-        "catégorie": "Set de Voyage",
-        "description": {
-            "en": "Unique piece. Travel set for two people, made of porcelain stoneware, which will allow a faithful rendering of the taste of tea. It is a very hard clay (0.2% porosity). This travel set includes: a very functional 'hohin' type infuser, two bowls, a pitcher, a series of cloths that can be used as a saucer and a protective cover.",
-            "fr": "Pièce unique. Set de voyage pour deux personnes, fabriqué en grès porcelainique, qui permettra un rendu fidèle  du goût du thé. Il s'agit d'une argile très dure (0,2 % de porosité). Ce set de voyage comprend : un infuseur très fonctionnel de type 'hohin', deux bols, un pichet, une série de tissus qui peuvent servir de sous tasse et d'une housse de protection."
-        },
-        "prix": 160.00,
-        "poids": 0.580,
-        "capacité": 110,
-        "quantité_produite": 1,
-        "photos": [
-            "set-de-voyage-32.jpg",
-            "set-de-voyage-33.jpg",
-            "set-de-voyage-34.jpg",
-            "set-de-voyage-35.jpg",
-            "set-de-voyage-36.jpg"
         ]
     },
     {
@@ -2232,7 +1678,7 @@
                 "largeur": 25,
                 "hauteur": 7.5
                 },
-        "quantité_produite": 1,
+        "quantité_produite": 0,
         "photos": [
             "housse-07.jpg",
             "housse-08.jpg",
@@ -2263,56 +1709,6 @@
         ]
     },
     {
-        "id": "bo11",
-        "titre": {
-            "en": "Kettle in stoneware 29.8oz.",
-            "fr": "Bouilloire en grès 88cl."
-        },
-        "modification": "2020-11-21",
-        "création": "2020-11-23",
-        "catégorie": "Bouilloire",
-        "description": {
-            "en": "Stoneware kettle '120.7' called 'à feu', with a cold-formed iron handle. This handle can be removed and put back on again very easily. Kettle of small capacity, with a bottom of 3.7in (part that rests on the brazier). The pouring is precise and frank. Unique piece. Capacity: about 29.8oz, Weight: 24oz.",
-            "fr": "Bouilloire en grès '120.7' dit 'à feu', avec une anse en fer façonnée à froid. Cette anse peut se retirer et se remettre très facilement. Bouilloire de petite contenance, avec un fond de 9,5 cm (partie qui repose sur le brasero). La verse est précise et franche. Pièce unique. Contenance : environ 880 ml, Poids : 680 gr."
-        },
-        "prix": 148.00,
-        "poids": 0.8,
-        "quantité_produite": 1,
-        "photos": [
-            "bouilloire_11-a.jpg",
-            "bouilloire_11-b.jpg",
-            "bouilloire_11-c.jpg"
-        ]
-    },
-    {
-        "id": "bo13",
-        "titre": {
-            "en": "Kettle in stoneware 28.15 oz.",
-            "fr": "Bouilloire en grès 80 cl."
-        },
-        "modification": "2022-03-23",
-        "création": "2022-03-23",
-        "catégorie": "Bouilloire",
-        "description": {
-            "en": "Stoneware kettle '120.7' called 'à feu', with a cold-formed iron handle. This handle can be removed and put back on again very easily. Kettle with a bottom of 5.12 inches (part that rests on the brazier). The pouring is precise and frank. Unique piece.",
-            "fr": "Bouilloire en grès '120.7' dit 'à feu', avec une anse en fer façonnée à froid. Cette anse peut se retirer et se remettre très facilement. Bouilloire  avec un fond de 13 cm (partie qui repose sur le brasero). La verse est précise et régulière. Pièce unique."
-        },
-        "prix": 148.00,
-        "poids": 0.615,
-        "capacité": 800,
-        "dimension": {
-            "largeur": 15.5,
-            "hauteur": 20.5
-            },
-        "quantité_produite": 1,
-        "photos": [
-            "bouilloire-16.jpg",
-            "bouilloire-17.jpg",
-            "bouilloire-18.jpg",
-            "bouilloire-19.jpg"
-        ]
-    },
-    {
         "id": "bo14",
         "titre": {
             "en": "Kettle in stoneware 34.3oz.",
@@ -2338,33 +1734,6 @@
             "bouilloire-21.jpg",
             "bouilloire-22.jpg",
             "bouilloire-23.jpg"
-        ]
-    },
-    {
-        "id": "bat17",
-        "titre": {
-            "en": "tea boat",
-            "fr": "Bateau à thé"
-        },
-        "modification": "2022-03-13",
-        "création": "2020-11-23",
-        "catégorie": "Bateau à thé",
-        "description": {
-            "en": "Handcrafted tea boat in raw clay, manufactured and decorated by hand. Diameter of the teapot rest: 2.6in.",
-            "fr": "Bateau à thé artisanale en terre brute, fabriqué et décoré à la main. Diamètre du repose théière : 6,5cm."
-        },
-        "prix": 54.00,
-        "poids": 0.282,
-        "dimension": {
-            "largeur": 14.5,
-            "hauteur": 3
-            },
-        "quantité_produite": 1,
-        "photos": [
-            "bateau-a-the-38.jpg",
-            "bateau-a-the-39.jpg",
-            "bateau-a-the-40.jpg",
-            "bateau-a-the-41.jpg"
         ]
     },
     {
@@ -2449,33 +1818,6 @@
         ]
     },
     {
-        "id": "bat26",
-        "titre": {
-            "en": "tea boat",
-            "fr": "Bateau à thé"
-        },
-        "modification": "2022-03-14",
-        "création": "2022-03-14",
-        "catégorie": "Bateau à thé",
-        "description": {
-            "en": "Handcrafted tea boat in raw clay, manufactured and decorated by hand. Diameter of the teapot rest: 2.56 inches.",
-            "fr": "Bateau à thé artisanale en terre brute, fabriqué et décoré à la main. Diamètre du repose théière : 6,5 cm."
-        },
-        "prix": 60.00,
-        "poids": 0.284,
-        "dimension": {
-            "largeur": 14.9,
-            "hauteur": 3
-            },
-        "quantité_produite": 1,
-        "photos": [
-            "bateau-a-the-46.jpg",
-            "bateau-a-the-47.jpg",
-            "bateau-a-the-48.jpg",
-            "bateau-a-the-49.jpg"
-        ]
-    },
-    {
         "id": "bat27",
         "titre": {
             "en": "tea boat",
@@ -2494,35 +1836,12 @@
             "largeur": 15.2,
             "hauteur": 3
             },
-        "quantité_produite": 1,
+        "quantité_produite": 0,
         "photos": [
             "bateau-a-the-50.jpg",
             "bateau-a-the-51.jpg",
             "bateau-a-the-52.jpg",
             "bateau-a-the-53.jpg"
-        ]
-    },
-    {
-        "id": "pp3",
-        "titre": {
-            "en": "small tea pot",
-            "fr": "Petit pot à thé"
-        },
-        "modification": "2020-11-21",
-        "création": "2020-11-23",
-        "catégorie": "Jarre à thé",
-        "description": {
-            "en": "Unique piece. Small tea pot that can hold 0.7oz of tea. This type of pot is usually used when preparing tea for your guests. It avoids the presence of the tea bag which is less aesthetic. In preparation for your tea session, you pour the amount of tea you want to brew into this pot.",
-            "fr": "Pièce unique. Petit pot à thé pouvant contenir 20 gr de thé. En règle général, ce type de pot est utilisé lorsque vous préparez du thé pour vos hôtes. Cela évite la présence du sachet de thé qui est moins esthétique. En prévision de votre session de thé, vous transvasez dans ce pot la quantité du thé que vous souhaitez infuser."
-        },
-        "prix": 50.00,
-        "poids": 0.4,
-        "quantité_produite": 1,
-        "photos": [
-            "pot-a-t_3-a.jpg",
-            "pot-a-t_3-b.jpg",
-            "pot-a-t_3-c.jpg",
-            "pot-a-t_3-d.jpg"
         ]
     },
     {
@@ -2567,28 +1886,6 @@
             "pot-a-t_5-a.jpg",
             "pot-a-t_5-b.jpg",
             "pot-a-t_5-c.jpg"
-        ]
-    },
-    {
-        "id": "j3",
-        "titre": {
-            "en": "Jar for puerh cakes",
-            "fr": "Jarre pour galettes de puerh"
-        },
-        "modification": "2020-11-21",
-        "création": "2020-11-23",
-        "catégorie": "Jarre à thé",
-        "description": {
-            "en": "Unique piece. Jar to store whole puerh cakes. Jar made of Moutiers stoneware, 0.2% porosity. Height : 8.9in. Diameter of the opening : 8.9in. Weight : 176.4oz",
-            "fr": "Pièce unique. Jarre pour stocker des galettes entières de puerh. Jarre fabriquée en grès de Moutiers, 0,2 % de porosité. Hauteur : 22,5 cm. Diamètre de l'ouverture : 22,5 cm. Poids : 5 kg"
-        },
-        "prix": 200.00,
-        "poids": 3.0,
-        "quantité_produite": 1,
-        "photos": [
-            "jarre_3-a.jpg",
-            "jarre_3-b.jpg",
-            "jarre_3-c.jpg"
         ]
     },
     {
@@ -2762,7 +2059,7 @@
             "largeur": 18,
             "hauteur": 15
             },
-        "quantité_produite": 1,
+        "quantité_produite": 0,
         "photos": [
             "brasero-04.jpg",
             "brasero-05.jpg",
