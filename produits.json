@@ -93,30 +93,6 @@
         ]
     },
     {
-        "id": "th82",
-        "titre": {
-            "en": "Small glazed teapot 2.7oz",
-            "fr": "Petite théière émaillée 8cl"
-        },
-        "modification": "2021-03-22",
-        "création": "2021-03-22",
-        "catégorie": "Théière",
-        "description": {
-            "en": "Unique piece. It is a small teapot of 2.7oz glazed inside and outside. It is perfectly versatile.",
-            "fr": "Pièce unique. Il s'agit d'une petite théière de 8cl émaillée à l'intérieur comme à l'extérieur. Elle est parfaitement polyvalente."
-        },
-        "prix": 142.00,
-        "poids": 0.25,
-        "quantité_produite": 1,
-        "photos": [
-            "theiere-26.jpg",
-            "theiere-27.jpg",
-            "theiere-28.jpg",
-            "theiere-29.jpg",
-            "theiere-30.jpg"
-        ]
-    },
-    {
         "id": "th85",
         "titre": {
             "en": "Small glazed teapot 3.oz",
@@ -139,31 +115,6 @@
             "theiere-45.jpg",
             "theiere-46.jpg",
             "theiere-47.jpg"    
-        ]
-    },
-    {
-        "id": "th86",
-        "titre": {
-            "en": "Small glazed teapot 3.7oz",
-            "fr": "Petite théière émaillée 11,5cl"
-        },
-        "modification": "2021-05-25",
-        "création": "2021-05-25",
-        "catégorie": "Théière",
-        "description": {
-            "en": "Unique piece. It is a small teapot of 3.7oz glazed inside and outside. It is perfectly versatile.",
-            "fr": "Pièce unique. Il s'agit d'une petite théière de 11,5cl émaillée à l'intérieur comme à l'extérieur. Elle est parfaitement polyvalente."
-        },
-        "prix": 142.00,
-        "poids": 0.25,
-        "quantité_produite": 1,
-        "photos": [
-            "theiere-48.jpg",
-            "theiere-49.jpg",
-            "theiere-50.jpg",
-            "theiere-51.jpg",
-            "theiere-52.jpg",
-            "theiere-53.jpg"    
         ]
     },
     {
@@ -255,7 +206,7 @@
         "prix": 142.00,
         "poids": 0.133,
         "capacité": 145,
-        "quantité_produite": 1,
+        "quantité_produite": 0,
         "photos": [
             "theiere-158.jpg",
             "theiere-159.jpg",
@@ -798,31 +749,6 @@
         ]
     },
     {
-        "id": "h55",
-        "titre": {
-            "en": "Hohin in raw stoneware",
-            "fr": "Hohin en grès brut"
-        },
-        "modification": "2022-03-13",
-        "création": "2022-03-13",
-        "catégorie": "Hohin",
-        "description": {
-            "en": "Unique piece. A traditional Japanese piece for brewing Gyokuro. It is however possible to brew other types of tea. The hohin is very easy to use. It pours abundantly and very quickly. The natural stoneware used for this piece comes from St Amand, in Burgundy. It is a low porosity clay: 0.8%.",
-            "fr": "Pièce unique. Une pièce issue de la tradition japonaise et destinée à l'infusion des Gyokuro. Il est toute fois possible d'infuser d'autres types de thé. Le hohin est une pièce très facile d'utilisation. Sa verse est abondante et très rapide. Le grès utilisé pour cette pièce est un grès naturel qui provient de St Amand, en Bourgogne. Il s'agit d'une argile peu poreuse : 0,8%."
-        },
-        "prix": 98.00,
-        "poids": 0.130,
-        "capacité": 105,
-        "quantité_produite": 1,
-        "photos": [
-            "hohin-119.jpg",
-            "hohin-120.jpg",
-            "hohin-121.jpg",
-            "hohin-122.jpg",
-            "hohin-123.jpg"    
-        ]
-    },
-    {
         "id": "h57",
         "titre": {
             "en": "Glazed hohin",
@@ -894,31 +820,6 @@
             "hohin-140.jpg",
             "hohin-141.jpg",
             "hohin-142.jpg"
-        ]
-    },
-    {
-        "id": "h60",
-        "titre": {
-            "en": "Hohin in raw stoneware",
-            "fr": "Hohin en grès brut"
-        },
-        "modification": "2022-04-26",
-        "création": "2022-04-26",
-        "catégorie": "Hohin",
-        "description": {
-            "en": "Unique piece. A piece from the Japanese tradition and intended for the infusion of Gyokuro. It is however possible to brew other types of tea. The hohin is a very easy to use piece. Its pouring is abundant and very fast. The stoneware used for this piece is a porcelain stoneware. It is a very hard clay: 0,2%. It is very suitable for Japanese green teas.",
-            "fr": "Pièce unique. Une pièce issue de la tradition japonaise et destinée à l'infusion des Gyokuro. Il est toute fois possible d'infuser d'autres types de thé. Le hohin est une pièce très facile d'utilisation. Sa verse est abondante et très rapide. Le grès utilisé pour cette pièce est un grès porcelainique. Il s'agit d'une argile très dure : 0,2%. Elle convient très bien aux thés verts japonais."
-        },
-        "prix": 98.00,
-        "poids": 0.117,
-        "capacité": 100,
-        "quantité_produite": 1,
-        "photos": [
-            "hohin-143.jpg",
-            "hohin-144.jpg",
-            "hohin-145.jpg",
-            "hohin-146.jpg",
-            "hohin-147.jpg"    
         ]
     },
     {
@@ -1586,33 +1487,6 @@
             "bouilloire-21.jpg",
             "bouilloire-22.jpg",
             "bouilloire-23.jpg"
-        ]
-    },
-    {
-        "id": "bat21",
-        "titre": {
-            "en": "waste water pot 水盂shui yu",
-            "fr": "Pot à eau usée 水盂shui yu"
-        },
-        "modification": "2021-05-29",
-        "création": "2021-05-29",
-        "catégorie": "Bateau à thé",
-        "description": {
-            "en": "Unique piece. Waste water pot, intended to receive the rinsing water of tea. It is placed on your tea table and contributes to the elegance of your practice. As you use it, it will take on the colors of the different teas you drink.",
-            "fr": "Pièce unique. Pot à eau usée, destiné à recevoir les eaux de rinçage du thé. Il se place sur votre table à thé et participe à l'élégance de votre pratique. Au fur et à mesure de son utilisation, il se patinera des couleurs des différents thés que vous boirez."
-        },
-        "prix": 50.00,
-        "poids": 0.4,
-        "dimension": {
-                "largeur": 11,
-                "hauteur": 8.5
-                },
-        "quantité_produite": 1,
-        "photos": [
-            "bateau-a-the-22.jpg",
-            "bateau-a-the-23.jpg",
-            "bateau-a-the-24.jpg",
-            "bateau-a-the-25.jpg"
         ]
     },
     {
