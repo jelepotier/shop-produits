@@ -118,31 +118,6 @@
         ]
     },
     {
-        "id": "th88",
-        "titre": {
-            "en": "Small glazed teapot 3.7oz",
-            "fr": "Petite théière émaillée 11cl"
-        },
-        "modification": "2021-05-25",
-        "création": "2021-05-25",
-        "catégorie": "Théière",
-        "description": {
-            "en": "Unique piece. It is a small teapot of 3.7oz glazed inside and outside. It is perfectly versatile.",
-            "fr": "Pièce unique. Il s'agit d'une petite théière de 11cl émaillée à l'intérieur comme à l'extérieur. Elle est parfaitement polyvalente."
-        },
-        "prix": 142.00,
-        "poids": 0.25,
-        "quantité_produite": 1,
-        "photos": [
-            "theiere-59.jpg",
-            "theiere-60.jpg",
-            "theiere-61.jpg",
-            "theiere-62.jpg",
-            "theiere-63.jpg",
-            "theiere-64.jpg"    
-        ]
-    },
-    {
         "id": "th104",
         "titre": {
             "en": "Small glazed teapot",
@@ -398,29 +373,6 @@
         ]
     },
     {
-        "id": "k36",
-        "titre": {
-            "en": "Glazed kyusu",
-            "fr": "Kyusu émaillé"
-        },
-        "modification": "2021-09-25",
-        "création": "2021-09-25",
-        "catégorie": "Kyusu",
-        "description": {
-            "en": "Unique piece. Glazed Kyusu, for right-hander. This kyusu is glazed inside and outside. Its filter is large enough, with fine holes for brewing Japanese green teas.",
-            "fr": "Pièce unique. Kyusu émaillé, pour droitier. Ce kyusu est émaillé intérieur et extérieur. Son filtre assez large, est composé de trous fins pour permettre l'infusion des thés verts japonais."
-        },
-        "prix": 142.00,
-        "poids": 0.170,
-        "capacité": 110,
-        "quantité_produite": 1,
-        "photos": [
-            "kyusu-83.jpg",
-            "kyusu-84.jpg",
-            "kyusu-85.jpg"
-        ]
-    },
-    {
         "id": "k43",
         "titre": {
             "en": "Glazed kyusu",
@@ -568,33 +520,6 @@
             "shibo_6.jpg",
             "shibo_7.jpg",
             "shibo_8.jpg"
-        ]
-    },
-    {
-        "id": "sh28",
-        "titre": {
-            "en": "Shiboridashi",
-            "fr": "Shiboridashi"
-        },
-        "modification": "2022-04-28",
-        "création": "2022-04-28",
-        "catégorie": "Shiboridashi",
-        "description": {
-            "en": "Unique piece. Unglazed shiboridashi, made with porcelain stoneware (0.2 % porosity). On this shiboridashi, the lid is adjusted.",
-            "fr": "Pièce unique. Shiboridashi non émaillé, fabriqué avec un grès porcelainique (0,2 % de porosité). Sur ce shiboridashi, le couvercle est ajusté."
-        },
-        "prix": 78.00,
-        "poids": 0.110,
-        "dimension": {
-            "largeur": 9.3,
-            "hauteur": 3.3
-            },
-        "capacité": 40,
-        "quantité_produite": 1,
-        "photos": [
-            "shibo-25.jpg",
-            "shibo-26.jpg",
-            "shibo-27.jpg"
         ]
     },
     {
