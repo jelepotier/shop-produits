@@ -93,31 +93,6 @@
         ]
     },
     {
-        "id": "th85",
-        "titre": {
-            "en": "Small glazed teapot 3.oz",
-            "fr": "Petite théière émaillée 9,5cl"
-        },
-        "modification": "2021-05-25",
-        "création": "2021-05-25",
-        "catégorie": "Théière",
-        "description": {
-            "en": "Unique piece. It is a small teapot of 3.oz glazed inside and outside. It is perfectly versatile.",
-            "fr": "Pièce unique. Il s'agit d'une petite théière de 9,5cl émaillée à l'intérieur comme à l'extérieur. Elle est parfaitement polyvalente."
-        },
-        "prix": 142.00,
-        "poids": 0.25,
-        "quantité_produite": 1,
-        "photos": [
-            "theiere-42.jpg",
-            "theiere-43.jpg",
-            "theiere-44.jpg",
-            "theiere-45.jpg",
-            "theiere-46.jpg",
-            "theiere-47.jpg"    
-        ]
-    },
-    {
         "id": "th104",
         "titre": {
             "en": "Small glazed teapot",
@@ -674,31 +649,6 @@
         ]
     },
     {
-        "id": "h57",
-        "titre": {
-            "en": "Glazed hohin",
-            "fr": "Hohin émaillé"
-        },
-        "modification": "2022-04-26",
-        "création": "2022-04-26",
-        "catégorie": "Hohin",
-        "description": {
-            "en": "Unique piece. A traditional Japanese piece for brewing Gyokuro. It is however possible to brew other types of tea. The hohin is very easy to use. It pours abundantly and very quickly. This hohin is glazed on the outside and inside, so it is very versatile.",
-            "fr": "Pièce unique. Une pièce issue de la tradition japonaise et destinée à l'infusion des Gyokuro. Il est toute fois possible d'infuser d'autres types de thé. Le hohin est une pièce très facile d'utilisation. Sa verse est abondante et très rapide. Ce hohin est émaillé à l'extérieur comme à l'intérieur, il est donc tout à fait polyvalent."
-        },
-        "prix": 104.00,
-        "poids": 0.150,
-        "capacité": 130,
-        "quantité_produite": 1,
-        "photos": [
-            "hohin-129.jpg",
-            "hohin-130.jpg",
-            "hohin-131.jpg",
-            "hohin-132.jpg",
-            "hohin-133.jpg"
-        ]
-    },
-    {
         "id": "h58",
         "titre": {
             "en": "Glazed hohin",
@@ -1024,7 +974,7 @@
         },
         "prix": 22.00,
         "poids": 0.1,
-        "quantité_produite": 12,
+        "quantité_produite": 6,
         "photos": [
             "teabowl-13.jpg",
             "teabowl-14.jpg",
