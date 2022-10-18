@@ -1580,7 +1580,7 @@
         },
         "prix": 115.00,
         "poids": 0.500,
-        "quantité_produite": 40,
+        "quantité_produite": 0,
         "photos": [
             "offre_gongfu-1.jpg",
             "offre_gongfu-2.jpg",
