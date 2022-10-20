@@ -1,27 +1,4 @@
 [{
-        "id": "ga21",
-        "titre": {
-            "en": "Gaiwan 3.4oz",
-            "fr": "Gaiwan 10cl"
-        },
-        "modification": "2020-11-21",
-        "création": "2020-11-13",
-        "catégorie": "Gaiwan",
-        "description": {
-            "en": "This 3.4oz gaiwan is glazed with an ash-based enamel, which gives it this rather lively aspect.",
-            "fr": "Ce gaïwan de 10cl est recouvert d'un émail à base de cendre, ce qui lui donne cette aspect assez vivant."
-        },
-        "prix": 58.00,
-        "poids": 0.3,
-        "quantité_produite": 1,
-        "photos": [
-            "gaiwan_21-a.jpg",
-            "gaiwan_21-b.jpg",
-            "gaiwan_21-c.jpg",
-            "gaiwan_21-d.jpg"
-        ]
-    },
-    {
         "id": "ga25",
         "titre": {
             "en": "Gaiwan 3.4oz",
@@ -880,7 +857,7 @@
         },
         "prix": 24.00,
         "poids": 0.1,
-        "quantité_produite": 1,
+        "quantité_produite": 2,
         "photos": [
             "teabowl-04.jpg",
             "teabowl-05.jpg",
@@ -902,7 +879,7 @@
         },
         "prix": 22.00,
         "poids": 0.1,
-        "quantité_produite": 12,
+        "quantité_produite": 1,
         "photos": [
             "teabowl-07.jpg",
             "teabowl-08.jpg",
@@ -968,7 +945,7 @@
         },
         "prix": 24.00,
         "poids": 0.1,
-        "quantité_produite": 0,
+        "quantité_produite": 1,
         "photos": [
             "teabowl-16.jpg",
             "teabowl-17.jpg",
