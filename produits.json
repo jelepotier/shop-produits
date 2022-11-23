@@ -351,30 +351,6 @@
         ]
     },
     {
-        "id": "k46",
-        "titre": {
-            "en": "Glazed kyusu",
-            "fr": "Kyusu émaillé"
-        },
-        "modification": "2022-03-15",
-        "création": "2022-03-15",
-        "catégorie": "Kyusu",
-        "description": {
-            "en": "Unique piece. Glazed Kyusu, for right-hander. This kyusu is glazed inside and outside. Its filter is large enough, with fine holes for brewing Japanese green teas.",
-            "fr": "Pièce unique. Kyusu émaillé, pour droitier. Ce kyusu est émaillé intérieur et extérieur. Son filtre assez large, est composé de trous fins pour permettre l'infusion des thés verts japonais."
-        },
-        "prix": 146.00,
-        "poids": 0.152,
-        "capacité": 120,
-        "quantité_produite": 1,
-        "photos": [
-            "kyusu-131.jpg",
-            "kyusu-132.jpg",
-            "kyusu-133.jpg",
-            "kyusu-134.jpg"  
-        ]
-    },
-    {
         "id": "k47",
         "titre": {
             "en": "Glazed kyusu",
@@ -600,31 +576,6 @@
             "hohin-165.jpg",
             "hohin-166.jpg",
             "hohin-167.jpg"    
-        ]
-    },
-    {
-        "id": "h65",
-        "titre": {
-            "en": "Glazed hohin",
-            "fr": "Hohin émaillé"
-        },
-        "modification": "2022-04-26",
-        "création": "2022-04-26",
-        "catégorie": "Hohin",
-        "description": {
-            "en": "Unique piece. A traditional Japanese piece for brewing Gyokuro. It is however possible to brew other types of tea. The hohin is very easy to use. It pours abundantly and very quickly. This hohin is glazed on the outside and inside, so it is very versatile.",
-            "fr": "Pièce unique. Une pièce issue de la tradition japonaise et destinée à l'infusion des Gyokuro. Il est toute fois possible d'infuser d'autres types de thé. Le hohin est une pièce très facile d'utilisation. Sa verse est abondante et très rapide. Ce hohin est émaillé à l'extérieur comme à l'intérieur, il est donc tout à fait polyvalent."
-        },
-        "prix": 104.00,
-        "poids": 0.126,
-        "capacité": 95,
-        "quantité_produite": 1,
-        "photos": [
-            "hohin-168.jpg",
-            "hohin-169.jpg",
-            "hohin-170.jpg",
-            "hohin-171.jpg",
-            "hohin-172.jpg"
         ]
     },
     {
