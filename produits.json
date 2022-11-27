@@ -530,30 +530,6 @@
         ]
     },
     {
-        "id": "h59",
-        "titre": {
-            "en": "Glazed hohin",
-            "fr": "Hohin émaillé"
-        },
-        "modification": "2022-04-26",
-        "création": "2022-04-26",
-        "catégorie": "Hohin",
-        "description": {
-            "en": "Unique piece. A traditional Japanese piece for brewing Gyokuro. It is however possible to brew other types of tea. The hohin is very easy to use. It pours abundantly and very quickly. This hohin is glazed on the outside and inside, so it is very versatile.",
-            "fr": "Pièce unique. Une pièce issue de la tradition japonaise et destinée à l'infusion des Gyokuro. Il est toute fois possible d'infuser d'autres types de thé. Le hohin est une pièce très facile d'utilisation. Sa verse est abondante et très rapide. Ce hohin est émaillé à l'extérieur comme à l'intérieur, il est donc tout à fait polyvalent."
-        },
-        "prix": 104.00,
-        "poids": 0.130,
-        "capacité": 115,
-        "quantité_produite": 1,
-        "photos": [
-            "hohin-139.jpg",
-            "hohin-140.jpg",
-            "hohin-141.jpg",
-            "hohin-142.jpg"
-        ]
-    },
-    {
         "id": "h64",
         "titre": {
             "en": "Hohin in raw stoneware",
