@@ -888,7 +888,7 @@
         },
         "prix": 30.00,
         "poids": 0.25,
-        "quantité_produite": 1,
+        "quantité_produite": 0,
         "photos": [
             "verseuse-33.jpg",
             "verseuse-34.jpg",
