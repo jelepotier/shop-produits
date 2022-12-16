@@ -922,31 +922,6 @@
         ]
     },
     {
-        "id": "sdv19",
-        "titre": {
-            "en": "Travel set",
-            "fr": "Set de voyage"
-        },
-        "modification": "2021-12-09",
-        "création": "2021-12-09",
-        "catégorie": "Set de Voyage",
-        "description": {
-            "en": "Unique piece. Travel set for two people. It includes: 1 hohin (simple and functional) and 2 cups. The whole set is connected by an elastic band, making it compact and easy to carry. This set is made of Treigny stoneware, a soft natural clay. This set is not glazed and will weather over time. The protective cover can be purchased separately.",
-            "fr": "Pièce unique. Set de voyage pour deux personnes. Il comprend : 1 hohin (simple et fonctionel) et 2 tasses. Le tout est relié par un élastique permettant d'avoir un produit compact et facile à transporter. Ce set est fabriqué en grès de Treigny, une argile naturelle assez tendre. Ce set n'est pas émaillé et se patinera avec le temps. La housse de protection peut être achetée à part."
-        },
-        "prix": 110.00,
-        "poids": 0.195,
-        "capacité": 100,
-        "quantité_produite": 1,
-        "photos": [
-            "set-de-voyage-21.jpg",
-            "set-de-voyage-22.jpg",
-            "set-de-voyage-23.jpg",
-            "set-de-voyage-24.jpg",
-            "set-de-voyage-25.jpg"
-        ]
-    },
-    {
         "id": "sdv23",
         "titre": {
             "en": "Travel set",
@@ -993,32 +968,6 @@
             "housse-01.jpg",
             "housse-02.jpg",
             "housse-03.jpg"
-        ]
-    },
-    {
-        "id": "housse2",
-        "titre": {
-            "en": "Protective cover",
-            "fr": "Housse de protection"
-        },
-        "modification": "2021-12-09",
-        "création": "2021-12-09",
-        "catégorie": "Set de Voyage",
-        "description": {
-            "en": "Protective cover divided into two parts, to transport your tea utensils safely. This cover is hand sewn in France. It includes: 1 padded protective cover divided into two parts, 4 pieces of fabric that can be used as a tablecloth and cup holder. The fabrics are chosen according to their quality and their significance in Japanese culture.",
-            "fr": "Housse de protection compartimentée en deux parties, pour transporter vos ustensiles à thé en toute sécurité. Cette housse est cousue à la main en France. Elle comprend : 1 housse de protection rembourrée et compartimentée en deux parties, 4 morceaux de tissus pouvant servir de nappe et de repose tasse. Les tissus sont choisis en fonction de leur qualité et de leur signification dans la culture japonaise."
-        },
-        "prix": 50.00,
-        "poids": 0.225,
-        "dimension": {
-                "largeur": 25,
-                "hauteur": 7.5
-                },
-        "quantité_produite": 1,
-        "photos": [
-            "housse-04.jpg",
-            "housse-05.jpg",
-            "housse-06.jpg"
         ]
     },
     {
