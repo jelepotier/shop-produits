@@ -548,28 +548,6 @@
         ]
     },
     {
-        "id": "bt15",
-        "titre": {
-            "en": "tea bowl 1.7oz",
-            "fr": "Bol à thé 5cl"
-        },
-        "modification": "2021-03-22",
-        "création": "2021-03-22",
-        "catégorie": "Bol à thé",
-        "description": {
-            "en": "Glazed tea bowl. Weight 2.3oz, capacity 1.7.oz.",
-            "fr": "Bol à thé émaillé. Poids 65gr, contenance 5cl."
-        },
-        "prix": 14.00,
-        "poids": 0.1,
-        "quantité_produite": 12,
-        "photos": [
-            "teabowl-19.jpg",
-            "teabowl-20.jpg",
-            "teabowl-21.jpg"
-        ]
-    },
-    {
         "id": "bt18",
         "titre": {
             "en": "tea bowl",
