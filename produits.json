@@ -968,5 +968,30 @@
             "brasero-05.jpg",
             "brasero-06.jpg"
         ]
+    },
+ {
+        "id": "pb1",
+        "titre": {
+            "en": "Poke-bowl",
+            "fr": "Poke-bowl"
+        },
+        "modification": "2023-02-13",
+        "création": "2023-02-13",
+        "catégorie": "pokebowl",
+        "description": {
+            "en": "Unique piece. Brazier designed to hold a clay or cast iron kettle. It is made of two parts; one part to put the coals and another to receive the ashes. This brazier is made with a very resistant clay. The raised foot allows the brazier to be placed directly on the tea table. Diameter to accommodate the kettle: 5.32 Inches.",
+            "fr": "Pièce unique. Brasero destiné à accueillir une bouilloire en argile ou en fonte. Il est constitué de deux pièces ; une partie pour disposer les charbons  et une autre pour recevoir les cendres. Ce brasero est fabriqué avec une argile très résistante. Le pied surélevé permet de poser le braséro directement sur la table à thé. Diamètre pour accueillir la bouilloire : 13,5cm."
+        },
+        "prix": 20,
+        "poids": 0.440,
+        "dimension": {
+            "largeur": 17.5,
+            "hauteur": 6
+            },
+        "quantité_produite": 50,
+        "photos": [
+            "pokebowl1.jpg",
+            "pokebowl2.jpg"
+        ]
     }
 ]
