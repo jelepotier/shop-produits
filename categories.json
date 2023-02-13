@@ -128,5 +128,15 @@
             "fr": "Une offre spécifique pour découvrir ou approfondir le service du thé (gongfucha). Cette offre comprend : 1 gaïwan de 10 cl - 2 bols à thé de 4 cl chacun - 1 pichet de 15 cl. Tous ces ustensiles sont émaillés. Pour les fabriquer, j'ai utiliser un grès porcelainique très dur (0,1% de porosité)",
             "en": "A specific offer to discover or deepen the way of tea (gongfucha). This offer includes: One 3.5 oz gaiwan - Two 1.4 oz tea bowls - One 5.3 oz pitcher. All these utensils are glazed. To make them, I used a very hard porcelain stoneware (0.1% porosity)"
         }
+    },
+     "Pokebowl": {
+        "titre": {
+            "fr": "Poke-bowl",
+            "en": "Poke-bowl"
+        },
+        "description": {
+            "fr": "Ce poke-bowl est ma dernière pièce en tant que céramiste. En effet, grâce à la vente de ce poke-bowl, je vais financer une partie de mon nouveau projet. En achetant cette pièce, en plus d'obtenir un contenant mettra bien en valeur vos petits plats, vous faite une bonne action ! Merci pour votre soutien.",
+            "en": "This poke-bowl is my last piece as a ceramist. Indeed, thanks to the sale of this poke-bowl, I will finance part of my new project. By buying this piece, in addition to getting a container that will enhance your dishes, you are doing a good deed! Thank you for your support."
+        }
     }
 }
