@@ -23,53 +23,6 @@
         ]
     },
     {
-        "id": "th73",
-        "titre": {
-            "en": "Small glazed teapot 2,5oz",
-            "fr": "Petite théière émaillée 7,5cl"
-        },
-        "modification": "2020-11-21",
-        "création": "2020-11-13",
-        "catégorie": "Théière",
-        "description": {
-            "en": "Unique piece. It is a small teapot of 2.7oz, glazed inside and outside. It is perfectly versatile.",
-            "fr": "Pièce unique. Il s'agit d'une petite théière de 7,5cl émaillée à l'intérieur comme à l'extérieur. Elle est parfaitement polyvalente."
-        },
-        "prix": 142.00,
-        "poids": 0.4,
-        "quantité_produite": 1,
-        "photos": [
-            "theiere_73-a.jpg",
-            "theiere_73-b.jpg",
-            "theiere_73-c.jpg",
-            "theiere_73-d.jpg"
-        ]
-    },
-    {
-        "id": "th104",
-        "titre": {
-            "en": "Small glazed teapot",
-            "fr": "Petite théière émaillée"
-        },
-        "modification": "2022-04-30",
-        "création": "2022-04-30",
-        "catégorie": "Théière",
-        "description": {
-            "en": "Unique piece. It is a small teapot, glazed inside and outside. It is perfectly versatile.",
-            "fr": "Pièce unique. Il s'agit d'une petite théière émaillée à l'intérieur comme à l'extérieur. Elle est parfaitement polyvalente."
-        },
-        "prix": 142.00,
-        "poids": 0.106,
-        "capacité": 100,
-        "quantité_produite": 1,
-        "photos": [
-            "theiere-147.jpg",
-            "theiere-148.jpg",
-            "theiere-149.jpg",
-            "theiere-150.jpg"   
-        ]
-    },
-    {
         "id": "th107",
         "titre": {
             "en": "Small glazed teapot",
@@ -315,56 +268,6 @@
         ]
     },
     {
-        "id": "h64",
-        "titre": {
-            "en": "Hohin in raw stoneware",
-            "fr": "Hohin en grès brut"
-        },
-        "modification": "2022-04-26",
-        "création": "2022-04-26",
-        "catégorie": "Hohin",
-        "description": {
-            "en": "Unique piece. A piece from the Japanese tradition and intended for the infusion of Gyokuro. It is however possible to brew other types of tea. The hohin is a very easy to use piece. Its pouring is abundant and very fast. The stoneware used for this piece is a porcelain stoneware. It is a very hard clay: 0,2%. It is very suitable for Japanese green teas.",
-            "fr": "Pièce unique. Une pièce issue de la tradition japonaise et destinée à l'infusion des Gyokuro. Il est toute fois possible d'infuser d'autres types de thé. Le hohin est une pièce très facile d'utilisation. Sa verse est abondante et très rapide. Le grès utilisé pour cette pièce est un grès porcelainique. Il s'agit d'une argile très dure : 0,2%. Elle convient très bien aux thés verts japonais."
-        },
-        "prix": 98.00,
-        "poids": 0.125,
-        "capacité": 100,
-        "quantité_produite": 1,
-        "photos": [
-            "hohin-163.jpg",
-            "hohin-164.jpg",
-            "hohin-165.jpg",
-            "hohin-166.jpg",
-            "hohin-167.jpg"    
-        ]
-    },
-    {
-        "id": "h66",
-        "titre": {
-            "en": "Glazed hohin",
-            "fr": "Hohin émaillé"
-        },
-        "modification": "2022-04-26",
-        "création": "2022-04-26",
-        "catégorie": "Hohin",
-        "description": {
-            "en": "Unique piece. A traditional Japanese piece for brewing Gyokuro. It is however possible to brew other types of tea. The hohin is very easy to use. It pours abundantly and very quickly. This hohin is glazed on the outside and inside, so it is very versatile.",
-            "fr": "Pièce unique. Une pièce issue de la tradition japonaise et destinée à l'infusion des Gyokuro. Il est toute fois possible d'infuser d'autres types de thé. Le hohin est une pièce très facile d'utilisation. Sa verse est abondante et très rapide. Ce hohin est émaillé à l'extérieur comme à l'intérieur, il est donc tout à fait polyvalent."
-        },
-        "prix": 104.00,
-        "poids": 0.141,
-        "capacité": 120,
-        "quantité_produite": 1,
-        "photos": [
-            "hohin-173.jpg",
-            "hohin-174.jpg",
-            "hohin-175.jpg",
-            "hohin-176.jpg",
-            "hohin-177.jpg"
-        ]
-    },
-    {
         "id": "h69",
         "titre": {
             "en": "Hohin in raw stoneware",
@@ -380,123 +283,13 @@
         "prix": 98.00,
         "poids": 0.115,
         "capacité": 100,
-        "quantité_produite": 1,
+        "quantité_produite": 0,
         "photos": [
             "hohin-188.jpg",
             "hohin-189.jpg",
             "hohin-190.jpg",
             "hohin-191.jpg",
             "hohin-192.jpg"    
-        ]
-    },
-    {
-        "id": "bt9",
-        "titre": {
-            "en": "tea bowl 1.7oz",
-            "fr": "Bol à thé 5cl"
-        },
-        "modification": "2021-03-22",
-        "création": "2021-03-22",
-        "catégorie": "Bol à thé",
-        "description": {
-            "en": "Glazed tea bowl. Weight 2.3oz, capacity 1.7.oz.",
-            "fr": "Bol à thé émaillé. Poids 65gr, contenance 5cl."
-        },
-        "prix": 22.00,
-        "poids": 0.1,
-        "quantité_produite": 9,
-        "photos": [
-            "teabowl-01.jpg",
-            "teabowl-02.jpg",
-            "teabowl-03.jpg"
-        ]
-    },
-    {
-        "id": "bt10",
-        "titre": {
-            "en": "tea bowl 2.7oz",
-            "fr": "Bol à thé 8cl"
-        },
-        "modification": "2021-03-22",
-        "création": "2021-03-22",
-        "catégorie": "Bol à thé",
-        "description": {
-            "en": "Glazed tea bowl. Weight 3.2oz, capacity 2.7.oz.",
-            "fr": "Bol à thé émaillé. Poids 90gr, contenance 8cl."
-        },
-        "prix": 24.00,
-        "poids": 0.1,
-        "quantité_produite": 2,
-        "photos": [
-            "teabowl-04.jpg",
-            "teabowl-05.jpg",
-            "teabowl-06.jpg"
-        ]
-    },
-    {
-        "id": "bt12",
-        "titre": {
-            "en": "tea bowl 2.7oz",
-            "fr": "Bol à thé 8cl"
-        },
-        "modification": "2021-03-22",
-        "création": "2021-03-22",
-        "catégorie": "Bol à thé",
-        "description": {
-            "en": "Glazed tea bowl. Weight 3.2oz, capacity 2.7.oz.",
-            "fr": "Bol à thé émaillé. Poids 90gr, contenance 8cl."
-        },
-        "prix": 24.00,
-        "poids": 0.1,
-        "quantité_produite": 2,
-        "photos": [
-            "teabowl-10.jpg",
-            "teabowl-11.jpg",
-            "teabowl-12.jpg"
-        ]
-    },
-    {
-        "id": "bt13",
-        "titre": {
-            "en": "tea bowl 1.7oz",
-            "fr": "Bol à thé 5cl"
-        },
-        "modification": "2021-03-22",
-        "création": "2021-03-22",
-        "catégorie": "Bol à thé",
-        "description": {
-            "en": "Glazed tea bowl. Weight 2.3oz, capacity 1.7.oz.",
-            "fr": "Bol à thé émaillé. Poids 65gr, contenance 5cl."
-        },
-        "prix": 22.00,
-        "poids": 0.1,
-        "quantité_produite": 6,
-        "photos": [
-            "teabowl-13.jpg",
-            "teabowl-14.jpg",
-            "teabowl-15.jpg"
-        ]
-    },
-    {
-        "id": "bt14",
-        "titre": {
-            "en": "tea bowl 2.7oz",
-            "fr": "Bol à thé 8cl"
-        },
-        "modification": "2021-03-22",
-        "création": "2021-03-22",
-        "catégorie": "Bol à thé",
-        "description": {
-            "en": "Glazed tea bowl. Weight 3.2oz, capacity 2.7.oz.",
-            "fr": "Bol à thé émaillé. Poids 90gr, contenance 8cl."
-        },
-        "prix": 24.00,
-        "poids": 0.1,
-        "quantité_produite": 0,
-        "photos": [
-            "teabowl-16.jpg",
-            "teabowl-17.jpg",
-            "teabowl-18.jpg"
         ]
     },
     {
@@ -515,34 +308,11 @@
         "prix": 30.00,
         "poids": 0.118,
         "capacité": 100,
-        "quantité_produite": 15,
+        "quantité_produite": 0,
         "photos": [
             "teabowl-28.jpg",
             "teabowl-29.jpg",
             "teabowl-30.jpg"
-        ]
-    },
-    {
-        "id": "v9",
-        "titre": {
-            "en": "Pourer 4.7.oz",
-            "fr": "Verseuse 14cl"
-        },
-        "modification": "2021-03-22",
-        "création": "2021-03-22",
-        "catégorie": "Verseuse",
-        "description": {
-            "en": "Glazed pourer of 4.7.oz",
-            "fr": "Verseuse de 14cl émaillée."
-        },
-        "prix": 30.00,
-        "poids": 0.25,
-        "quantité_produite": 1,
-        "photos": [
-            "verseuse-29.jpg",
-            "verseuse-30.jpg",
-            "verseuse-31.jpg",
-            "verseuse-32.jpg"
         ]
     },
     {
