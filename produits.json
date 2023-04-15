@@ -668,15 +668,15 @@
  {
         "id": "pb1",
         "titre": {
-            "en": "Poke-bowl",
-            "fr": "Poke-bowl"
+            "en": "Bowl",
+            "fr": "Bol"
         },
         "modification": "2023-02-13",
         "création": "2023-02-13",
-        "catégorie": "Pokebowl",
+        "catégorie": "Bowl",
         "description": {
-            "en": "The poke-bowl is a container that traditionally enhances and serves a complete meal. The meal often consists of grains, legumes, raw and cooked vegetables, and seeds. It is a simple utensil, both in form and function.",
-            "fr": "Le poke-bowl est un récipient qui traditionnellement, permet de mettre en valeur et servir un repas complet. Ce dernier est souvent composé de céréales, légumineuses, légumes crus et cuits, ainsi que des graines. Il s'agit d'un ustensile simple, tant par sa forme que par sa fonction."
+            "en": "This bowl is a container that traditionally enhances and serves a complete meal. The meal often consists of grains, legumes, raw and cooked vegetables, and seeds. It is a simple utensil, both in form and function.",
+            "fr": "Ce bol est un récipient qui traditionnellement, permet de mettre en valeur et servir un repas complet. Ce dernier est souvent composé de céréales, légumineuses, légumes crus et cuits, ainsi que des graines. Il s'agit d'un ustensile simple, tant par sa forme que par sa fonction."
         },
         "prix": 20,
         "poids": 0.440,
